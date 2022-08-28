@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TODO.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "99ae24d763547523",
   "lastOpenFiles": [
-    "README.md",
     "TODO.md",
+    "README.md",
     "_projects/otis/README.md",
     "_leetcode/3-longest-substring-without-repeating-characters.md",
     "_leetcode/1-two-sum.md",
