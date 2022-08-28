@@ -1,0 +1,3 @@
+```bash
+nvm use --lts
+```

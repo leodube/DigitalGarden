@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "2485dcae2133223f",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ae24d763547523",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7707f9870a0a5c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2abe49d0f31c2c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d3e8ced5449d13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ec7cb7365c2a80e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "right": {
+    "id": "9322e8584810bfe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f6f86e525f5bb02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b477d658a2c8bd1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99ae24d763547523",
+  "lastOpenFiles": [
+    "README.md",
+    "TODO.md",
+    "_projects/otis/README.md",
+    "_leetcode/3-longest-substring-without-repeating-characters.md",
+    "_leetcode/1-two-sum.md",
+    "_leetcode/2-add-two-numbers.md",
+    "_data-structures/linked-list.md",
+    "_data-structures/hashing.md",
+    "jsdoc/useful-block-tags.md",
+    "jsdoc/common-use-cases/file-header-tags.md"
+  ]
+}
