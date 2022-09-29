@@ -1,4 +1,6 @@
 # #13. Roman to Integer
+#lc/easy #lc/success
+
 ## Question
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
@@ -51,7 +53,6 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ---
 ## Solution
 ### Initial Solution
-
 ```typescript
 function romanToInt(s: string): number {
     const nums = {
@@ -89,14 +90,16 @@ function romanToInt(s: string): number {
 ```
 
 ###### Analysis
-- Runtime: 248 ms, faster than 30.67% of TypeScript online submissions for Roman to Integer.
-- Memory Usage: 50.1 MB, less than 17.19% of TypeScript online submissions for Roman to Integer.
+>[!success]
+> - Runtime: 248 ms, faster than 30.67% of TypeScript online submissions for Roman to Integer.
+> - Memory Usage: 50.1 MB, less than 17.19% of TypeScript online submissions for Roman to Integer.
 
 ### LeetCode Solution
-===Premium required===
+>[!Note]
+>Premium required
 
 ### User Solution
-Removes requirement of two hashmaps. Does require a better understanding of roman numerals. Since it is guaranteed to be a valid numeral, if the symbol `s[i]` is smaller than `s[i+1]`, it must be used in the subtraction case.
+Removes requirement of two [[hashing|hashmaps]]. Does require a better understanding of roman numerals. Since it is guaranteed to be a valid numeral, if the symbol `s[i]` is smaller than `s[i+1]`, it must be used in the subtraction case.
 
 ```typescript
 let symbols = {

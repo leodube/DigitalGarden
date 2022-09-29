@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_leetcode/21-merge-two-sorted-lists.md",
+            "file": "_leetcode/27-remove-element.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#lc/todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_leetcode/21-merge-two-sorted-lists.md",
+                "file": "_leetcode/27-remove-element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,25 +79,74 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "133ecc44307fcc0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_leetcode/27-remove-element.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "462f16ff12e652d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_leetcode/27-remove-element.md"
+              }
+            }
+          },
+          {
+            "id": "1a9e009e56d52df9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e72940d6df55919",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "17110af59be34d98",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "99ae24d763547523",
   "lastOpenFiles": [
-    "_leetcode/0-template.md",
-    "_leetcode/21-merge-two-sorted-lists.md",
-    "_leetcode/13-roman-to-integer.md",
-    "_leetcode/20-valid-parenthesis.md",
-    "_leetcode/14-longest-common-prefix.md",
+    "_leetcode/26-remove-duplicates-from-sorted-array.md",
+    "_leetcode/27-remove-element.md",
+    "_leetcode/README.md",
+    "Untitled.md",
     "_leetcode/8-string-to-integer-(atoi).md",
-    "_leetcode/10-regular-expression-matching.md",
-    "_leetcode/3-longest-substring-without-repeating-characters.md",
+    "_leetcode/21-merge-two-sorted-lists.md",
     "_leetcode/4-median-of-two-sorted-arrays.md",
-    "_leetcode/6-zigzag-conversion.md"
+    "_leetcode/3-longest-substring-without-repeating-characters.md",
+    "_leetcode/2-add-two-numbers.md",
+    "_cracking_the_coding_interview/README.md"
   ]
 }

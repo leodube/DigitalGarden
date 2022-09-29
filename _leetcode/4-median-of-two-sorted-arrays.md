@@ -1,4 +1,6 @@
 # 4. Median of Two Sorted Arrays
+#lc/hard #lc/success #lc/todo
+
 ## Question
 Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return **the median** of the two sorted arrays.
 
@@ -72,7 +74,13 @@ function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
 ```
 
 ###### Analysis
-- Runtime: 182 ms, faster than 49.81% of TypeScript online submissions for Median of Two Sorted Arrays.
-- Memory Usage: 48.2 MB, less than 67.01% of TypeScript online submissions for Median of Two Sorted Arrays.
+> [!success]
+> - Runtime: 182 ms, faster than 49.81% of TypeScript online submissions for Median of Two Sorted Arrays.
+> - Memory Usage: 48.2 MB, less than 67.01% of TypeScript online submissions for Median of Two Sorted Arrays.
 
-### No LeetCode solution
+### LeetCode Solution
+>[!Note]
+>Premium required
+
+### User Solution
+#lc/todo 

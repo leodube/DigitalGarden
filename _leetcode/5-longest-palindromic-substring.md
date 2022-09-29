@@ -1,4 +1,6 @@
 # #5. Longest Palindromic Substring
+#lc/medium #lc/success
+
 ## Question
 Given a string `s`, return _the longest palindromic substring_ in `s`.
 
@@ -64,8 +66,9 @@ function isPalindrome(s: string): boolean {
 ```
 
 ###### Analysis
-- Runtime: 836 ms, faster than 28.24% of TypeScript online submissions for Longest Palindromic Substring.
-- Memory Usage: 49.2 MB, less than 44.83% of TypeScript online submissions for Longest Palindromic Substring.
+>[!success]
+> - Runtime: 836 ms, faster than 28.24% of TypeScript online submissions for Longest Palindromic Substring.
+> - Memory Usage: 49.2 MB, less than 44.83% of TypeScript online submissions for Longest Palindromic Substring.
 
 ### Leetcode Solution 4: Expand Around Center 
 In fact, we could solve it in $O(n^2)$ time using only constant space.

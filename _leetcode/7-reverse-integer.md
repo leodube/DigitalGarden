@@ -1,4 +1,6 @@
 # #7.  Reverse Integer
+#lc/medium #lc/success #lc/warning
+
 ## Problem
 Given a signed 32-bit integer `x`, return `x` _with its digits reversed_. If reversing `x` causes the value to go outside the signed 32-bit integer range `[-231, 231 - 1]`, then return `0`.
 
@@ -45,10 +47,12 @@ function reverse(x: number): number {
 ```
 
 ###### Analysis
-- Runtime: 125 ms, faster than 43.69% of TypeScript online submissions for Reverse Integer.
-- Memory Usage: 45.3 MB, less than 19.12% of TypeScript online submissions for Reverse Integer.
+>[!success]
+> - Runtime: 125 ms, faster than 43.69% of TypeScript online submissions for Reverse Integer.
+> - Memory Usage: 45.3 MB, less than 19.12% of TypeScript online submissions for Reverse Integer.
 
-I missed the point of this exercise a bit by allowing the environment to store 64-bit integers.
+>[!warning]
+> I missed the point of this exercise a bit by allowing the environment to store 64-bit integers.
 
 ### Leetcode Solution 1: [[stack|Pop and Push]] Digits & Check before Overflow
 

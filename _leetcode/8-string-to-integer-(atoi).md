@@ -1,4 +1,6 @@
 # #8. String to Integer (atoi)
+#lc/medium #lc/success #lc/warning #lc/todo
+
 ## Question
 Implement the `myAtoi(string s)` function, which converts a string to a 32-bit signed integer (similar to C/C++'s `atoi` function).
 
@@ -22,7 +24,6 @@ Output: 42
 ```
 
 ###### Example 2:
-
 ```
 Input: s = "   -42"
 Output: -42
@@ -78,6 +79,16 @@ function myAtoi(s: string): number {
 ```
 
 ###### Analysis
-- Runtime: 139 ms, faster than 36.04% of TypeScript online submissions for String to Integer (atoi).
-- Memory Usage: 46.3 MB, less than 24.72% of TypeScript online submissions for String to Integer (atoi)
+>[!success]
+> - Runtime: 139 ms, faster than 36.04% of TypeScript online submissions for String to Integer (atoi).
+> - Memory Usage: 46.3 MB, less than 24.72% of TypeScript online submissions for String to Integer (atoi)
+
+>[!warning]
 Not pretty but it works
+
+## LeetCode Solution
+>[!Note]
+>Premium required
+
+### User Solution
+#lc/todo 

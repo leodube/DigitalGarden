@@ -1,4 +1,6 @@
 # #9. Palindrome Number
+#lc/easy #lc/success
+
 ## Question
 Given an integer `x`, return `true` if `x` is palindrome integer.
 
@@ -53,11 +55,11 @@ function isPalindrome(x: number): boolean {
 ```
 
 ###### Analysis
-- Runtime: 323 ms, faster than 30.79% of TypeScript online submissions for Palindrome Number.
-- Memory Usage: 51.6 MB, less than 69.10% of TypeScript online submissions for Palindrome Number.
+>[!success]
+> - Runtime: 323 ms, faster than 30.79% of TypeScript online submissions for Palindrome Number.
+> - Memory Usage: 51.6 MB, less than 69.10% of TypeScript online submissions for Palindrome Number.
 
 ### LeetCode Solution 1: Revert half of the number
-
 ###### Algorithm
 First of all we should take care of some edge cases. All negative numbers are not palindrome, for example: -123 is not a palindrome since the '-' does not equal to '3'. So we can return false for all negative numbers.
 

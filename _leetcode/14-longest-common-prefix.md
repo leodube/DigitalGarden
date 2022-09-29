@@ -1,6 +1,8 @@
 # 14. Longest Common Prefix
+#lc/easy #lc/success
+
 ## Question
-Write a function to find the longest common prefix string amongst an array of strings.
+Write a function to find the longest common prefix string amongst an [[array]] of strings.
 
 If there is no common prefix, return an empty string `""`.
 
@@ -24,7 +26,6 @@ Explanation: There is no common prefix among the input strings.
 ---
 ## Solution
 ### Initial Solution
-
 ```typescript
 function longestCommonPrefix(strs: string[]): string {
     let pre = strs[0];
@@ -41,8 +42,9 @@ function longestCommonPrefix(strs: string[]): string {
 ```
 
 ###### Analysis
-- Runtime: 120 ms, faster than 31.78% of TypeScript online submissions for Longest Common Prefix.
-- Memory Usage: 44 MB, less than 85.78% of TypeScript online submissions for Longest Common Prefix.
+>[!success]
+> - Runtime: 120 ms, faster than 31.78% of TypeScript online submissions for Longest Common Prefix.
+> - Memory Usage: 44 MB, less than 85.78% of TypeScript online submissions for Longest Common Prefix.
 
 ### LeetCode Solution 3: Divide and conquer
 ###### Intuition

@@ -1,4 +1,6 @@
 # 2. Add Two Numbers
+#lc/medium #lc/success
+
 ## Question
 You are given two **non-empty** [[linked-list|linked lists]] representing two non-negative integers. The digits are stored in **reverse order**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
@@ -84,8 +86,9 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
 ```
 
 ###### Analysis
-- Runtime: 168 ms, faster than 55.04% of TypeScript online submissions for Longest Substring Without Repeating Characters.
-- Memory Usage: 47.9 MB, less than 86.69% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+> [!Success]
+> - Runtime: 168 ms, faster than 55.04% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+> - Memory Usage: 47.9 MB, less than 86.69% of TypeScript online submissions for Longest Substring Without Repeating Characters.
 
 ### LeetCode Solution: Elementary Math
 ###### Intuition

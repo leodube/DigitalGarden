@@ -9,5 +9,8 @@
 ```
 
 ###### Analysis
+>[!Note]
+> Performance
+
 
 ### LeetCode Solution

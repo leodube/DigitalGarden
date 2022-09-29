@@ -1,4 +1,6 @@
 # #10. Regular Expression Matching
+#lc/hard #lc/todo
+
 ## Question
 Given an input string `s` and a pattern `p`, implement regular expression matching with support for `'.'` and `'*'` where:
 
@@ -70,5 +72,6 @@ function isMatch(s: string, p: string): boolean {
     return true
 };
 ```
+
 ###### Analysis
-[[TODO]]: Complete attempt
+#lc/todo: Complete attempt

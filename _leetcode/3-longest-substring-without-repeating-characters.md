@@ -1,4 +1,6 @@
 # 3. Longest Substring Without Repeating Characters
+#lc/medium #lc/success
+
 ## Question
 Given a string `s`, find the length of the **longest substring** without repeating characters.
 
@@ -63,8 +65,10 @@ function lengthOfLongestSubstring(s: string): number {
 ```
 
 ###### Analysis
-- Runtime: 609 ms, faster than 15.83% of TypeScript online submissions for Longest Substring Without Repeating Characters.
-- Memory Usage: 66.7 MB, less than 7.39% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+> [!Success]
+> 
+> - Runtime: 609 ms, faster than 15.83% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+> - Memory Usage: 66.7 MB, less than 7.39% of TypeScript online submissions for Longest Substring Without Repeating Characters.
 
 ### LeetCode Solution 2: Sliding Window
 ###### Intuition

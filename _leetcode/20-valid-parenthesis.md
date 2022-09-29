@@ -1,4 +1,6 @@
 # #20. Valid Parenthesis
+#lc/easy #lc/success
+
 ## Question
 Given a string `s` containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 
@@ -32,7 +34,7 @@ Output: false
 ---
 ## Solution
 ### Initial Solution
-- Use a stack
+- Use a [[stack]]
 
 ```typescript
 let openParenth = ['(', '{', '['];
@@ -77,14 +79,16 @@ function isValid(s: string): boolean {
 ```
 
 ###### Analysis
-- Runtime: 145 ms, faster than 7.86% of TypeScript online submissions for Valid Parentheses.
-- Memory Usage: 43.6 MB, less than 76.23% of TypeScript online submissions for Valid Parentheses.
+> [!success]
+> - Runtime: 145 ms, faster than 7.86% of TypeScript online submissions for Valid Parentheses.
+> - Memory Usage: 43.6 MB, less than 76.23% of TypeScript online submissions for Valid Parentheses.
 
 ### LeetCode Solution
-===Premium required===
+>[!Note]
+>Premium required
 
 ### User Solution
-What's interesting about this solution is that it uses a hash map type object to store the brackets. 
+What's interesting about this solution is that it uses a [[hashing|hash]] map type object to store the brackets. 
 ```typescript
 function isValid(s: string): boolean {
     const o = {

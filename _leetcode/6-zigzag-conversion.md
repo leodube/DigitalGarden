@@ -1,4 +1,6 @@
 # #6. Zigzag Conversion
+#lc/medium #lc/success
+
 ## Question
 The string `"PAYPALISHIRING"` is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
 ```
@@ -14,14 +16,12 @@ Write the code that will take a string and make this conversion given a number o
 string convert(string s, int numRows);
 
 ###### Example 1:
-
 ```
 Input: s = "PAYPALISHIRING", numRows = 3
 Output: "PAHNAPLSIIGYIR"
 ```
 
 ###### Example 2:
-
 ```
 Input: s = "PAYPALISHIRING", numRows = 4
 Output: "PINALSIGYAHRPI"
@@ -33,7 +33,6 @@ P     I
 ```
 
 ###### Example 3:
-
 ```
 Input: s = "A", numRows = 1
 Output: "A"
@@ -78,8 +77,9 @@ function convert(s: string, numRows: number): string {
 ```
 
 ###### Analysis
-- Runtime: 190 ms, faster than 25.55% of TypeScript online submissions for Zigzag Conversion.
-- Memory Usage: 50.9 MB, less than 25.96% of TypeScript online submissions for Zigzag Conversion.
+> [!success]
+> - Runtime: 190 ms, faster than 25.55% of TypeScript online submissions for Zigzag Conversion.
+> - Memory Usage: 50.9 MB, less than 25.96% of TypeScript online submissions for Zigzag Conversion.
 
 ## Leetcode Solution 1: Sort by Row
 Basically same approach as my solution

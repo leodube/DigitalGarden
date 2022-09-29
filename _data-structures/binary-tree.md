@@ -39,7 +39,7 @@ Binary Tree node contains the following parts:
 ## Complexity
 - **Insert:** $O(n)$ where n is the number of nodes
 - **Search:** $O(n)$ where n is the number of nodes
-- **Delete:** [[TODO]]
+- **Delete:** #todo
 
 ## Implementation
 ```javascript
@@ -129,4 +129,4 @@ function inOrder(node) {
 
 
 ### Delete
-[[TODO]]
+#todo

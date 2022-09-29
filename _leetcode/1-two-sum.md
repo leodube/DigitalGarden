@@ -1,4 +1,6 @@
 # 1. Two Sum
+#lc/easy #lc/success
+
 ## Question
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 
@@ -55,13 +57,14 @@ function twoSum(nums: number[], target: number): number[] {
 ```
 
 ###### Analysis
-- Runtime: 275 ms, faster than 13.85% of TypeScript online submissions for Longest Substring Without Repeating Characters.
-- Memory Usage: 43.3 MB, less than 99.27% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+>[!Success]
+>- Runtime: 275 ms, faster than 13.85% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+>- Memory Usage: 43.3 MB, less than 99.27% of TypeScript online submissions for Longest Substring Without Repeating Characters.
 
-There should be an algorithm that is less than $O(n^2)$ time complexity.
-
--   Time complexity: $O(n^2)$. For each element, we try to find its complement by looping through the rest of the array which takes $O(n)$ time. Therefore, the time complexity is $O(n^2)$.
--   Space complexity: $O(1)$. The space required does not depend on the size of the input array, so only constant space is used.
+>[!Note]
+> There should be an algorithm that is less than $O(n^2)$ time complexity.
+> - Time complexity: $O(n^2)$. For each element, we try to find its complement by looping through the rest of the array which takes $O(n)$ time. Therefore, the time complexity is $O(n^2)$.
+> - Space complexity: $O(1)$. The space required does not depend on the size of the input array, so only constant space is used.
 
 ### LeetCode Solution 1: Two-Pass Hash Table
 ###### Intuition
