@@ -42,7 +42,8 @@
     "obsidian-day-planner:app:add-day-planner-to-note": 1,
     "obsidian-day-planner:app:link-day-planner-to-note": 1,
     "obsidian-day-planner:app:unlink-day-planner-from-note": 1,
-    "obsidian-day-planner:app:show-day-planner-today-note": 1
+    "obsidian-day-planner:app:show-day-planner-today-note": 1,
+    "markdown-importer:open": 1
   },
   "keyboardStatistics": {}
 }

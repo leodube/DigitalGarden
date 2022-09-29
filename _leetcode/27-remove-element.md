@@ -1,4 +1,6 @@
 # 27. Remove Element
+#lc/easy #lc/success
+
 ## Question
 Given an integer array `nums` and an integer `val`, remove all occurrences of `val` in `nums` in-place. The relative order of the elements may be changed.
 
@@ -52,14 +54,48 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ---
 ## Solution
 ### Initial Solution
-- Loop through array
 
-```typescript
-
+```java
+class Solution {
+    public int removeElement(int[] nums, int val) {
+        // init insertIndex variable
+        int insertIndex = 0;
+        // Loop through list
+        for (int i=0; i<nums.length; i++) {
+            if (nums[i] != val) {
+                int temp = nums[insertIndex];
+                nums[insertIndex] = nums[i];
+                nums[i] = temp;
+                
+                insertIndex++;
+            }
+        }
+        
+        return insertIndex;
+    }
+}
 ```
 
 ###### Analysis
->[!Note]
-> Performance
+>[!success]
+> - Runtime: 1 ms, faster than 40.85% of Java online submissions for Remove Element.
+> - Memory Usage: 42.6 MB, less than 53.39% of Java online submissions for Remove Element.
 
 ### LeetCode Solution
+>[!Note]
+>Premium required
+
+### User Solution
+```java
+public class Solution {
+	public int removeElement(int[] nums, int val) {
+		int i = 0;
+		for (int n : nums)
+			if (n != val)
+				nums[i++] = n;
+		return i;
+	} 
+}
+```
+
+Fairly similar solution, but more clean as they don't use a temp variable.

@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lc/todo",
+                "query": "tag:#lt/easy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99ae24d763547523",
+  "active": "7965948d636f94d1",
   "lastOpenFiles": [
+    "_leetcode/26-remove-duplicates-from-sorted-array.md",
+    "_leetcode/27-remove-element.md",
+    "_leetcode/35-search-insert-position.md",
+    "@templates/leetcode.md",
+    "_leetcode/21-merge-two-sorted-lists.md",
+    "_leetcode/20-valid-parenthesis.md",
+    "_leetcode/10-regular-expression-matching.md",
     "_leetcode/1-two-sum.md",
     "_cracking_the_coding_interview/index.md",
-    "_cracking_the_coding_interview/5-behavioural-questions/handling-behavioural-questions.md",
-    "_cracking_the_coding_interview/4-before-the-interview/writing-a-great-resume.md",
-    "_cracking_the_coding_interview/4-before-the-interview/getting-the-right-experience.md",
-    "_cracking_the_coding_interview/5-behavioural-questions/behavioural-preparation.md",
-    "_cracking_the_coding_interview/3-special-situations/start-ups.md",
-    "_cracking_the_coding_interview/3-special-situations/experienced-candidates.md",
-    "_cracking_the_coding_interview/1-the-interview-process/top-10-mistakes.md",
-    "Behavioural Questions.md"
+    "_cracking_the_coding_interview/5-behavioural-questions/handling-behavioural-questions.md"
   ]
 }
