@@ -1,14 +1,14 @@
 {
-  "showUnassigned": true,
+  "showUnassigned": false,
   "showAssigned": true,
   "threshold": 0,
-  "notificationTimeout": 5,
+  "notificationTimeout": 3,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
     "command-palette:open": 1,
     "insert-template": 2,
-    "file-explorer:new-file": 5,
+    "file-explorer:new-file": 6,
     "editor:toggle-source": 2,
     "app:delete-file": 1,
     "editor:delete-paragraph": 1,
@@ -22,11 +22,11 @@
     "obsidian-git:push": 1,
     "obsidian-git:backup-and-close": 1,
     "obsidian-git:commit-push-specified-message": 1,
-    "obsidian-git:commit": 2,
-    "obsidian-git:commit-specified-message": 2,
-    "obsidian-git:commit-staged": 2,
-    "obsidian-git:commit-staged-specified-message": 2,
-    "obsidian-git:push2": 2,
+    "obsidian-git:commit": 3,
+    "obsidian-git:commit-specified-message": 3,
+    "obsidian-git:commit-staged": 3,
+    "obsidian-git:commit-staged-specified-message": 3,
+    "obsidian-git:push2": 3,
     "obsidian-git:stage-current-file": 1,
     "obsidian-git:unstage-current-file": 1,
     "obsidian-git:edit-remotes": 1,
@@ -37,7 +37,12 @@
     "obsidian-git:list-changed-files": 1,
     "obsidian-git:switch-branch": 1,
     "obsidian-git:create-branch": 1,
-    "obsidian-git:delete-branch": 1
+    "obsidian-git:delete-branch": 1,
+    "editor:rename-heading": 1,
+    "obsidian-day-planner:app:add-day-planner-to-note": 1,
+    "obsidian-day-planner:app:link-day-planner-to-note": 1,
+    "obsidian-day-planner:app:unlink-day-planner-from-note": 1,
+    "obsidian-day-planner:app:show-day-planner-today-note": 1
   },
   "keyboardStatistics": {}
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_leetcode/27-remove-element.md",
+            "file": "_cracking_the_coding_interview/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_leetcode/27-remove-element.md",
+                "file": "_cracking_the_coding_interview/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_leetcode/27-remove-element.md",
+                "file": "_cracking_the_coding_interview/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_leetcode/27-remove-element.md"
+                "file": "_cracking_the_coding_interview/index.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "99ae24d763547523",
   "lastOpenFiles": [
-    "_leetcode/26-remove-duplicates-from-sorted-array.md",
-    "_leetcode/27-remove-element.md",
-    "_leetcode/README.md",
-    "Untitled.md",
-    "_leetcode/8-string-to-integer-(atoi).md",
-    "_leetcode/21-merge-two-sorted-lists.md",
-    "_leetcode/4-median-of-two-sorted-arrays.md",
-    "_leetcode/3-longest-substring-without-repeating-characters.md",
-    "_leetcode/2-add-two-numbers.md",
-    "_cracking_the_coding_interview/README.md"
+    "_data-structures/index.md",
+    "_leetcode/index.md",
+    "@templates/index.md",
+    "index.md",
+    "jsdoc/README.md",
+    "jsdoc/index.md",
+    "node/index.md",
+    "node/use-latest-version-note.md",
+    "README.md",
+    "Today.md"
   ]
 }

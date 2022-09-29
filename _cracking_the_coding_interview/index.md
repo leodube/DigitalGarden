@@ -1,5 +1,5 @@
 # Cracking the Coding Interview
-#todo #readme
+#todo 
 
 1. The Interview Process
-2. Behind the Scenes: #todoƒ
+2. Behind the Scenes: #todo
