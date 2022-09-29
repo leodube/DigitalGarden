@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_cracking_the_coding_interview/index.md",
+            "file": "_leetcode/27-remove-element.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cracking_the_coding_interview/index.md",
+                "file": "_leetcode/27-remove-element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cracking_the_coding_interview/index.md",
+                "file": "_leetcode/27-remove-element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cracking_the_coding_interview/index.md"
+                "file": "_leetcode/27-remove-element.md"
               }
             }
           },
@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "99ae24d763547523",
   "lastOpenFiles": [
-    "_data-structures/index.md",
-    "_leetcode/index.md",
-    "@templates/index.md",
-    "index.md",
-    "jsdoc/README.md",
-    "jsdoc/index.md",
-    "node/index.md",
-    "node/use-latest-version-note.md",
-    "README.md",
-    "Today.md"
+    "_leetcode/1-two-sum.md",
+    "_cracking_the_coding_interview/index.md",
+    "_cracking_the_coding_interview/5-behavioural-questions/handling-behavioural-questions.md",
+    "_cracking_the_coding_interview/4-before-the-interview/writing-a-great-resume.md",
+    "_cracking_the_coding_interview/4-before-the-interview/getting-the-right-experience.md",
+    "_cracking_the_coding_interview/5-behavioural-questions/behavioural-preparation.md",
+    "_cracking_the_coding_interview/3-special-situations/start-ups.md",
+    "_cracking_the_coding_interview/3-special-situations/experienced-candidates.md",
+    "_cracking_the_coding_interview/1-the-interview-process/top-10-mistakes.md",
+    "Behavioural Questions.md"
   ]
 }
