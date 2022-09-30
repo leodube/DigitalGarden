@@ -7,12 +7,8 @@
         "id": "99ae24d763547523",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_leetcode/27-remove-element.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_leetcode/27-remove-element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_leetcode/27-remove-element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_leetcode/27-remove-element.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,15 +131,15 @@
   },
   "active": "7965948d636f94d1",
   "lastOpenFiles": [
-    "_leetcode/26-remove-duplicates-from-sorted-array.md",
+    "_work/SupportLINK/hours.md",
+    "_work/SupportLINK/system.md",
+    "python/create-virtualenv.md",
     "_leetcode/27-remove-element.md",
+    "_leetcode/26-remove-duplicates-from-sorted-array.md",
     "_leetcode/35-search-insert-position.md",
     "@templates/leetcode.md",
     "_leetcode/21-merge-two-sorted-lists.md",
     "_leetcode/20-valid-parenthesis.md",
-    "_leetcode/10-regular-expression-matching.md",
-    "_leetcode/1-two-sum.md",
-    "_cracking_the_coding_interview/index.md",
-    "_cracking_the_coding_interview/5-behavioural-questions/handling-behavioural-questions.md"
+    "_leetcode/10-regular-expression-matching.md"
   ]
 }
