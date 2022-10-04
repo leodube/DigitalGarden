@@ -7,8 +7,12 @@
         "id": "99ae24d763547523",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_cracking_the_coding_interview/4-before-the-interview/writing-a-great-resume.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_cracking_the_coding_interview/4-before-the-interview/writing-a-great-resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_cracking_the_coding_interview/4-before-the-interview/writing-a-great-resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_cracking_the_coding_interview/4-before-the-interview/writing-a-great-resume.md"
+              }
             }
           },
           {
@@ -129,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7965948d636f94d1",
+  "active": "99ae24d763547523",
   "lastOpenFiles": [
     "_work/SupportLINK/hours.md",
     "_work/SupportLINK/system.md",
