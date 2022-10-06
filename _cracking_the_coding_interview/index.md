@@ -7,3 +7,4 @@
 3. Special Situations
 4. Before the Interview
 5. Behavioural Questions
+6. Technical Questions
