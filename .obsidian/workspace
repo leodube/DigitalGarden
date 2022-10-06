@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_cracking_the_coding_interview/index.md",
+            "file": "_cracking_the_coding_interview/6-technical-questions/handling-technical-questions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cracking_the_coding_interview/index.md",
+                "file": "_cracking_the_coding_interview/6-technical-questions/handling-technical-questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cracking_the_coding_interview/index.md",
+                "file": "_cracking_the_coding_interview/6-technical-questions/handling-technical-questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cracking_the_coding_interview/index.md"
+                "file": "_cracking_the_coding_interview/6-technical-questions/handling-technical-questions.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "99ae24d763547523",
   "lastOpenFiles": [
+    "_cracking_the_coding_interview/6-technical-questions/technical-preparation.md",
+    "_cracking_the_coding_interview/5-behavioural-questions/behavioural-preparation.md",
     "_cracking_the_coding_interview/5-behavioural-questions/handling-behavioural-questions.md",
+    "_cracking_the_coding_interview/4-before-the-interview/getting-the-right-experience.md",
     "_cracking_the_coding_interview/4-before-the-interview/writing-a-great-resume.md",
+    "_cracking_the_coding_interview/index.md",
     "_work/SupportLINK/hours.md",
     "_work/SupportLINK/system.md",
     "python/create-virtualenv.md",
-    "_leetcode/27-remove-element.md",
-    "_leetcode/26-remove-duplicates-from-sorted-array.md",
-    "_leetcode/35-search-insert-position.md",
-    "@templates/leetcode.md",
-    "_leetcode/21-merge-two-sorted-lists.md"
+    "_leetcode/27-remove-element.md"
   ]
 }
