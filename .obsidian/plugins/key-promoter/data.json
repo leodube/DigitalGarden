@@ -8,10 +8,10 @@
   "mouseStatistics": {
     "command-palette:open": 1,
     "insert-template": 2,
-    "file-explorer:new-file": 12,
+    "file-explorer:new-file": 13,
     "editor:toggle-source": 2,
-    "app:delete-file": 4,
-    "editor:delete-paragraph": 4,
+    "app:delete-file": 5,
+    "editor:delete-paragraph": 5,
     "obsidian-git:edit-gitignore": 1,
     "obsidian-git:open-git-view": 2,
     "obsidian-git:open-diff-view": 1,
@@ -31,14 +31,14 @@
     "obsidian-git:unstage-current-file": 1,
     "obsidian-git:edit-remotes": 1,
     "obsidian-git:remove-remote": 1,
-    "obsidian-git:delete-repo": 4,
+    "obsidian-git:delete-repo": 5,
     "obsidian-git:init-repo": 1,
     "obsidian-git:clone-repo": 1,
     "obsidian-git:list-changed-files": 1,
     "obsidian-git:switch-branch": 1,
     "obsidian-git:create-branch": 1,
-    "obsidian-git:delete-branch": 4,
-    "editor:rename-heading": 2,
+    "obsidian-git:delete-branch": 5,
+    "editor:rename-heading": 15,
     "obsidian-day-planner:app:add-day-planner-to-note": 1,
     "obsidian-day-planner:app:link-day-planner-to-note": 1,
     "obsidian-day-planner:app:unlink-day-planner-from-note": 1,
@@ -46,7 +46,8 @@
     "markdown-importer:open": 1,
     "backlink:toggle-backlinks-in-document": 2,
     "open-with-default-app:show": 1,
-    "switcher:open": 1
+    "switcher:open": 1,
+    "obsidian-kanban:add-kanban-lane": 1
   },
   "keyboardStatistics": {}
 }

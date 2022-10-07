@@ -1,9 +1,9 @@
 # Index
 ## Folders
 ### Learning
-[[_cracking_the_coding_interview/index|Cracking the Coding Interview]]
-[[_data-structures/index|Data Structures]]
-[[_leetcode/index|LeetCode]]
+[[📕 Cracking the Coding Interview/index|Cracking the Coding Interview]]
+[[✏️ Data Structures/index|Data Structures]]
+[[💻 LeetCode/index|LeetCode]]
 
 ### Language
 [[jsdoc/index|jsdoc]]
