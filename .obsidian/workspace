@@ -139,15 +139,15 @@
   },
   "active": "99ae24d763547523",
   "lastOpenFiles": [
-    "_templates/index.md",
-    "_templates/leetcode.md",
-    "_templates/callouts.md",
     "🔧 Projects/leodube.ca.md",
-    "🔧 Projects/Untitled Kanban.md",
-    "📕 Cracking the Coding Interview/6-technical-questions/five-algorithm-approach.md",
-    "📕 Cracking the Coding Interview/6-technical-questions/handling-technical-questions.md",
-    "📕 Cracking the Coding Interview/6-technical-questions/technical-preparation.md",
-    "TODO.md",
-    "README.md"
+    "🔧 Projects/single-plant/ideation.md",
+    "README.md",
+    "_templates/callouts.md",
+    "index.md",
+    "python/index.md",
+    "node/index.md",
+    "jsdoc/index.md",
+    "📕 Cracking the Coding Interview/index.md",
+    "💻 LeetCode/index.md"
   ]
 }
