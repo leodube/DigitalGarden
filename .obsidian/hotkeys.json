@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-format-code:format-prettier-JSON": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}

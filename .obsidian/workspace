@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/leetcode.md",
+            "file": "vscode/tasks.json.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/leetcode.md",
+                "file": "vscode/tasks.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/leetcode.md",
+                "file": "vscode/tasks.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/leetcode.md"
+                "file": "vscode/tasks.json.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "99ae24d763547523",
   "lastOpenFiles": [
+    "_templates/leetcode.md",
     "🔧 Projects/leodube.ca.md",
     "🔧 Projects/single-plant/ideation.md",
     "README.md",
@@ -147,7 +148,6 @@
     "python/index.md",
     "node/index.md",
     "jsdoc/index.md",
-    "📕 Cracking the Coding Interview/index.md",
-    "💻 LeetCode/index.md"
+    "📕 Cracking the Coding Interview/index.md"
   ]
 }

@@ -8,7 +8,7 @@
   "mouseStatistics": {
     "command-palette:open": 1,
     "insert-template": 2,
-    "file-explorer:new-file": 13,
+    "file-explorer:new-file": 15,
     "editor:toggle-source": 2,
     "app:delete-file": 10,
     "editor:delete-paragraph": 10,
@@ -47,7 +47,8 @@
     "backlink:toggle-backlinks-in-document": 2,
     "open-with-default-app:show": 1,
     "switcher:open": 1,
-    "obsidian-kanban:add-kanban-lane": 1
+    "obsidian-kanban:add-kanban-lane": 1,
+    "key-promoter:key-promoter": 1
   },
   "keyboardStatistics": {}
 }
