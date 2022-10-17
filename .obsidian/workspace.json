@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "2485dcae2133223f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab73f37b3fe8d48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ae24d763547523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vscode/tasks.json.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "988cb8c7ee4df434",
+    "type": "split",
+    "children": [
+      {
+        "id": "a32c015f7c0655ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7965948d636f94d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "075867440d7b1777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#lt/easy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "a88e8bd743860fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2adaa916ddf0857b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9b43aa86659448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vscode/tasks.json.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "133ecc44307fcc0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vscode/tasks.json.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "462f16ff12e652d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vscode/tasks.json.md"
+              }
+            }
+          },
+          {
+            "id": "1a9e009e56d52df9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e72940d6df55919",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "17110af59be34d98",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "99ae24d763547523",
+  "lastOpenFiles": [
+    "_templates/leetcode.md",
+    "🔧 Projects/leodube.ca.md",
+    "🔧 Projects/single-plant/ideation.md",
+    "README.md",
+    "_templates/callouts.md",
+    "index.md",
+    "python/index.md",
+    "node/index.md",
+    "jsdoc/index.md",
+    "📕 Cracking the Coding Interview/index.md"
+  ]
+}
