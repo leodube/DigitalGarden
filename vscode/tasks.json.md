@@ -3,61 +3,6 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Clean",
-      "type": "npm",
-      "script": "clean",
-      "icon": {
-        "id": "wrench",
-        "color": "terminal.ansiWhite"
-      }
-    },
-    {
-      "label": "Build Admin",
-      "command": "yarn",
-      "args": ["build"],
-      "options": {
-        "cwd": "${workspaceFolder}/admin"
-      },
-      "group": {
-        "kind": "build"
-      },
-      "presentation": {
-        "group": "build"
-      },
-      "icon": {
-        "id": "tools",
-        "color": "terminal.ansiBlue"
-      }
-    },
-    {
-      "label": "Build Frontend",
-      "command": "yarn",
-      "args": ["build"],
-      "group": {
-        "kind": "build"
-      },
-      "presentation": {
-        "group": "build"
-      },
-      "icon": {
-        "id": "tools",
-        "color": "terminal.ansiMagenta"
-      }
-    },
-    {
-      "label": "Build",
-      "dependsOn": ["Build Admin", "Build Frontend"],
-      "dependsOrder": "sequence",
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
-      "icon": {
-        "id": "tools",
-        "color": "terminal.ansiGreen"
-      }
-    },
-    {
       "label": "Start Admin",
       "command": "yarn",
       "args": ["develop"],
@@ -93,15 +38,6 @@
       "dependsOn": ["Start Admin", "Start Frontend"],
       "icon": {
         "id": "debug-start",
-        "color": "terminal.ansiGreen"
-      }
-    },
-    {
-      "label": "Build and Start",
-      "dependsOn": ["Build", "Start"],
-      "dependsOrder": "sequence",
-      "icon": {
-        "id": "run-all",
         "color": "terminal.ansiGreen"
       }
     },

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab73f37b3fe8d48",
+        "id": "5ec7d987b60230b2",
         "type": "tabs",
         "children": [
           {
-            "id": "99ae24d763547523",
+            "id": "78722ec2c0575e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vscode/tasks.json.md",
+                "file": "🔧 Projects/single-plant/ideation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vscode/tasks.json.md",
+                "file": "🔧 Projects/single-plant/ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vscode/tasks.json.md",
+                "file": "🔧 Projects/single-plant/ideation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vscode/tasks.json.md"
+                "file": "🔧 Projects/single-plant/ideation.md"
               }
             }
           },
@@ -148,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "99ae24d763547523",
+  "active": "78722ec2c0575e13",
   "lastOpenFiles": [
+    "vscode/tasks.json.md",
+    "🔧 Projects/single-plant/ideation.md",
     "_templates/leetcode.md",
     "🔧 Projects/leodube.ca.md",
-    "🔧 Projects/single-plant/ideation.md",
     "README.md",
     "_templates/callouts.md",
     "index.md",
     "python/index.md",
     "node/index.md",
-    "jsdoc/index.md",
-    "📕 Cracking the Coding Interview/index.md"
+    "jsdoc/index.md"
   ]
 }

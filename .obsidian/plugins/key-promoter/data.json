@@ -20,7 +20,7 @@
     "obsidian-git:pull": 1,
     "obsidian-git:add-to-gitignore": 1,
     "obsidian-git:push": 1,
-    "obsidian-git:backup-and-close": 1,
+    "obsidian-git:backup-and-close": 2,
     "obsidian-git:commit-push-specified-message": 1,
     "obsidian-git:commit": 3,
     "obsidian-git:commit-specified-message": 3,
@@ -48,7 +48,10 @@
     "open-with-default-app:show": 1,
     "switcher:open": 1,
     "obsidian-kanban:add-kanban-lane": 1,
-    "key-promoter:key-promoter": 1
+    "key-promoter:key-promoter": 1,
+    "workspace:undo-close-pane": 1,
+    "workspace:close": 1,
+    "workspace:close-others": 1
   },
   "keyboardStatistics": {}
 }
