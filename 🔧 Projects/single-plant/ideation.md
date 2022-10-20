@@ -1,6 +1,6 @@
 # Ideation
 
-Use processing to model a planter path.
+Modelling:
 - Randomly generate piece shapes
 	- Convex Hull algorithm [1](https://cglab.ca/~sander/misc/ConvexGeneration/ValtrAlgorithm.java), [2](https://cglab.ca/~sander/misc/ConvexGeneration/convex.html)
 - Back fill movement w/ random variation
@@ -8,13 +8,19 @@ Use processing to model a planter path.
 - Throw plots
 - Override step distance
 - Model how device will work
+- Model optimal tree spacing
 
 Device:
 - PCB
 - Bluetooth
 - GPS (or on phone)
 - Battery
-- Casing + attachment
+- Casing + attachment + impact dampening
+- Maybe consider having a "line in" button so the algorithm knows when the line in is over
+
+Algorithm/Machine Learning
+- Can try both approaches
+- To save computational time, forget lines that are surrounded by other lines. This way, only the most recent line of trees is spaced off of or considered.
 
 App:
 - Set spacing distance
