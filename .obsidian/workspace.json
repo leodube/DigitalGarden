@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "812d01ee93e513b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jsdoc/@callback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/single-plant/ideation.md",
+                "file": "jsdoc/@callback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/single-plant/ideation.md",
+                "file": "jsdoc/@callback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/single-plant/ideation.md"
+                "file": "jsdoc/@callback.md"
               }
             }
           },
@@ -148,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "78722ec2c0575e13",
+  "active": "812d01ee93e513b8",
   "lastOpenFiles": [
+    "jsdoc/@async.md",
+    "java/factory-pattern.md",
+    "🔧 Projects/single-plant/ideation.md",
     "📕 Reading/Cracking the Coding Interview/6-technical-questions/technical-preparation.md",
     "🔧 Projects/leodube.ca.md",
-    "🔧 Projects/single-plant/ideation.md",
     "vscode/tasks.json.md",
     "_templates/leetcode.md",
     "README.md",
     "_templates/callouts.md",
-    "index.md",
-    "python/index.md",
-    "node/index.md"
+    "index.md"
   ]
 }
