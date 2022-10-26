@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca74553679f8205f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bash/commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fda48854bec078cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jsdoc/@callback.md",
+                "file": "git/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jsdoc/@callback.md",
+                "file": "git/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jsdoc/@callback.md"
+                "file": "git/commands.md"
               }
             }
           },
@@ -149,9 +173,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6874d8fc1e283fe2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -161,8 +193,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "812d01ee93e513b8",
+  "active": "fda48854bec078cc",
   "lastOpenFiles": [
+    "bash/commands.md",
+    "jsdoc/@callback.md",
     "jsdoc/@async.md",
     "java/factory-pattern.md",
     "🔧 Projects/single-plant/ideation.md",
@@ -170,8 +204,6 @@
     "🔧 Projects/leodube.ca.md",
     "vscode/tasks.json.md",
     "_templates/leetcode.md",
-    "README.md",
-    "_templates/callouts.md",
-    "index.md"
+    "README.md"
   ]
 }
