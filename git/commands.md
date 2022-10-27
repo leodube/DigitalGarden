@@ -1,5 +1,5 @@
 # Commands
-#git #todo:format
+#git #todo/format
 A collection of useful git commands. When using these commands, only copy the text AFTER the “$”.
 
 Initializing Git

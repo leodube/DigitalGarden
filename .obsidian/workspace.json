@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec7d987b60230b2",
+        "id": "2210178309d3ea70",
         "type": "tabs",
         "children": [
           {
-            "id": "78722ec2c0575e13",
+            "id": "605c5934ff726917",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔧 Projects/single-plant/ideation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "812d01ee93e513b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jsdoc/@callback.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca74553679f8205f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bash/commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fda48854bec078cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git/commands.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fda48854bec078cc",
+  "active": "605c5934ff726917",
   "lastOpenFiles": [
-    "bash/commands.md",
-    "jsdoc/@callback.md",
-    "jsdoc/@async.md",
-    "java/factory-pattern.md",
-    "🔧 Projects/single-plant/ideation.md",
-    "📕 Reading/Cracking the Coding Interview/6-technical-questions/technical-preparation.md",
-    "🔧 Projects/leodube.ca.md",
     "vscode/tasks.json.md",
-    "_templates/leetcode.md",
-    "README.md"
+    "jsdoc/@description.md",
+    "jsdoc/@async.md",
+    "git/commands.md",
+    "java/factory-pattern.md",
+    "bash/commands.md",
+    "🔧 Projects/single-plant/ideation.md",
+    "🔧 Projects/leodube.ca.md",
+    "jsdoc/@callback.md",
+    "📕 Reading/Cracking the Coding Interview/6-technical-questions/technical-preparation.md"
   ]
 }

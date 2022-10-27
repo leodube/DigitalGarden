@@ -1,5 +1,5 @@
 # Commands
-#bash #todo: make table
+#bash #todo/make-table
 
 ```
 pwd		     print working directories
