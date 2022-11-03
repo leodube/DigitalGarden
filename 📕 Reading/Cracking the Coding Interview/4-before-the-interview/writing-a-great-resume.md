@@ -1,4 +1,5 @@
 # Writing a Great Resume
+
 Resume screeners look for the same things that interviewers do. They want to know that you're smart and that you can code.
 
 That means you should prepare your resume to highlight those two things. 

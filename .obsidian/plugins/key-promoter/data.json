@@ -20,12 +20,12 @@
     "obsidian-git:pull": 1,
     "obsidian-git:add-to-gitignore": 1,
     "obsidian-git:push": 1,
-    "obsidian-git:backup-and-close": 6,
+    "obsidian-git:backup-and-close": 7,
     "obsidian-git:commit-push-specified-message": 1,
-    "obsidian-git:commit": 3,
-    "obsidian-git:commit-specified-message": 3,
-    "obsidian-git:commit-staged": 3,
-    "obsidian-git:commit-staged-specified-message": 3,
+    "obsidian-git:commit": 4,
+    "obsidian-git:commit-specified-message": 4,
+    "obsidian-git:commit-staged": 4,
+    "obsidian-git:commit-staged-specified-message": 4,
     "obsidian-git:push2": 3,
     "obsidian-git:stage-current-file": 1,
     "obsidian-git:unstage-current-file": 1,
@@ -49,9 +49,10 @@
     "switcher:open": 1,
     "obsidian-kanban:add-kanban-lane": 1,
     "key-promoter:key-promoter": 1,
-    "workspace:undo-close-pane": 5,
-    "workspace:close": 5,
-    "workspace:close-others": 5
+    "workspace:undo-close-pane": 6,
+    "workspace:close": 6,
+    "workspace:close-others": 6,
+    "graph:open": 1
   },
   "keyboardStatistics": {}
 }

@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node/use-latest-version-note.md",
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a6b58e488e055c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔧 Projects/ca.leodube/ideation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b798efc5ac7bdc12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,6 +77,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "456f489bf6ffa647",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node/use-latest-version-note.md",
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node/use-latest-version-note.md",
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "node/use-latest-version-note.md"
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md"
               }
             }
           },
@@ -119,14 +148,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "6e72940d6df55919",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           },
           {
@@ -146,27 +167,23 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "605c5934ff726917",
+  "active": "17110af59be34d98",
   "lastOpenFiles": [
-    "vscode/tasks.json.md",
-    "jsdoc/@description.md",
-    "jsdoc/@async.md",
-    "git/commands.md",
-    "java/factory-pattern.md",
-    "bash/commands.md",
     "🔧 Projects/single-plant/ideation.md",
-    "🔧 Projects/leodube.ca.md",
-    "jsdoc/@callback.md",
-    "📕 Reading/Cracking the Coding Interview/6-technical-questions/technical-preparation.md"
+    "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
+    "🔧 Projects/future.md",
+    "🔧 Projects/ca.leodube/ideation.md",
+    "🔧 Projects/app.modeleo/ideation.md",
+    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md",
+    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
+    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/writing-a-great-resume.md",
+    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/getting-the-right-experience.md",
+    "node/use-latest-version-note.md"
   ]
 }

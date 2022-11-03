@@ -1,4 +1,5 @@
 # Handling Behavioural Questions
+
 Interviews usually start and end with "chit chat" or "soft skills". This is a time for your interviewer to ask questions about your resume or general questions, and it's also a time for you to ask your interviewer questions about the company.
 
 ##### Be Specific, Not Arrogant

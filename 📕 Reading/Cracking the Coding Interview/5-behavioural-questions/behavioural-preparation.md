@@ -1,4 +1,5 @@
 # Behavioural Questions
+
 Behavioural questions are asked for a variety of reasons. They can be asked to get to know your personality, to understand your resume more deeply, or just to ease you into an interview. Either way, these questions are important and can be prepared for.
 
 ##### How to Prepare
@@ -22,7 +23,7 @@ If you're doing a phone interview, you should have this grid out in front of you
 Consider extending this grid to "softer" questions. When answering theese questions, you're telling them about yourself. Think about what each story communicates about you.
 
 ##### What are your weaknesses?
-Give a real weakness! A good answer conveys a real, legitimate weakness but emphasizes how you work to overcome it. For example: "Sometimes I don;t have a very good attention to detail. While that's good because it lets me execute quickly, it also means that I sometimes make careless mistakes. Because of that, I make sure to always have someone else double check my work."
+Give a real weakness! A good answer conveys a real, legitimate weakness but emphasizes how you work to overcome it. For example: "Sometimes I don't have a very good attention to detail. While that's good because it lets me execute quickly, it also means that I sometimes make careless mistakes. Because of that, I make sure to always have someone else double check my work."
 
 ##### What was the most challenging part of that project?
 Don't say "I had to learn a lot of new languages and tachnologies." This is the cop out answer and tells the interviewer that nothing was really very hard.

@@ -1,4 +1,5 @@
 # Getting the Right Experience
+
 Although offer decisions are typically based more on the interview than anything else, it's your resume - and therefore your prior experience - that gets you the interview. You should think actively about how to enhance your technical (and non-technical) experience. 
 
 For professionals, if you're trying to move from a lesser known company to one of the "biggies", or from testing / IT into a dev role, the following advice will be useful:

@@ -21,6 +21,7 @@ Device:
 Algorithm/Machine Learning
 - Can try both approaches
 - To save computational time, forget lines that are surrounded by other lines. This way, only the most recent line of trees is spaced off of or considered.
+- [Find Closest Point](https://ptsjs.org/guide/op-0400)
 
 App:
 - Set spacing distance
