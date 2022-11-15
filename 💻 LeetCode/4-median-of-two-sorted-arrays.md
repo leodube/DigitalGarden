@@ -1,5 +1,5 @@
 # 4. Median of Two Sorted Arrays
-#lc/hard #lc/success #lc/todo
+#lc/hard #lc/success #todo/lc
 
 ## Question
 Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return **the median** of the two sorted arrays.
@@ -83,4 +83,4 @@ function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
 >Premium required
 
 ### User Solution
-#lc/todo 
+#todo/lc 

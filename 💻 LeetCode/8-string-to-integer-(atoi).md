@@ -1,5 +1,5 @@
 # #8. String to Integer (atoi)
-#lc/medium #lc/success #lc/warning #lc/todo
+#lc/medium #lc/success #lc/warning #todo/lc
 
 ## Question
 Implement the `myAtoi(string s)` function, which converts a string to a 32-bit signed integer (similar to C/C++'s `atoi` function).
@@ -91,4 +91,4 @@ Not pretty but it works
 >Premium required
 
 ### User Solution
-#lc/todo 
+#todo/lc 

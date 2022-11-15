@@ -1,4 +1,6 @@
 # Binary Search Tree
+#data-structure 
+
 See [[binary-tree|Binary Tree]] first.
 
 ## What is it?
