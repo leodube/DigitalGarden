@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📈 Algorithms/binary-search.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📈 Algorithms/binary-search.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📈 Algorithms/binary-search.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📈 Algorithms/binary-search.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -186,8 +186,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7965948d636f94d1",
+  "active": "846e6dba6d3cb3f8",
   "lastOpenFiles": [
+    "📈 Algorithms/binary-search.md",
     "✏️ Data Structures/stack.md",
     "✏️ Data Structures/queue.md",
     "✏️ Data Structures/linked-list.md",
@@ -196,7 +197,6 @@
     "✏️ Data Structures/graph.md",
     "✏️ Data Structures/binary-tree.md",
     "✏️ Data Structures/binary-search-tree.md",
-    "✏️ Data Structures/array.md",
-    "💻 LeetCode/35-search-insert-position.md"
+    "✏️ Data Structures/array.md"
   ]
 }
