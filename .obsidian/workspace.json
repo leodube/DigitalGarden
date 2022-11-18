@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "846e6dba6d3cb3f8",
   "lastOpenFiles": [
+    "TODO.md",
     "📈 Algorithms/binary-search.md",
     "✏️ Data Structures/stack.md",
     "✏️ Data Structures/queue.md",
@@ -196,7 +197,6 @@
     "✏️ Data Structures/hashing.md",
     "✏️ Data Structures/graph.md",
     "✏️ Data Structures/binary-tree.md",
-    "✏️ Data Structures/binary-search-tree.md",
-    "✏️ Data Structures/array.md"
+    "✏️ Data Structures/binary-search-tree.md"
   ]
 }
