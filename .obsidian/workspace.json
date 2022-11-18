@@ -4,55 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2210178309d3ea70",
+        "id": "dd9c59e2ec9ca3a8",
         "type": "tabs",
         "children": [
           {
-            "id": "605c5934ff726917",
+            "id": "aa9fda8042154b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Data Structures/stack.md",
+                "file": "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "846e6dba6d3cb3f8",
+            "id": "ad8b88effb36344a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
+                "file": "🔧 Projects/proj.cap/bookmarks.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3a6b58e488e055c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔧 Projects/ca.leodube/ideation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b798efc5ac7bdc12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
+                "file": "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
+                "file": "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md"
+                "file": "🔧 Projects/pkg.treedensity.viz/bookmarks.md"
               }
             }
           },
@@ -186,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "846e6dba6d3cb3f8",
+  "active": "aa9fda8042154b8b",
   "lastOpenFiles": [
+    "🔧 Projects/proj.cap/bookmarks.md",
+    "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
+    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
     "TODO.md",
     "📈 Algorithms/binary-search.md",
     "✏️ Data Structures/stack.md",
     "✏️ Data Structures/queue.md",
     "✏️ Data Structures/linked-list.md",
     "✏️ Data Structures/heap.md",
-    "✏️ Data Structures/hashing.md",
-    "✏️ Data Structures/graph.md",
-    "✏️ Data Structures/binary-tree.md",
-    "✏️ Data Structures/binary-search-tree.md"
+    "✏️ Data Structures/hashing.md"
   ]
 }
