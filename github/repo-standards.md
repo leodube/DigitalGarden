@@ -6,9 +6,9 @@
 
 ## Branches
 - Default branch is called `main`
-- Deploys are done from branch called `production` 
 - Default branch has protections:
 	- Require a pull request before merging
+- `dependabot` updates go to `dependencies` branch
 
 ## Automations
 - Runs `dependabot` if it uses npm packages
