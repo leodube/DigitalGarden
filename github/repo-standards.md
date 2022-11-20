@@ -11,5 +11,5 @@
 - `dependabot` updates go to `dependencies` branch
 
 ## Automations
-- Runs `dependabot` if it uses npm packages
+- Runs `dependabot` if it uses npm or pip packages
 - Runs `codeql`
