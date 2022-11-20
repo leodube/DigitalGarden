@@ -8,7 +8,7 @@
 - Default branch is called `main`
 - Default branch has protections:
 	- Require a pull request before merging
-- `dependabot` updates go to `dependencies` branch
+- `dependabot` updates go to `develop` branch
 
 ## Automations
 - Runs `dependabot` if it uses npm or pip packages
