@@ -7,7 +7,7 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "command-palette:open": 1,
-    "insert-template": 2,
+    "insert-template": 4,
     "file-explorer:new-file": 15,
     "editor:toggle-source": 2,
     "app:delete-file": 10,

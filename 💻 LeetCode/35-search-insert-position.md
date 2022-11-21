@@ -24,21 +24,39 @@ Output: 4
 
 ###### Constraints:
 -   `1 <= nums.length <= 104`
--   `-104 <= nums[i] <= 104`
+-   `-104 <= nums[i] <= 104`
 -   `nums` contains **distinct** values sorted in **ascending** order.
--   `-104 <= target <= 104`
-
+-   `-104 <= target <= 104`
 ---
 ## Solution
 ### Initial Solution
 
 ```typescript
-
+class Solution {
+	public int searchInsert(int[] nums, int target) {
+		// Intuition: use binary search
+		int low = 0;
+		int high = nums.length - 1;
+		
+		while(low <= high) {
+			int mid = (low+high)/2;
+			if (target == nums[mid]) return mid;
+			else if (target > nums[mid]) low = mid + 1;
+			else high = mid - 1;
+		}
+		return low;
+	}
+}
 ```
 
 ###### Analysis
 >[!success]
-> Performance
-
+> -   Runtime: 0 ms, faster than 100% of Java online submissions for Search Insert Position.
+> -   Memory Usage: 43.8 MB, less than 24.14% of Java online submissions for Search Insert Position.
 
 ### LeetCode Solution
+>[!Note]
+>Premium required
+
+### User Solution
+Pretty much the same as above.

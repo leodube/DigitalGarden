@@ -47,9 +47,17 @@
             "id": "3e2308a852b7ae67",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f42bd6a376adff8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "📈 Algorithms/binary-search.md",
+                "file": "bash/commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📈 Algorithms/binary-search.md",
+                "file": "bash/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📈 Algorithms/binary-search.md",
+                "file": "bash/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📈 Algorithms/binary-search.md"
+                "file": "bash/commands.md"
               }
             }
           },
@@ -202,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e2308a852b7ae67",
+  "active": "1f42bd6a376adff8",
   "lastOpenFiles": [
     "git/commands.md",
+    "💻 LeetCode/35-search-insert-position.md",
+    "💻 LeetCode/27-remove-element.md",
+    "💻 LeetCode/21-merge-two-sorted-lists.md",
+    "💻 LeetCode/26-remove-duplicates-from-sorted-array.md",
+    "💻 LeetCode/20-valid-parenthesis.md",
+    "📈 Algorithms/binary-search.md",
     "TODO.md",
     "README.md",
-    "github/readme-standards.md",
-    "github/repo-standards.md",
-    "python/create-virtualenv.md",
-    "github/actions/codeql.md",
-    "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
-    "🔧 Projects/proj.cap/bookmarks.md",
-    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md"
+    "github/readme-standards.md"
   ]
 }

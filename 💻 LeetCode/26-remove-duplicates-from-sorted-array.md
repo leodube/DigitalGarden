@@ -94,7 +94,7 @@ class Solution {
 ```
 
 ###### Analysis
->[!Note]
+>[!Success]
 > - Runtime: 5 ms, faster than 12.13% of Java online submissions for Remove Duplicates from Sorted Array.
 >- Memory Usage: 48.1 MB, less than 28.63% of Java online submissions for Remove Duplicates from Sorted Array.
 
