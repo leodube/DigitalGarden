@@ -1,4 +1,6 @@
 # Repo Standards
+#github #repo
+
 - Follows README standards
 - Has 2 line description and tags
 - Follows naming convention
