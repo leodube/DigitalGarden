@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/github/repo-standards.md",
+                "file": "✂️ Snippets/github/readme-standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✂️ Snippets/github/repo-standards.md",
+                "file": "✂️ Snippets/github/readme-standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✂️ Snippets/github/repo-standards.md",
+                "file": "✂️ Snippets/github/readme-standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✂️ Snippets/github/repo-standards.md"
+                "file": "✂️ Snippets/github/readme-standards.md"
               }
             }
           },
@@ -204,9 +204,9 @@
   },
   "active": "bcf24b2f3cce0865",
   "lastOpenFiles": [
+    "✂️ Snippets/github/repo-standards.md",
     "✂️ Snippets/node/node_modules-symlink.md",
     "✂️ Snippets/node/use-latest-version.md",
-    "✂️ Snippets/github/repo-standards.md",
     "✂️ Snippets/python/create-virtualenv.md",
     "✂️ Snippets/git/create-git-project.md",
     "✂️ Snippets/Untitled.md",
