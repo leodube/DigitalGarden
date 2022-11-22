@@ -1,9 +1,11 @@
 # Repo Standards
 #github #repo
 
-- Follows README standards
+- Follows [[readme-standards|README standards]].
+
+## Description
 - Has 2 line description and tags
-- Follows naming convention
+- Follows naming convention <projectname.type>
 - Has url to demo (if possible)
 
 ## Branches
@@ -17,6 +19,9 @@
 	- Do not allow bypassing the above settings
 - `dependabot` updates go to `develop` branch
 
+## Project
+- Uses yarn with zero-install config
+ 
 ## Automations
 - Runs `dependabot` if it uses npm or pip packages
 - Runs `codeql`

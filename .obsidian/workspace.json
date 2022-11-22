@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@templates/callouts.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@templates/callouts.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@templates/callouts.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@templates/callouts.md"
+                "file": "✂️ Snippets/github/repo-standards.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "bcf24b2f3cce0865",
   "lastOpenFiles": [
+    "@templates/callouts.md",
     "✂️ Snippets/github/readme-standards.md",
     "✂️ Snippets/github/repo-standards.md",
     "✂️ Snippets/node/node_modules-symlink.md",
@@ -212,7 +213,6 @@
     "✂️ Snippets/git/create-git-project.md",
     "✂️ Snippets/Untitled.md",
     "README.md",
-    "🔧 Projects/app.modeleo/ideation.md",
-    "🔧 Projects/app.singleplant/ideation.md"
+    "🔧 Projects/app.modeleo/ideation.md"
   ]
 }
