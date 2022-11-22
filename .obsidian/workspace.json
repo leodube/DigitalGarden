@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/github/readme-standards.md",
+                "file": "@templates/callouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✂️ Snippets/github/readme-standards.md",
+                "file": "@templates/callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✂️ Snippets/github/readme-standards.md",
+                "file": "@templates/callouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✂️ Snippets/github/readme-standards.md"
+                "file": "@templates/callouts.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "bcf24b2f3cce0865",
   "lastOpenFiles": [
+    "✂️ Snippets/github/readme-standards.md",
     "✂️ Snippets/github/repo-standards.md",
     "✂️ Snippets/node/node_modules-symlink.md",
     "✂️ Snippets/node/use-latest-version.md",
@@ -212,7 +213,6 @@
     "✂️ Snippets/Untitled.md",
     "README.md",
     "🔧 Projects/app.modeleo/ideation.md",
-    "🔧 Projects/app.singleplant/ideation.md",
-    "🔧 Projects/pkg.treedensity.viz/bookmarks.md"
+    "🔧 Projects/app.singleplant/ideation.md"
   ]
 }
