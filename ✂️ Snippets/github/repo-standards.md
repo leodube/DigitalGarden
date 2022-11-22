@@ -14,6 +14,7 @@
 		- CodeQL
 		- Netlify (if applicable)
 		- Vercel (if applicable)
+	- Do not allow bypassing the above settings
 - `dependabot` updates go to `develop` branch
 
 ## Automations
