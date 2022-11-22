@@ -10,6 +10,10 @@
 - Default branch is called `main`
 - Default branch has protections:
 	- Require a pull request before merging
+	- Require status checks to pass before merging
+		- CodeQL
+		- Netlify (if applicable)
+		- Vercel (if applicable)
 - `dependabot` updates go to `develop` branch
 
 ## Automations

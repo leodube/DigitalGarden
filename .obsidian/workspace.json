@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/python/create-virtualenv.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✂️ Snippets/python/create-virtualenv.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✂️ Snippets/python/create-virtualenv.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✂️ Snippets/python/create-virtualenv.md"
+                "file": "✂️ Snippets/github/repo-standards.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "27fe828a23f7ca70",
   "lastOpenFiles": [
+    "✂️ Snippets/python/create-virtualenv.md",
     "✂️ Snippets/node/use-latest-version.md",
     "✂️ Snippets/git/create-git-project.md",
     "✂️ Snippets/Untitled.md",
@@ -200,7 +201,6 @@
     "🔧 Projects/app.singleplant/ideation.md",
     "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
     "🔧 Projects/ca.leodube/ideation.md",
-    "✂️ Snippets/bash/commands.md",
-    "git/commands.md"
+    "✂️ Snippets/bash/commands.md"
   ]
 }
