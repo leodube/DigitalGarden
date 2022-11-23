@@ -8,95 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f42bd6a376adff8",
+            "id": "2750c3f87cab5b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/app.singleplant/ideation.md",
+                "file": "✂️ Snippets/yarn/migrate-to-yarn2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81c0cce193e23bbb",
+            "id": "e33d0b41e15a2608",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "✂️ Snippets/yarn/switch-to-pnp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27fe828a23f7ca70",
+            "id": "0daccf60a811ec46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/github/repo-standards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcf24b2f3cce0865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✂️ Snippets/github/repo-standards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea4e133eb53e1b13",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "378f8f706f22fbd2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad8b88effb36344a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔧 Projects/proj.cap/bookmarks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "688cc258ce7f59c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✂️ Snippets/node/nosync-script.md",
+                "file": "✂️ Snippets/yarn/yarn2-gitignore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✂️ Snippets/node/nosync-script.md",
+                "file": "✂️ Snippets/yarn/migrate-to-yarn2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✂️ Snippets/node/nosync-script.md",
+                "file": "✂️ Snippets/yarn/migrate-to-yarn2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✂️ Snippets/node/nosync-script.md"
+                "file": "✂️ Snippets/yarn/migrate-to-yarn2.md"
               }
             }
           },
@@ -230,17 +177,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "688cc258ce7f59c5",
+  "active": "2750c3f87cab5b36",
   "lastOpenFiles": [
+    "✂️ Snippets/yarn/switch-to-pnp.md",
+    "✂️ Snippets/yarn/yarn2-gitignore.md",
+    "✂️ Snippets/yarn/migrate-to-yarn2.md",
+    "✂️ Snippets/yarn/change-major-version.md",
+    "✂️ Snippets/node/nosync-script.md",
     "🔧 Projects/app.singleplant/ideation.md",
     "✂️ Snippets/git/gitignore.md",
-    "✂️ Snippets/yarn/change-major-version.md",
     "✂️ Snippets/github/repo-standards.md",
     "@templates/callouts.md",
-    "✂️ Snippets/github/readme-standards.md",
-    "✂️ Snippets/node/node_modules-symlink.md",
-    "✂️ Snippets/node/use-latest-version.md",
-    "✂️ Snippets/python/create-virtualenv.md",
-    "✂️ Snippets/git/create-git-project.md"
+    "✂️ Snippets/github/readme-standards.md"
   ]
 }
