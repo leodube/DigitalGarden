@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/yarn/yarn2-gitignore.md",
+                "file": "✂️ Snippets/node/nosync-script.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✂️ Snippets/yarn/yarn2-gitignore.md",
+                "file": "✂️ Snippets/node/nosync-script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✂️ Snippets/yarn/yarn2-gitignore.md",
+                "file": "✂️ Snippets/node/nosync-script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✂️ Snippets/yarn/yarn2-gitignore.md"
+                "file": "✂️ Snippets/node/nosync-script.md"
               }
             }
           },
@@ -180,9 +180,9 @@
   },
   "active": "0daccf60a811ec46",
   "lastOpenFiles": [
+    "✂️ Snippets/yarn/yarn2-gitignore.md",
     "✂️ Snippets/yarn/switch-to-pnp.md",
     "✂️ Snippets/yarn/migrate-to-yarn2.md",
-    "✂️ Snippets/yarn/yarn2-gitignore.md",
     "✂️ Snippets/yarn/change-major-version.md",
     "✂️ Snippets/node/nosync-script.md",
     "🔧 Projects/app.singleplant/ideation.md",
