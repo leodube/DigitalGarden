@@ -20,7 +20,8 @@
 - `dependabot` updates go to `develop` branch
 
 ## Project
-- Uses yarn with zero-install config
+- Uses yarn with plug'n'play config
+- Does not have `frontend/` and `backend/` separations
  
 ## Automations
 - Runs `dependabot` if it uses npm or pip packages
