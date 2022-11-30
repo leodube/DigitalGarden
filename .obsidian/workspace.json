@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dd9c59e2ec9ca3a8",
+        "id": "69b758533a8ed674",
         "type": "tabs",
         "children": [
           {
-            "id": "2750c3f87cab5b36",
+            "id": "108cec70669c1338",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✂️ Snippets/yarn/migrate-to-yarn2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33d0b41e15a2608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✂️ Snippets/yarn/switch-to-pnp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0daccf60a811ec46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✂️ Snippets/yarn/switch-to-pnp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✂️ Snippets/yarn/switch-to-pnp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✂️ Snippets/yarn/switch-to-pnp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✂️ Snippets/yarn/switch-to-pnp.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0daccf60a811ec46",
+  "active": "108cec70669c1338",
   "lastOpenFiles": [
-    "✂️ Snippets/yarn/migrate-to-yarn2.md",
     "✂️ Snippets/yarn/switch-to-pnp.md",
+    "✂️ Snippets/yarn/migrate-to-yarn2.md",
     "✂️ Snippets/yarn/yarn2-gitignore.md",
     "✂️ Snippets/github/repo-standards.md",
     "✂️ Snippets/node/nosync-script.md",
