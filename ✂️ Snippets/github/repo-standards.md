@@ -22,6 +22,7 @@
 ## Project
 - Uses yarn with plug'n'play config
 - Does not have `frontend/` and `backend/` separations
+	- Instead have frontend as default directory and a separate api directory
  
 ## Automations
 - Runs `dependabot` if it uses npm or pip packages

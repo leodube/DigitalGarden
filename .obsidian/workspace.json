@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/node/nosync-script.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✂️ Snippets/node/nosync-script.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✂️ Snippets/node/nosync-script.md",
+                "file": "✂️ Snippets/github/repo-standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✂️ Snippets/node/nosync-script.md"
+                "file": "✂️ Snippets/github/repo-standards.md"
               }
             }
           },
@@ -180,10 +180,10 @@
   },
   "active": "0daccf60a811ec46",
   "lastOpenFiles": [
+    "✂️ Snippets/node/nosync-script.md",
     "README.md",
     "✂️ Snippets/github/repo-standards.md",
     "✂️ Snippets/python/create-virtualenv.md",
-    "✂️ Snippets/node/nosync-script.md",
     "✂️ Snippets/yarn/yarn2-gitignore.md",
     "✂️ Snippets/yarn/switch-to-pnp.md",
     "✂️ Snippets/yarn/migrate-to-yarn2.md",
