@@ -4,10 +4,11 @@
 - Follows [[_README Standards|README standards]].
 - Follows []
 
-## Description
-- Has 2 line description and tags
-- Follows naming convention <projectname.type> or <type.projectname>
-- Has url to demo (if possible)
+## General
+- **Name:** PascalCase and preferably 2-3 words
+- **Description:** 2-3 line description with a descriptive emoji
+- **Tags:** relevant technologies
+- **Url:** Has demo (if possible)
 
 ## Branches
 - Default branch is called `main`
