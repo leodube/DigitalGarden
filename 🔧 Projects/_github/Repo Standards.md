@@ -9,8 +9,15 @@
 - **Description:** 2-3 line description with a descriptive emoji
 - **Tags:** relevant technologies
 - **Url:** Has demo (if possible)
+- **Social preview:** If public
 
-## Branches
+#### Features
+- Turn off unused feature (i.e. wiki)
+
+#### Other
+- Always suggest updating pull request branches
+
+#### Branches
 - Default branch is called `main`
 - Default branch has protections:
 	- Require a pull request before merging
