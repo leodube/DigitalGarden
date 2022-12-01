@@ -11,11 +11,40 @@
             "id": "108cec70669c1338",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🔧 Projects/_github/Profile Standards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6542948f01aa051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔧 Projects/_github/README Standards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dee35866188f9f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔧 Projects/_github/Repo Standards.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🔧 Projects/_github/Repo Standards.md"
+              }
             }
           },
           {
@@ -145,8 +178,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "108cec70669c1338",
+  "active": "dee35866188f9f3c",
   "lastOpenFiles": [
+    "🔧 Projects/_github/README Standards.md",
+    "🔧 Projects/_github/Profile Standards.md",
     "✂️ Snippets/yarn/switch-to-pnp.md",
     "✂️ Snippets/yarn/migrate-to-yarn2.md",
     "✂️ Snippets/yarn/yarn2-gitignore.md",
@@ -154,8 +189,6 @@
     "✂️ Snippets/node/nosync-script.md",
     "README.md",
     "✂️ Snippets/python/create-virtualenv.md",
-    "✂️ Snippets/yarn/change-major-version.md",
-    "🔧 Projects/app.singleplant/ideation.md",
-    "✂️ Snippets/git/gitignore.md"
+    "✂️ Snippets/yarn/change-major-version.md"
   ]
 }
