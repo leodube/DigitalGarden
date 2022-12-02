@@ -17,7 +17,7 @@
 
 #### Branches
 - Default branch is called `main`
-- Default branch has protections:
+- Default branch has protections (if public):
 	- Require a pull request before merging
 	- Require status checks to pass before merging
 		- CodeQL
@@ -29,7 +29,7 @@
 - Uses yarn with plug'n'play config
 
 ## GitHub Tools
-- Use Github Projects to track issues
+- Use Github Projects to track issues on active projects
 - If a package, deploy to npm and to github packages
 - Add issues as needed
  
