@@ -25,26 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/_github/README Standards.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dee35866188f9f3c",
+            "id": "3e0c3a472a1bb0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 LeetCode/2-add-two-numbers.md",
+                "file": "🔧 Projects/_github/README Standards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 LeetCode/2-add-two-numbers.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 LeetCode/2-add-two-numbers.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 LeetCode/2-add-two-numbers.md"
+                "file": "🔧 Projects/_github/Repo Standards.md"
               }
             }
           },
@@ -178,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dee35866188f9f3c",
+  "active": "d6542948f01aa051",
   "lastOpenFiles": [
-    "💻 LeetCode/1-two-sum.md",
+    "🔧 Projects/_github/README Standards.md",
+    "🔧 Projects/_github/Repo Standards.md",
     "💻 LeetCode/2-add-two-numbers.md",
+    "💻 LeetCode/1-two-sum.md",
     "💻 LeetCode/3-longest-substring-without-repeating-characters.md",
     "💻 LeetCode/4-median-of-two-sorted-arrays.md",
     "💻 LeetCode/5-longest-palindromic-substring.md",
     "💻 LeetCode/6-zigzag-conversion.md",
     "💻 LeetCode/7-reverse-integer.md",
-    "💻 LeetCode/8-string-to-integer-(atoi).md",
-    "💻 LeetCode/10-regular-expression-matching.md",
-    "💻 LeetCode/9-palindrome-number.md"
+    "💻 LeetCode/8-string-to-integer-(atoi).md"
   ]
 }
