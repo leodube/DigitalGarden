@@ -9,12 +9,10 @@
 - **Description:** 2-3 line description with a descriptive emoji
 - **Tags:** relevant technologies
 - **Url:** Has demo (if possible)
+
+## Settings
 - **Social preview:** If public
-
-#### Features
-- Turn off unused feature (i.e. wiki)
-
-#### Other
+- **Features:** Turn off unused feature (i.e. wiki, project)
 - Always suggest updating pull request branches
 
 #### Branches
