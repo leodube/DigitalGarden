@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md",
+                "file": "💻 LeetCode/2-add-two-numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md",
+                "file": "💻 LeetCode/2-add-two-numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md",
+                "file": "💻 LeetCode/2-add-two-numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md"
+                "file": "💻 LeetCode/2-add-two-numbers.md"
               }
             }
           },
@@ -180,15 +180,15 @@
   },
   "active": "dee35866188f9f3c",
   "lastOpenFiles": [
-    "🔧 Projects/_github/README Standards.md",
-    "🔧 Projects/_github/Profile Standards.md",
-    "✂️ Snippets/yarn/switch-to-pnp.md",
-    "✂️ Snippets/yarn/migrate-to-yarn2.md",
-    "✂️ Snippets/yarn/yarn2-gitignore.md",
-    "✂️ Snippets/github/repo-standards.md",
-    "✂️ Snippets/node/nosync-script.md",
-    "README.md",
-    "✂️ Snippets/python/create-virtualenv.md",
-    "✂️ Snippets/yarn/change-major-version.md"
+    "💻 LeetCode/1-two-sum.md",
+    "💻 LeetCode/2-add-two-numbers.md",
+    "💻 LeetCode/3-longest-substring-without-repeating-characters.md",
+    "💻 LeetCode/4-median-of-two-sorted-arrays.md",
+    "💻 LeetCode/5-longest-palindromic-substring.md",
+    "💻 LeetCode/6-zigzag-conversion.md",
+    "💻 LeetCode/7-reverse-integer.md",
+    "💻 LeetCode/8-string-to-integer-(atoi).md",
+    "💻 LeetCode/10-regular-expression-matching.md",
+    "💻 LeetCode/9-palindrome-number.md"
   ]
 }
