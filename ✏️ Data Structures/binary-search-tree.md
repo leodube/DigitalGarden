@@ -1,7 +1,7 @@
 # Binary Search Tree
 #data-structure 
 
-See [[binary-tree|Binary Tree]] first.
+Also see [[binary-tree|Binary Tree]].
 
 ## What is it?
 **Binary Search Tree** is a node-based binary tree data structure which has the following properties:

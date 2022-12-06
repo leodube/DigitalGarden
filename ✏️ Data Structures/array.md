@@ -13,7 +13,7 @@ An array is a collection of items stored at contiguous memory locations. The ide
 -   Arrays represent multiple data items of the same type using a single name.
 
 ###### Disadvantages
-You can’t change the size i.e. once you have declared the array you can’t change its size because of static memory allocation. Here Insertion(s) and deletion(s) are difficult as the elements are stored in consecutive memory locations and the shifting operation is costly too.
+You can’t change the size i.e. once you have declared the array you can’t change its size because of static memory allocation. Here insertion(s) and deletion(s) are difficult as the elements are stored in consecutive memory locations and the shifting operation is costly too.
 
 ###### Applications
 -   Array stores data elements of the same data type.

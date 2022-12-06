@@ -52,7 +52,7 @@
     "workspace:undo-close-pane": 26,
     "workspace:close": 26,
     "workspace:close-others": 26,
-    "graph:open": 1,
+    "graph:open": 2,
     "editor:open-link-in-new-leaf": 2,
     "workspace:new-tab": 2,
     "app:toggle-default-new-pane-mode": 2
