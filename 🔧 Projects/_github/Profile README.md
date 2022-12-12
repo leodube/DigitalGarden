@@ -2,9 +2,9 @@
 #github #profile #readme
 
 # Hi there 👋, I'm Leo!
-*Brief description*
+*I am a full stack software developer with a passion for adventure. I have experience in multiple languages and frameworks, and enjoy solving complex problems.*
 
-## A bit more about me...
+## A bit more about me 🙋🏼‍♂️
 - 🔭 I am currently working on **C#.NET** and **React** Projects
 - 🌱 I am currently learning **Hugo** and **React Native**
 - 👨‍💻 Check out my projects on [my portfolio](https://leodube.ca/)
