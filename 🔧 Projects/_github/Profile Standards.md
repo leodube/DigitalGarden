@@ -5,7 +5,7 @@
 
 ## A bit more about me...
 - 🔭 I am currently working on **C#.NET** and **React** Projects
-- 🌱 I am currently learning **Hugo**
+- 🌱 I am currently learning **Hugo** and **React Native**
 - 👨‍💻 Check out my projects on [my portfolio](https://leodube.ca/)
 - 📫 How to reach me: [contact@leodube.ca](mailto:contact@leodube.ca)
 - 😄 Pronouns: he/him
