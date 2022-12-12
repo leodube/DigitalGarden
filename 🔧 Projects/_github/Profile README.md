@@ -27,6 +27,7 @@
 <p>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 <img src="https://img.icons8.com/color/35/000000/vue-js.png"/>
+<img src="https://img.icons8.com/color/35/000000/nodejs.png"/>
 </p>
 <p>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
