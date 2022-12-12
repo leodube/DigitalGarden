@@ -42,7 +42,7 @@
 </p>
 
 ### Stats Summary 📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodube&hide=contribs&count_private=true&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodube&hide=contribs&count_private=true&show_icons=true&theme=transparent)
 
 ## Examples
 - https://github.com/tomondre
