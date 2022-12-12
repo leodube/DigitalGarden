@@ -2,7 +2,7 @@
 #github #repo #standards
 
 - Follows [[_README Standards|README standards]].
-- Follows [[Profile Standards]].
+- Follows [[Profile README]].
 
 ## General
 - **Name:** PascalCase and preferably 2-3 words

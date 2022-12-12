@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/_github/Profile Standards.md",
+                "file": "🔧 Projects/_github/Profile README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/_github/Profile Standards.md",
+                "file": "🔧 Projects/_github/Profile README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/_github/Profile Standards.md",
+                "file": "🔧 Projects/_github/Profile README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/_github/Profile Standards.md"
+                "file": "🔧 Projects/_github/Profile README.md"
               }
             }
           },
@@ -155,9 +155,9 @@
   },
   "active": "108cec70669c1338",
   "lastOpenFiles": [
-    "🔧 Projects/_github/README Standards.md",
-    "🔧 Projects/_github/Profile Standards.md",
     "🔧 Projects/_github/Repo Standards.md",
+    "🔧 Projects/_github/README Standards.md",
+    "🔧 Projects/_github/Profile README.md",
     "README.md",
     "✏️ Data Structures/stack.md",
     "✏️ Data Structures/queue.md",
