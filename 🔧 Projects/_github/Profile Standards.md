@@ -13,6 +13,7 @@
 
 ### Languages and tools
 <p>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
 <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
