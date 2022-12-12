@@ -32,6 +32,3 @@ This mostly will be useful if you are developing an open-source project that you
 
 ## Include Tests
 Go the extra mile and write tests for your application. Then provide code examples and how to run them. This will help show that you are certain and confident that your project will work without any challenges, which will give other people confidence in it, too
-
-## Other
-- Comment on yarn zero-install

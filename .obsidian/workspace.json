@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d6542948f01aa051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e0c3a472a1bb0fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🔧 Projects/_github/Profile Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🔧 Projects/_github/Profile Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🔧 Projects/_github/Profile Standards.md"
               }
             }
           },
@@ -178,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e0c3a472a1bb0fd",
+  "active": "108cec70669c1338",
   "lastOpenFiles": [
+    "🔧 Projects/_github/README Standards.md",
+    "🔧 Projects/_github/Profile Standards.md",
+    "🔧 Projects/_github/Repo Standards.md",
+    "README.md",
     "✏️ Data Structures/stack.md",
     "✏️ Data Structures/queue.md",
     "✏️ Data Structures/linked-list.md",
     "✏️ Data Structures/heap.md",
     "✏️ Data Structures/hashing.md",
-    "✏️ Data Structures/graph.md",
-    "✏️ Data Structures/binary-tree.md",
-    "✏️ Data Structures/binary-search-tree.md",
-    "✏️ Data Structures/array.md",
-    "🔧 Projects/_github/README Standards.md"
+    "✏️ Data Structures/graph.md"
   ]
 }
