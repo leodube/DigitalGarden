@@ -4,11 +4,12 @@
 *Brief description*
 
 ## A bit more about me...
-- I am currently working on...
-- I am currently learning...
-- How to reach me...
-- Pronouns...
-- Fun fact...
+- 🔭 I am currently working on **C#.NET** and **React** Projects
+- 🌱 I am currently learning **Hugo**
+- 👨‍💻 Check out my projects on [my portfolio](https://leodube.ca/)
+- 📫 How to reach me: [contact@leodube.ca](mailto:contact@leodube.ca)
+- 😄 Pronouns: he/him
+- 🌲 Fun fact: I've planted 236,860 trees
 
 ### Languages and tools
 <p>
@@ -21,7 +22,6 @@
 <img src="https://img.icons8.com/color/35/000000/github.png"/> 
 <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
 </p>
-
 
 
 ## Examples
