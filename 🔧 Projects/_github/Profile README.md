@@ -12,7 +12,7 @@
 - 😄 Pronouns: he/him
 - 🌲 Fun fact: I've planted 236,860 trees
 
-### Languages
+### Languages 🤟
 <p>
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="Javascript"/> 
 <img src="https://img.icons8.com/color/35/000000/typescript.png" title="Typescript"/>
@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/> 
 </p>
 
-### Frameworks and Tools
+### Frameworks and Tools 🧰
 <p>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" title="React"/>
 <img src="https://img.icons8.com/color/35/000000/vue-js.png" title="Vue.js"/>
@@ -41,6 +41,8 @@
 <img src="https://img.icons8.com/color/35/000000/amazon-web-services.png" title="Amazon Web Services"/>
 </p>
 
+### Stats Summary 📈
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodube&hide=contribs&count_private=true&show_icons=true)
 
 ## Examples
 - https://github.com/tomondre
