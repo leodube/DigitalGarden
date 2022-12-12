@@ -14,20 +14,22 @@
 
 ### Languages
 <p>
-<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/35/000000/typescript.png"/>
-<img src="https://img.icons8.com/color/35/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/35/000000/python.png">
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="Javascript"/> 
+<img src="https://img.icons8.com/color/35/000000/typescript.png" title="Typescript"/>
+<img src="https://img.icons8.com/color/35/000000/c-sharp-logo.png" title="C#"/>
+<img src="https://img.icons8.com/color/35/000000/python.png" title="Python">
+<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo.png" title="Java"/>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML5"/> 
+<img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/> 
 </p>
 
 ### Frameworks and Tools
 <p>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/35/000000/vue-js.png"/>
-<img src="https://img.icons8.com/color/35/000000/nodejs.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" title="React"/>
+<img src="https://img.icons8.com/color/35/000000/vue-js.png" title="Vue.js"/>
+<img src="https://img.icons8.com/color/35/000000/nodejs.png" title="Node.js"/>
+<img src="https://img.icons8.com/color/35/000000/net-framework.png" title=".Net"/>
+<img src="https://img.icons8.com/color/35/000000/bootstrap.png" title="Bootstrap"/>
 </p>
 <p>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
