@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/_github/Profile README.md",
+                "file": "💻 LeetCode/1-two-sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#data-structure",
+                "query": "tag:#todo/ds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/_github/Profile README.md",
+                "file": "💻 LeetCode/1-two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/_github/Profile README.md",
+                "file": "💻 LeetCode/1-two-sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/_github/Profile README.md"
+                "file": "💻 LeetCode/1-two-sum.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "108cec70669c1338",
   "lastOpenFiles": [
-    "🔧 Projects/_github/Repo Standards.md",
-    "🔧 Projects/_github/README Standards.md",
-    "🔧 Projects/_github/Profile README.md",
-    "README.md",
-    "✏️ Data Structures/stack.md",
-    "✏️ Data Structures/queue.md",
-    "✏️ Data Structures/linked-list.md",
+    "💻 LeetCode/2-add-two-numbers.md",
     "✏️ Data Structures/heap.md",
     "✏️ Data Structures/hashing.md",
-    "✏️ Data Structures/graph.md"
+    "✏️ Data Structures/graph.md",
+    "✏️ Data Structures/binary-tree.md",
+    "✏️ Data Structures/binary-search-tree.md",
+    "✏️ Data Structures/array.md",
+    "🔧 Projects/_github/README Standards.md",
+    "🔧 Projects/_github/Profile README.md",
+    "🔧 Projects/_github/Repo Standards.md"
   ]
 }
