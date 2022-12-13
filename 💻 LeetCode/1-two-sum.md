@@ -2,7 +2,7 @@
 #lc/easy #lc/success
 
 ## Question
-Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
+Given an [[array]] of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 
 You may assume that each input would have **_exactly_ one solution**, and you may not use the _same_ element twice.
 
@@ -63,12 +63,12 @@ function twoSum(nums: number[], target: number): number[] {
 
 >[!Note]
 > There should be an algorithm that is less than $O(n^2)$ time complexity.
-> - Time complexity: $O(n^2)$. For each element, we try to find its complement by looping through the rest of the array which takes $O(n)$ time. Therefore, the time complexity is $O(n^2)$.
-> - Space complexity: $O(1)$. The space required does not depend on the size of the input array, so only constant space is used.
+> - Time complexity: $O(n^2)$. For each element, we try to find its complement by looping through the rest of the [[array]] which takes $O(n)$ time. Therefore, the time complexity is $O(n^2)$.
+> - Space complexity: $O(1)$. The space required does not depend on the size of the input [[array]], so only constant space is used.
 
-### LeetCode Solution 1: Two-Pass Hash Table
+### LeetCode Solution 1: Two-Pass [[hashing|Hash Table]]
 ###### Intuition
-To improve our runtime complexity, we need a more efficient way to check if the complement exists in the array. If the complement exists, we need to get its index. What is the best way to maintain a mapping of each element in the array to its index? A [[hashing|hash table]].
+To improve our runtime complexity, we need a more efficient way to check if the complement exists in the [[array]]. If the complement exists, we need to get its index. What is the best way to maintain a mapping of each element in the [[array]] to its index? A [[hashing|hash table]].
 
 We can reduce the lookup time from $O(n)$ to $O(1)$ by trading space for speed. A hash table is well suited for this purpose because it supports fast lookup in _near_ constant time. I say "near" because if a collision occurred, a lookup could degenerate to $O(n)$ time. However, lookup in a hash table should be amortized $O(1)$ time as long as the hash function was chosen carefully.
 
