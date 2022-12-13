@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 LeetCode/3-longest-substring-without-repeating-characters.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 LeetCode/3-longest-substring-without-repeating-characters.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 LeetCode/3-longest-substring-without-repeating-characters.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 LeetCode/3-longest-substring-without-repeating-characters.md"
+                "file": "🔧 Projects/_github/Repo Standards.md"
               }
             }
           },
@@ -156,6 +155,7 @@
   },
   "active": "108cec70669c1338",
   "lastOpenFiles": [
+    "💻 LeetCode/3-longest-substring-without-repeating-characters.md",
     "💻 LeetCode/1-two-sum.md",
     "💻 LeetCode/2-add-two-numbers.md",
     "✏️ Data Structures/heap.md",
@@ -164,7 +164,6 @@
     "✏️ Data Structures/binary-tree.md",
     "✏️ Data Structures/binary-search-tree.md",
     "✏️ Data Structures/array.md",
-    "🔧 Projects/_github/README Standards.md",
-    "🔧 Projects/_github/Profile README.md"
+    "🔧 Projects/_github/README Standards.md"
   ]
 }

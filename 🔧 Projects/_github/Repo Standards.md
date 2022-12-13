@@ -23,7 +23,8 @@
 		- CodeQL
 		- Netlify (if applicable)
 		- Vercel (if applicable)
-- `dependabot` updates go to `develop` branch
+- `dependabot` updates go to `dependencies` branch
+	- This branch runs checks to make sure dependency update does not break anything
 
 ## Project
 - Uses yarn with plug'n'play config
