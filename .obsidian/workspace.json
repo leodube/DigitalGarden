@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md",
+                "file": "templates/callouts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a80e7aeb4a264fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/quartz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md",
+                "file": "templates/quartz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md",
+                "file": "templates/quartz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/_github/Repo Standards.md"
+                "file": "templates/quartz.md"
               }
             }
           },
@@ -164,8 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "108cec70669c1338",
+  "active": "1a80e7aeb4a264fa",
   "lastOpenFiles": [
+    "templates/callouts.md",
+    "🔧 Projects/_github/Repo Standards.md",
     "🔧 Projects/_github/README Standards.md",
     "🔧 Projects/_github/Profile README.md",
     "📕 Reading/Cracking the Coding Interview/6-technical-questions/technical-preparation.md",
@@ -173,8 +188,6 @@
     "📕 Reading/Cracking the Coding Interview/6-technical-questions/five-algorithm-approach.md",
     "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
     "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md",
-    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/writing-a-great-resume.md",
-    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/getting-the-right-experience.md",
-    "📕 Reading/Cracking the Coding Interview/3-special-situations/start-ups.md"
+    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/writing-a-great-resume.md"
   ]
 }

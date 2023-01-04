@@ -7,7 +7,7 @@
   "descriptionOfActions": false,
   "mouseStatistics": {
     "command-palette:open": 1,
-    "insert-template": 4,
+    "insert-template": 5,
     "file-explorer:new-file": 15,
     "editor:toggle-source": 2,
     "app:delete-file": 10,
@@ -56,7 +56,9 @@
     "editor:open-link-in-new-leaf": 2,
     "workspace:new-tab": 2,
     "app:toggle-default-new-pane-mode": 2,
-    "workspace:toggle-stacked-tabs": 1
+    "workspace:toggle-stacked-tabs": 1,
+    "insert-current-date": 1,
+    "insert-current-time": 1
   },
   "keyboardStatistics": {}
 }
