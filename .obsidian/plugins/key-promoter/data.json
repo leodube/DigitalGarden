@@ -55,7 +55,8 @@
     "graph:open": 4,
     "editor:open-link-in-new-leaf": 2,
     "workspace:new-tab": 2,
-    "app:toggle-default-new-pane-mode": 2
+    "app:toggle-default-new-pane-mode": 2,
+    "workspace:toggle-stacked-tabs": 1
   },
   "keyboardStatistics": {}
 }

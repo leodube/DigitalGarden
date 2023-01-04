@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Data Structures/array.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "array",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Data Structures/array.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Data Structures/array.md",
+                "file": "🔧 Projects/_github/Repo Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Data Structures/array.md"
+                "file": "🔧 Projects/_github/Repo Standards.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "108cec70669c1338",
   "lastOpenFiles": [
-    "🔧 Projects/_github/Repo Standards.md",
-    "💻 LeetCode/3-longest-substring-without-repeating-characters.md",
-    "💻 LeetCode/1-two-sum.md",
-    "💻 LeetCode/2-add-two-numbers.md",
-    "✏️ Data Structures/heap.md",
-    "✏️ Data Structures/hashing.md",
-    "✏️ Data Structures/graph.md",
-    "✏️ Data Structures/binary-tree.md",
-    "✏️ Data Structures/binary-search-tree.md",
-    "✏️ Data Structures/array.md"
+    "🔧 Projects/_github/README Standards.md",
+    "🔧 Projects/_github/Profile README.md",
+    "📕 Reading/Cracking the Coding Interview/6-technical-questions/technical-preparation.md",
+    "📕 Reading/Cracking the Coding Interview/6-technical-questions/handling-technical-questions.md",
+    "📕 Reading/Cracking the Coding Interview/6-technical-questions/five-algorithm-approach.md",
+    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
+    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md",
+    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/writing-a-great-resume.md",
+    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/getting-the-right-experience.md",
+    "📕 Reading/Cracking the Coding Interview/3-special-situations/start-ups.md"
   ]
 }
