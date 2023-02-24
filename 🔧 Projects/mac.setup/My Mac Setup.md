@@ -16,7 +16,7 @@
 - Docker
 - VSCode
 - Obsidian
-- Github Desktop (install )
+- Github Desktop (install git first)
 
 **Command Line:**
 - Command Line Tools for Xcode
