@@ -1,6 +1,7 @@
 [
   "tag-wrangler",
   "key-promoter",
-  "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "metadata-extractor",
+  "obsidian-git"
 ]
