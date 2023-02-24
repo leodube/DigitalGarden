@@ -1,0 +1,121 @@
+# 2. Add Two Numbers
+#lc/medium #lc/success
+
+## Question
+You are given two **non-empty** [[linked-list|linked lists]] representing two non-negative integers. The digits are stored in **reverse order**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+###### Example 1:
+![](https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg)
+
+```
+Input: l1 = [2,4,3], l2 = [5,6,4]
+Output: [7,0,8]
+Explanation: 342 + 465 = 807.
+```
+
+###### Example 2:
+```
+Input: l1 = [0], l2 = [0]
+Output: [0]
+```
+
+###### Example 3:
+```
+**Input:** l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
+**Output:** [8,9,9,9,0,0,0,1]
+```
+
+###### Constraints:
+-   The number of nodes in each linked list is in the range `[1, 100]`.
+-   `0 <= Node.val <= 9`
+-   It is guaranteed that the list represents a number that does not have leading zeros.
+
+---
+## Solution
+### Initial Solution
+- Each linked list stores a number in reverse order, meaning the first element of the linked list is the least significant digit. Carry over from the sum (sum >10) is therefore passed to the next sum of the nodes.
+- We need to traverse the linked list, adding the nodes as we go. 
+- The resulting linked list can be **larger** than the longest input list due to carry over of the remainder
+
+```typescript
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     val: number
+ *     next: ListNode | null
+ *     constructor(val?: number, next?: ListNode | null) {
+ *         this.val = (val===undefined ? 0 : val)
+ *         this.next = (next===undefined ? null : next)
+ *     }
+ * }
+ */
+
+function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+	// initialize variables
+    let lsum = new ListNode();
+    let head = lsum;	// this is an like a pointer to the start of lsum
+    let sum = 0;
+    let carry = 0;
+
+	// loop through input linked lists
+    while (l1 != null || l2 != null) {
+        sum = (l1==null ? 0 : l1.val) + (l2==null ? 0 : l2.val) + carry;
+        
+		// update carry if necessary
+        if (sum > 9) {
+            carry = 1;
+            sum = sum - 10;
+        } else {
+            carry = 0;
+        }
+        
+        lsum.next = new ListNode(sum);      
+        lsum = lsum.next;
+        l1 = l1?.next;
+        l2 = l2?.next;
+    }
+        
+	// one last check to see if we need to add an extra node due to carry
+    if (carry > 0)
+        lsum.next = new ListNode(carry);
+        
+    return head.next;
+};
+```
+
+###### Analysis
+> [!Success]
+> - Runtime: 168 ms, faster than 55.04% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+> - Memory Usage: 47.9 MB, less than 86.69% of TypeScript online submissions for Longest Substring Without Repeating Characters.
+
+### LeetCode Solution: Elementary Math
+###### Intuition
+Keep track of the carry using a variable and simulate digits-by-digits sum starting from the head of list, which contains the least-significant digit.
+
+###### Algorithm
+Just like how you would sum two numbers on a piece of paper, we begin by summing the least-significant digits, which is the head of $l1$ and $l2$. Since each digit is in the range of $0 \ldots 9$ summing two digits may "overflow". For example $5 + 7 = 12$. In this case, we set the current digit to 2 and bring over the $carry = 1$ to the next iteration. $carry$ must be either 0 or 1 because the largest possible sum of two digits (including the carry) is 9 + 9 + 1 = 19.
+
+###### Implementation
+```typescript
+function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+	let dummyHead = new ListNode(0);
+	let curr = dummyHead;
+	let carry = 0;
+	
+	while (l1 != null || l2 != null || carry != 0) {
+		let x = (l1 != null) ? l1.val : 0;
+		let y = (l2 != null) ? l2.val : 0;
+		let sum = carry + x + y;
+		carry = parseInt(sum / 10);
+		curr.next = new ListNode(sum % 10);
+		curr = curr.next;
+		if (l1 != null)
+			l1 = l1.next;
+		if (l2 != null)
+			l2 = l2.next;
+	}
+	return dummyHead.next;
+}
+```

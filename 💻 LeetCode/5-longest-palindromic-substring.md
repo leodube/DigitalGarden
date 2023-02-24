@@ -1,0 +1,107 @@
+# #5. Longest Palindromic Substring
+#lc/medium #lc/success
+
+## Question
+Given a string `s`, return _the longest palindromic substring_ in `s`.
+
+###### Example 1:
+```
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
+```
+
+###### Example 2:
+```
+Input: s = "cbbd"
+Output: "bb"
+```
+
+###### Constraints:
+-   `1 <= s.length <= 1000`
+-   `s` consist of only digits and English letters.
+
+---
+## Solution
+### Initial Solution
+- One (slow) approach is to test every single substring to check if its a palindrome, then return the largest one.
+```typescript
+function longestPalindrome(s: string): string {
+    let ss = "";          // substring
+    let ssLongest = s[0]; // longest palindrome substring
+    let nLongest = 1;     // number of chars in longest palindrom substring
+
+	// loop through substrings, longest to smallest
+    for (let i=0; i<s.length; i++) {
+        for (let j=s.length-1; j>i; j--) {
+            ss = s.slice(i, j+1);
+
+			// if substring shorter than longest found palindrome,
+			// any shorter substrings will not be the result.
+            if (ss.length < nLongest) {
+                break;
+            }
+            
+            if (isPalindrome(ss)) {
+                if (ss.length > nLongest) {
+                    nLongest = ss.length;
+                    ssLongest = ss;
+                    break;
+                }
+            }
+        }
+    }
+    
+    return ssLongest;
+};
+
+function isPalindrome(s: string): boolean {
+    for (let i=0; i<Math.ceil(s.length/2); i++) {
+        if (s[i] != s[s.length-1-i])
+            return false;
+    }
+    
+    return true;
+}
+```
+
+###### Analysis
+>[!success]
+> - Runtime: 836 ms, faster than 28.24% of TypeScript online submissions for Longest Palindromic Substring.
+> - Memory Usage: 49.2 MB, less than 44.83% of TypeScript online submissions for Longest Palindromic Substring.
+
+### Leetcode Solution 4: Expand Around Center 
+In fact, we could solve it in $O(n^2)$ time using only constant space.
+
+We observe that a palindrome mirrors around its center. Therefore, a palindrome can be expanded from its center, and there are only $2n - 1$ such centers.
+
+You might be asking why there are $2n - 1$ but not $n$ centers? The reason is the center of a palindrome can be in between two letters. Such palindromes have even number of letters (such as "abba") and its center are between the two 'b's.
+
+```typescript
+function longestPalindrome(s: string): string {
+    if (s == null || s.length < 1) return "";
+    let start = 0;
+    let end = 0;
+    
+    for (let i=0; i<s.length; i++) {
+        let len1 = expandAroundCenter(s, i, i);
+        let len2 = expandAroundCenter(s, i, i+1);
+        let len = Math.max(len1, len2);
+        if (len > end - start) {
+            start = i - (len - 1) / 2;
+            end = i + len / 2;
+        }
+    }
+    
+    return s.substring(start, end+1);
+}
+
+function expandAroundCenter(s: string, left: number, right: number): number {
+    let L = left, R = right;
+    while ( L >= 0 && R < s.length && s[L] == s[R]) {
+        L--;
+        R++;
+    }
+    return R-L-1;
+}
+```

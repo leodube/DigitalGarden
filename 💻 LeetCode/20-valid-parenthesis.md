@@ -1,0 +1,120 @@
+# #20. Valid Parenthesis
+#lc/easy #lc/success
+
+## Question
+Given a string `s` containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+An input string is valid if:
+
+1.  Open brackets must be closed by the same type of brackets.
+2.  Open brackets must be closed in the correct order.
+3.  Every close bracket has a corresponding open bracket of the same type.
+
+###### Example 1:
+```
+Input: s = "()"
+Output: true
+```
+
+###### Example 2:
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+###### Example 3:
+```
+Input: s = "(]"
+Output: false
+```
+
+###### Constraints:
+-   `1 <= s.length <= 104`
+-   `s` consists of parentheses only `'()[]{}'`.
+---
+## Solution
+### Initial Solution
+- Use a [[stack]]
+
+```typescript
+let openParenth = ['(', '{', '['];
+let closedParenth = [')', '}', ']'];
+
+function isValid(s: string): boolean {
+    let sa = [];    
+    for (let i=0; i<s.length; i++) {
+        if (openParenth.includes(s[i])) {
+            sa.push(s[i]);
+        } else if (closedParenth.includes(s[i])) {
+            switch (s[i]) {
+                case ')':
+                    if (sa[sa.length-1] == '(') 
+                        sa.pop();
+                    else
+                        return false;
+                    break;
+                case '}':
+                    if (sa[sa.length-1] == '{') 
+                        sa.pop();
+                    else
+                        return false;
+                    break;
+                case ']':
+                    if (sa[sa.length-1] == '[') 
+                        sa.pop();
+                    else
+                        return false;
+                    break;
+                default:
+                    return false;
+            }
+        } else {
+            return false;
+        }
+    }
+    
+    return sa.length == 0 ? true : false
+};
+
+```
+
+###### Analysis
+> [!success]
+> - Runtime: 145 ms, faster than 7.86% of TypeScript online submissions for Valid Parentheses.
+> - Memory Usage: 43.6 MB, less than 76.23% of TypeScript online submissions for Valid Parentheses.
+
+### LeetCode Solution
+>[!Note]
+>Premium required
+
+### User Solution
+What's interesting about this solution is that it uses a [[hashing|hash]] map type object to store the brackets. 
+```typescript
+function isValid(s: string): boolean {
+    const o = {
+        ')':'(',
+        '}':'{',
+        ']':'['
+    };
+    
+    const sa = [];
+    
+    for (let i = 0; i < s.length; i++) {
+        let currB = s[i];
+        
+        if (!(currB in o)){
+            sa.push(currB);
+        } else if (sa.at(-1) === o[currB]) {
+            sa.pop();
+        } else {
+            return false;
+        }
+    }
+    
+    return sa.length ? false : true;
+};
+```
+
+###### Analysis
+- Runtime: 106 ms, faster than 55.78% of TypeScript online submissions for Valid Parentheses.
+- Memory Usage: 42.6 MB, less than 99.01% of TypeScript online submissions for Valid Parentheses.
