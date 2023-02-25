@@ -11,6 +11,7 @@
 - Google drive backup
 
 **Games:**
+- Steam
 - Minecraft
 
 **Development:**
