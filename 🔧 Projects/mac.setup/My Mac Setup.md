@@ -2,6 +2,7 @@
 
 **Utilities:**
 - Rectangle
+- Mullvad
 
 **Apps:**
 - Chrome
