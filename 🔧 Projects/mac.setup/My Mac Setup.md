@@ -25,4 +25,3 @@
 - nvm
 - Homebrew:
   - Git
-  - autoconf (bc failed npm builds)
