@@ -14,7 +14,6 @@
 **Games:**
 - Minecraft
 
-
 **Development:**
 - Docker
 - VSCode
@@ -26,3 +25,4 @@
 - nvm
 - Homebrew:
   - Git
+  - autoconf (bc failed npm builds)
