@@ -3,6 +3,7 @@
 **Utilities:**
 - Rectangle
 - Mullvad
+- Omnidisk Sweeper
 
 **Apps:**
 - Chrome
@@ -12,8 +13,7 @@
 
 **Games:**
 - Minecraft
-- Franken
-- Void Pyramid
+
 
 **Development:**
 - Docker
