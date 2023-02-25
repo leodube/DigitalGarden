@@ -23,5 +23,6 @@
 
 **Command Line:**
 - Command Line Tools for Xcode
+- nvm
 - Homebrew:
   - Git
