@@ -11,8 +11,9 @@
 - Google drive backup
 
 **Games:**
-- Steam
 - Minecraft
+- Franken
+- Void Pyramid
 
 **Development:**
 - Docker
