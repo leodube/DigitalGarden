@@ -25,4 +25,4 @@
 - nvm
 - yarn
 - Homebrew:
-  - Git
+  - git
