@@ -22,6 +22,7 @@
 
 **Command Line:**
 - Command Line Tools for Xcode
+- Java
 - nvm
 - yarn
 - Homebrew:
