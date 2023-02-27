@@ -10,6 +10,7 @@
 - Bitwarden
 - Spotify
 - Google drive backup
+- Height
 
 **Games:**
 - Minecraft
