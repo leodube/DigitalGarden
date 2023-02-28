@@ -11,6 +11,7 @@
 - Spotify
 - Google drive backup
 - Height
+- Microsoft Remote Desktop
 
 **Games:**
 - Minecraft
