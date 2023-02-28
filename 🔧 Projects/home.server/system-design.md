@@ -2,6 +2,9 @@
 #projects #homeserver #systemdesign
 
 ## CPUs
+Available on Marketplace:
+- Intel Core i5 4460
+- Intel Core i7-4790K
 
 ## Motherboard
 
