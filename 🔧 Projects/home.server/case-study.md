@@ -11,7 +11,7 @@
 - 6th or 7th Intel CPU will be fairly power efficient and budget friendly
 - Intel tends to win on power efficiency vs AMD 
 - TDP means nothing for the real world power consumption of a home server as it only describes power consumption under load, so avoid T-Series Intel chips as they are more expensive with no real benefits.
-- Things to look for: *Idle system power consumption*, *PassMark score*
+- **Things to look for**: *Idle system power consumption*, *PassMark score*
 
 **Motherboards**
 It is important that the motherboard is optimized for power efficiency. Multiple onboard devices can add up to 10-15 Watts to power draw.

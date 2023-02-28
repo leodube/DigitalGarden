@@ -1,4 +1,4 @@
-# My Mac Setup
+# My Apps
 #projects #macsetup
 
 **Utilities:**
@@ -10,7 +10,7 @@
 - Chrome
 - Bitwarden
 - Spotify
-- Google drive backup
+- Google Drive Backup
 - Microsoft Remote Desktop
 - Keeper
 
