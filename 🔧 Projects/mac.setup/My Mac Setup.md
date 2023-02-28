@@ -1,4 +1,5 @@
 # My Mac Setup
+#projects #macsetup
 
 **Utilities:**
 - Rectangle
@@ -10,8 +11,8 @@
 - Bitwarden
 - Spotify
 - Google drive backup
-- Height
 - Microsoft Remote Desktop
+- Keeper
 
 **Games:**
 - Minecraft
