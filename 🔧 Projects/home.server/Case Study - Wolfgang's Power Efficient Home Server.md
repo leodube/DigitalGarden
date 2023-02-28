@@ -15,7 +15,7 @@
 
 **Motherboards**
 It is important that the motherboard is optimized for power efficiency. Multiple onboard devices can add up to 10-15 Watts to power draw.
-- **Mini ITX:** Less ports and features compared to regular ATX counterparts, but are power efficient. Usually very few PCIE slots. Some good options are:
+- **Mini ITX:** Less ports and features compared to regular ATX counterparts, but are power efficient. Some good options are:
 	- Fujitsu D3417-B11 (4W)
 	- Gigabyte C246N-Wu2 (5.07W)
 	- MSI Z1701 Gaming Pro AC (5.3W)
@@ -23,3 +23,6 @@ It is important that the motherboard is optimized for power efficiency. Multiple
 	- ASRock H410M-HDV R2.0 (5.4W)
 	- ASRock B85M-ITX (5.7W)
 	- Asus H110i-Plus (6W)
+- **mATX and ATX:** Recommendation is to find motherboards that support at least Intel 8th gen CPUs. Some options:
+	- Fujitsu 8th and 9th gen
+	- Fujitsu 6th and 7th (won't work with Intel 8th gen)
