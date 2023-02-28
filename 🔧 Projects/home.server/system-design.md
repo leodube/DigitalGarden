@@ -5,6 +5,7 @@
 Available on Marketplace:
 - Intel Core i5 4460
 - Intel Core i7-4790K
+- Intel Core i5-4690K
 
 ## Motherboard
 
