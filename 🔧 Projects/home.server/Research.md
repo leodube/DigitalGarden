@@ -2,7 +2,7 @@
 #projects #homeserver #research
 
 ### Resources
-- [The Power Consumption Database](https://www.tpcdb.com/product.php?id=7384)
+- [The Power Consumption Database](https://www.tpcdb.com)
 - [German spreadsheet of power efficient CPUs](https://docs.google.com/spreadsheets/d/1LHvT2fRp7I6Hf18LcSzsNnjp10VI-odvwZpQZKv_NCI/edit#gid=0)
 
 ### References

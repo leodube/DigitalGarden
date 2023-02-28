@@ -2,7 +2,7 @@
 [Wolfgang's Power Efficient Home Server](https://www.youtube.com/watch?v=MucGkPUMjNo&list=WL&index=41)
 
 ### Recommendations
-- **Don't buy old hardware**
+- **Don't buy old hardware** (< 4th gen CPUs)
 - **Newer doesn't necessarily mean more power efficient**
 
 ### Build
