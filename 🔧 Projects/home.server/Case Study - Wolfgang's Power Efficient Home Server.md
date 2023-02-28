@@ -26,3 +26,6 @@ It is important that the motherboard is optimized for power efficiency. Multiple
 - **mATX and ATX:** Recommendation is to find motherboards that support at least Intel 8th gen CPUs. Some options:
 	- Fujitsu 8th and 9th gen
 	- Fujitsu 6th and 7th (won't work with Intel 8th gen)
+
+**Package C-States**
+Power efficient semi-idle states the system can go in to if not a whole lot is going on. The higher number on the C-state cooresponds to higher power savings.
