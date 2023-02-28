@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/home.server/Case Study - Wolfgang's Power Efficient Home Server.md",
+                "file": "🔧 Projects/home.server/Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/home.server/Case Study - Wolfgang's Power Efficient Home Server.md",
+                "file": "🔧 Projects/home.server/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/home.server/Case Study - Wolfgang's Power Efficient Home Server.md",
+                "file": "🔧 Projects/home.server/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/home.server/Case Study - Wolfgang's Power Efficient Home Server.md"
+                "file": "🔧 Projects/home.server/Research.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "a0a3bbbe18ba0c60",
   "lastOpenFiles": [
-    "🔧 Projects/home.server/Research.md",
     "🔧 Projects/home.server/Case Study - Wolfgang's Power Efficient Home Server.md",
+    "🔧 Projects/home.server/Research.md",
     "🔧 Projects/mac.setup/My Mac Setup.md",
     "Untitled.md",
     "🔧 Projects/home.server",
