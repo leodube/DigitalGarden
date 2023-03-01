@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md",
+                "file": "🔧 Projects/home.server/case-study.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md",
+                "file": "🔧 Projects/home.server/case-study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md",
+                "file": "🔧 Projects/home.server/case-study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md"
+                "file": "🔧 Projects/home.server/case-study.md"
               }
             }
           },
