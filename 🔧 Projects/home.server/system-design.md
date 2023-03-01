@@ -5,12 +5,7 @@
 Intel Core i5-11600K: $200 
 
 ## Motherboard
-Available on Marketplace:
-| CPU                          | Price | Idle |
-| ---------------------------- | ----- | ---- |
-| ASRock Z590 Phantom Gaming 4 | $180  | ---- |
-
-
+ASRock Z590 Phantom Gaming 4: $150
 
 ## RAM
 
