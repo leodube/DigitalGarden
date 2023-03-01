@@ -17,10 +17,6 @@ Available on Marketplace:
 | CPU                          | Price | Idle |
 | ---------------------------- | ----- | ---- |
 | ASRock Z590 Phantom Gaming 4 | $180  | ---- |
-| Intel Core i7-4790K          | ?     |      |
-| Intel Core i7-6700           | $95   |      |
-| Intel Core i3 6100           | $25   |      |
-| Intel Core i5-4590           | $25   |      |
 
 
 
