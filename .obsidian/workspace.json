@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md",
+                "file": "🔧 Projects/home.server/research.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md",
+                "file": "🔧 Projects/home.server/research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md",
+                "file": "🔧 Projects/home.server/research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/home.server/system-design.md"
+                "file": "🔧 Projects/home.server/research.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "5d6532bb9034d9f0",
   "lastOpenFiles": [
+    "🔧 Projects/home.server/system-design.md",
     "🔧 Projects/home.server/case-study.md",
     "🔧 Projects/home.server/research.md",
-    "🔧 Projects/home.server/system-design.md",
     "🔧 Projects/mac.setup/my-apps.md",
     "Untitled.md",
     "🔧 Projects/home.server",
