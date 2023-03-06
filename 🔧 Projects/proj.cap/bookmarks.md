@@ -7,3 +7,4 @@
 - [Adafruit Sensors](https://www.adafruit.com/category/521)
 	- [Adafruit 9-DOF Orientation IMU Fusion Breakout - BNO085](https://www.adafruit.com/product/4754)
 	- [Adafriut Qt Py Development Board](https://www.adafruit.com/product/4600)
+- Fitbit API
