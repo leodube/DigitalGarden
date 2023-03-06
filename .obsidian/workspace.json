@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/proj.cap/bookmarks.md",
+                "file": "🔧 Projects/mac.setup/my-apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/proj.cap/bookmarks.md",
+                "file": "🔧 Projects/mac.setup/my-apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/proj.cap/bookmarks.md",
+                "file": "🔧 Projects/mac.setup/my-apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/proj.cap/bookmarks.md"
+                "file": "🔧 Projects/mac.setup/my-apps.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "f31b8a4c23a52efe",
   "lastOpenFiles": [
-    "🔧 Projects/proj.cap/system-design.md",
-    "🔧 Projects/proj.cap/bookmarks.md",
     "🔧 Projects/home.server/system-design.md",
+    "🔧 Projects/proj.cap/bookmarks.md",
+    "🔧 Projects/proj.cap/system-design.md",
     "🔧 Projects/mac.setup/my-apps.md",
     "🔧 Projects/home.server/research.md",
     "🔧 Projects/home.server/case-study.md",

@@ -22,6 +22,7 @@
 - VSCode
 - Obsidian
 - Github Desktop (install git first)
+- Fitbit device simulator
 
 **Command Line:**
 - Command Line Tools for Xcode
