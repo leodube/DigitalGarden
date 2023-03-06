@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f31b8a4c23a52efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔧 Projects/proj.cap/bookmarks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,12 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6532bb9034d9f0",
+  "active": "f31b8a4c23a52efe",
   "lastOpenFiles": [
-    "🔧 Projects/home.server/research.md",
+    "🔧 Projects/proj.cap/system-design.md",
+    "🔧 Projects/proj.cap/bookmarks.md",
     "🔧 Projects/home.server/system-design.md",
-    "🔧 Projects/home.server/case-study.md",
     "🔧 Projects/mac.setup/my-apps.md",
+    "🔧 Projects/home.server/research.md",
+    "🔧 Projects/home.server/case-study.md",
     "Untitled.md",
     "🔧 Projects/home.server",
     "templates/quartz.md",
