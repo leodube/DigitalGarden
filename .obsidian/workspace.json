@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0638f9225034f608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📕 Reading/Bookmarks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/mac.setup/my-apps.md",
+                "file": "📕 Reading/Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/mac.setup/my-apps.md",
+                "file": "📕 Reading/Bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/mac.setup/my-apps.md"
+                "file": "📕 Reading/Bookmarks.md"
               }
             }
           },
@@ -188,12 +200,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f31b8a4c23a52efe",
+  "active": "0638f9225034f608",
   "lastOpenFiles": [
+    "🔧 Projects/mac.setup/my-apps.md",
+    "📕 Reading/Bookmarks.md",
     "🔧 Projects/home.server/system-design.md",
     "🔧 Projects/proj.cap/bookmarks.md",
     "🔧 Projects/proj.cap/system-design.md",
-    "🔧 Projects/mac.setup/my-apps.md",
     "🔧 Projects/home.server/research.md",
     "🔧 Projects/home.server/case-study.md",
     "Untitled.md",
