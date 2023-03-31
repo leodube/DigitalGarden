@@ -6,7 +6,7 @@
 2. *Test your code*. This means testing the general cases, base cases, error cases, and so on.
 
 ##### What you need to know
-Most interviewers won't ask about specific algorithms for [[✏️ Data Structures/Binary Tree|binary tree]] balancing or other complex algorithms. Frankly, being several years out of school, the probably don't remember these algorithms either.
+Most interviewers won't ask about specific algorithms for [[👓 Learning/Data Structures/Binary Tree|binary tree]] balancing or other complex algorithms. Frankly, being several years out of school, the probably don't remember these algorithms either.
 
 You're usually only expected to know the basics. here's a list of the absolute, must-have knowledge:
 
@@ -24,4 +24,4 @@ For each of the topics above, make sure you understand how to use and implement 
 
 For the data structures and algorithms, be sure to practice implementing them from scratch. You might be asked to implement one directly, or you might be asked to implement a modification of one. Either way, the more comfortable you are with implementations, the better.
 
-In particular, [[✏️ Data Structures/Hashing|hash tables]] are an extremely important topic. You will find that you use them frequently in solving interview questions.
+In particular, [[👓 Learning/Data Structures/Hashing|hash tables]] are an extremely important topic. You will find that you use them frequently in solving interview questions.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Home Server/System Design.md",
+                "file": "👓 Learning/Hugo/Sections.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "👓 Learning/Hugo/Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "👓 Learning/Hugo/Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "👓 Learning/Hugo/Sections.md"
+              }
             }
           },
           {
@@ -159,10 +163,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7965948d636f94d1",
+  "active": "f31b8a4c23a52efe",
   "lastOpenFiles": [
-    "⚡️ My Setups/Home Server/System Design.md",
+    "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
+    "👓 Learning/Hugo/Sections.md",
+    "🔧 Projects/app.modeleo/ideation.md",
+    "👓 Learning/Data Structures/Stack.md",
+    "👓 Learning/Data Structures/Queue.md",
+    "👓 Learning/Data Structures/Linked List.md",
+    "👓 Learning/Data Structures/Heap.md",
+    "👓 Learning/Data Structures/Hashing.md",
+    "👓 Learning/Data Structures/Graph.md",
+    "👓 Learning/Data Structures/Binary Tree.md",
+    "👓 Learning/Data Structures/Binary Search Tree.md",
+    "👓 Learning/Data Structures/Array.md",
+    "👓 Learning/Algorithms/Binary Search.md",
     "👓 Learning/Hugo/Content Sections.md",
+    "⚡️ My Setups/Home Server/System Design.md",
     "👓 Learning/Hugo",
     "👓 Learning",
     "⚡️ My Setups/Home Server/Bookmarks.md",
@@ -170,26 +187,13 @@
     "templates/quartz.md",
     "templates/leetcode.md",
     "templates/callouts.md",
-    "✏️ Data Structures/Stack.md",
-    "✏️ Data Structures/Binary Tree.md",
     "💻 LeetCode/10. Regular Expression Matching.md",
     "💻 LeetCode/8. String to Integer (atoi).md",
     "💻 LeetCode/4. Median of Two Sorted Arrays.md",
     "⚡️ My Setups/Macbook/Apps.md",
     "⚡️ My Setups/Github/Repo Standards.md",
     "⚡️ My Setups/Github/README Standards.md",
-    "⚡️ My Setups/Github/Profile README.md",
     "⚡️ My Setups",
-    "🔧 Projects/Software Aided Planter/System Design.md",
-    "🔧 Projects/Software Aided Planter/Ideation.md",
-    "🔧 Projects/Software Aided Planter/Bookmarks.md",
-    "🔧 Projects/Portfolio/Ideation.md",
-    "Untitled.md",
-    "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Five Algorithm Approach.md",
-    "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Handling Technical Questions.md",
-    "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Technical Preparation.md",
-    "📕 Reading/Cracking the Coding Interview/5. Behavioural Questions/Handling Behavioural Questions.md",
-    "📕 Reading/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
     "⚡️ My Setups/Home Server",
     "⚡️ My Setups/Macbook"
   ]

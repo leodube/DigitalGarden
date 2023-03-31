@@ -1,8 +1,8 @@
 # Binary Tree
-#datastructure #binarytree #todo
+#learning #datastructure #binarytree #todo
 
 ## What is it?
-A **tree** is a popular data structure that is non-linear in nature. Unlike other data structures like array, stack, [[✏️ Data Structures/Queue]], and [[✏️ Data Structures/Linked List|linked list]] which are linear in nature, a tree represents a hierarchical structure. The ordering information of a tree is not important. A tree contains nodes and 2 pointers. These two pointers are the left child and the right child of the parent node. Let us understand the terms of tree in detail.
+A **tree** is a popular data structure that is non-linear in nature. Unlike other data structures like array, stack, [[👓 Learning/Data Structures/Queue]], and [[👓 Learning/Data Structures/Linked List|linked list]] which are linear in nature, a tree represents a hierarchical structure. The ordering information of a tree is not important. A tree contains nodes and 2 pointers. These two pointers are the left child and the right child of the parent node. Let us understand the terms of tree in detail.
 
 - **Root:** The root of a tree is the topmost node of the tree that has no parent node. There is only one root node in every tree.
 - **Edge:** Edge acts as a link between the parent node and the child node.
@@ -56,7 +56,7 @@ class Node
 ```
 
 ### Insert (Level Order)
-The idea is to do an iterative level order traversal of the given tree using [[✏️ Data Structures/Queue]]. If we find a node whose left child is empty, we make a new key as the left child of the node. Else if we find a node whose right child is empty, we make the new key as the right child. We keep traversing the tree until we find a node whose either left or right child is empty.
+The idea is to do an iterative level order traversal of the given tree using [[👓 Learning/Data Structures/Queue]]. If we find a node whose left child is empty, we make a new key as the left child of the node. Else if we find a node whose right child is empty, we make the new key as the right child. We keep traversing the tree until we find a node whose either left or right child is empty.
 
 ```javascript
 let root;

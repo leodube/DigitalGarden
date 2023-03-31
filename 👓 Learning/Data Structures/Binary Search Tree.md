@@ -1,7 +1,7 @@
 # Binary Search Tree
-#datastructure  #binarysearchtree
+#learning #datastructure  #binarysearchtree
 
-Also see [[✏️ Data Structures/Binary Tree|Binary Tree]].
+Also see [[👓 Learning/Data Structures/Binary Tree|Binary Tree]].
 
 ## What is it?
 **Binary Search Tree** is a node-based binary tree data structure which has the following properties:
@@ -16,7 +16,7 @@ The above properties of Binary Search Tree provides an ordering among keys so th
 
 ## Why is it used?
 ### Advantages of BST over Hash Table
-[[✏️ Data Structures/Hashing|Hash Table]] supports following operations in $O(1)$ time: `Search`, `Insert`, `Delete`. The time complexity of above operations in a self-balancing Binary Search Tree is $O(Logn)$.  So Hash Table seems to beating BST in all common operations. When should we prefer BST over Hash Tables, what are advantages. Following are some important points in favor of BSTs.
+[[👓 Learning/Data Structures/Hashing|Hash Table]] supports following operations in $O(1)$ time: `Search`, `Insert`, `Delete`. The time complexity of above operations in a self-balancing Binary Search Tree is $O(Logn)$.  So Hash Table seems to beating BST in all common operations. When should we prefer BST over Hash Tables, what are advantages. Following are some important points in favor of BSTs.
 
 1. We can get all keys in sorted order by just doing Inorder Traversal of BST. This is not a natural operation in Hash Tables and requires extra efforts.
 2. Doing [order statistics](https://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/), [finding closest lower and greater elements](https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/), [doing range queries](https://www.geeksforgeeks.org/print-bst-keys-in-the-given-range/) are easy to do with BSTs. Like sorting, these operations are not a natural operation with Hash Tables.
