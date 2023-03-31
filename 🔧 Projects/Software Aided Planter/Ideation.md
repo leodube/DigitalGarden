@@ -1,4 +1,5 @@
 # Ideation
+#projects #sap #ideation
 
 Modelling:
 - Randomly generate piece shapes

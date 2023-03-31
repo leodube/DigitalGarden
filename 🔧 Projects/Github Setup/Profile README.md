@@ -1,5 +1,5 @@
 # Profile README
-#github #profile #readme
+#project #github #profile #readme
 
 # Hi there 👋, I'm Leo!
 *I am a full stack software developer with a passion for adventure. I have experience in multiple languages and frameworks, and enjoy solving complex problems.*
@@ -46,6 +46,7 @@
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodube&hide=contribs&count_private=true&show_icons=true&theme=transparent)
 
 ## Examples
+*Do not include in README*
 - https://github.com/tomondre
 - https://github.com/ralcorta
 - https://github.com/larymak

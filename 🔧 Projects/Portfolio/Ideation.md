@@ -1,4 +1,5 @@
 # Ideation
+#projects #portfolio #ideation
 
 ### Pages
 - Home
