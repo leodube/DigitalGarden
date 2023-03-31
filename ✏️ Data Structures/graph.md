@@ -1,5 +1,5 @@
 # Graph
-#data-structure #todo/ds
+#data-structures #graph #todo
 
 ## What is it?
 ## Why is it used?

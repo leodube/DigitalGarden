@@ -1,5 +1,6 @@
 # Queue
-#data-structure #todo/ds
+#data-structures #queue #todo
+
 ## What is it?
 ## Why is it used?
 ## Complexity

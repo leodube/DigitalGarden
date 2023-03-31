@@ -1,5 +1,5 @@
 # Heap
-#data-structure #todo/ds 
+#data-structures #heap #todo
 
 ## What is it?
 ## Why is it used?

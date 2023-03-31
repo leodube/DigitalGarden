@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/home.server/case-study.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0638f9225034f608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 Reading/Bookmarks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stack",
+                "query": "tag:#medium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Reading/Bookmarks.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Reading/Bookmarks.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 Reading/Bookmarks.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -200,28 +187,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0638f9225034f608",
+  "active": "a0a3bbbe18ba0c60",
   "lastOpenFiles": [
-    "🔧 Projects/mac.setup/my-apps.md",
+    "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Five Algorithm Approach.md",
+    "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Handling Technical Questions.md",
+    "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Technical Preparation.md",
+    "📕 Reading/Cracking the Coding Interview/5. Behavioural Questions/Handling Behavioural Questions.md",
+    "📕 Reading/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
+    "📕 Reading/Cracking the Coding Interview/3. Special Situations/Experienced Candidates.md",
+    "📕 Reading/Cracking the Coding Interview/3. Special Situations/Start Ups.md",
+    "📕 Reading/Cracking the Coding Interview/4. Before the Interview/Getting the Right Experience.md",
+    "📕 Reading/Cracking the Coding Interview/4. Before the Interview/Writing a Great Resume.md",
+    "📕 Reading/Cracking the Coding Interview/5. Behavioural Questions/Behavioural Preparation.md",
     "📕 Reading/Bookmarks.md",
-    "🔧 Projects/home.server/system-design.md",
-    "🔧 Projects/proj.cap/bookmarks.md",
-    "🔧 Projects/proj.cap/system-design.md",
-    "🔧 Projects/home.server/research.md",
-    "🔧 Projects/home.server/case-study.md",
-    "Untitled.md",
+    "📈 Algorithms/Binary Search.md",
+    "💻 LeetCode/35-search-insert-position 2.md",
+    "💻 LeetCode/35-search-insert-position.md",
+    "💻 LeetCode/27. Remove Element.md",
+    "💻 LeetCode/26. Remove Duplicates From Sorted Array.md",
+    "💻 LeetCode/21. Merge Two Sorted Lists.md",
+    "💻 LeetCode/20. Valid Parenthesis.md",
+    "💻 LeetCode/14. Longest Common Prefix.md",
+    "💻 LeetCode/9. Palindrome Number.md",
+    "💻 LeetCode/10. Regular Expression Matching.md",
+    "💻 LeetCode/13. Roman to Integer.md",
+    "💻 LeetCode/7. Reverse Integer.md",
+    "💻 LeetCode/8. String to Integer (atoi).md",
+    "💻 LeetCode/1. Two Sum.md",
+    "💻 LeetCode/2. Add Two Numbers.md",
     "🔧 Projects/home.server",
-    "templates/quartz.md",
-    "🔧 Projects/mac.setup",
-    "templates/callouts.md",
-    "🔧 Projects/_github/Repo Standards.md",
-    "🔧 Projects/_github/README Standards.md",
-    "🔧 Projects/_github/Profile README.md",
-    "📕 Reading/Cracking the Coding Interview/6-technical-questions/technical-preparation.md",
-    "📕 Reading/Cracking the Coding Interview/6-technical-questions/handling-technical-questions.md",
-    "📕 Reading/Cracking the Coding Interview/6-technical-questions/five-algorithm-approach.md",
-    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/handling-behavioural-questions.md",
-    "📕 Reading/Cracking the Coding Interview/5-behavioural-questions/behavioural-preparation.md",
-    "📕 Reading/Cracking the Coding Interview/4-before-the-interview/writing-a-great-resume.md"
+    "🔧 Projects/mac.setup"
   ]
 }
