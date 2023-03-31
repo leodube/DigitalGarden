@@ -1,4 +1,7 @@
 # Case Study
+#setup #homeserver #casestudy
+
+### Link
 [Wolfgang's Power Efficient Home Server](https://www.youtube.com/watch?v=MucGkPUMjNo&list=WL&index=41)
 
 ### Recommendations

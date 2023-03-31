@@ -1,11 +1,12 @@
 # System Design
-#projects #homeserver #systemdesign
+#setup #homeserver #systemdesign
 
 ## CPUs
 Intel Core i5-11600K: $200 
 
 ## Motherboard
-ASRock Z590 Phantom Gaming 4: $150
+ASRock Z590 Phantom Gaming 4: $120
+
 ## RAM
 
 ## Case

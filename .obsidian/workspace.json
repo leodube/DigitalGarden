@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d6532bb9034d9f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔧 Projects/Mac Setup/my-apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f31b8a4c23a52efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧 Projects/Mac Setup/my-apps.md",
+                "file": "⚡️ My Setups/Home Server/System Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#github",
+                "query": "tag:#todo/ds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/Mac Setup/my-apps.md",
+                "file": "⚡️ My Setups/Home Server/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/Mac Setup/my-apps.md",
+                "file": "⚡️ My Setups/Home Server/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/Mac Setup/my-apps.md"
+                "file": "⚡️ My Setups/Home Server/System Design.md"
               }
             }
           },
@@ -175,16 +163,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6532bb9034d9f0",
+  "active": "f31b8a4c23a52efe",
   "lastOpenFiles": [
+    "⚡️ My Setups/Home Server/Bookmarks.md",
+    "⚡️ My Setups/Home Server/Case Study.md",
+    "templates/quartz.md",
+    "templates/leetcode.md",
+    "templates/callouts.md",
+    "✏️ Data Structures/Stack.md",
+    "✏️ Data Structures/Binary Tree.md",
+    "💻 LeetCode/10. Regular Expression Matching.md",
+    "💻 LeetCode/8. String to Integer (atoi).md",
+    "💻 LeetCode/4. Median of Two Sorted Arrays.md",
+    "⚡️ My Setups/Macbook/Apps.md",
+    "⚡️ My Setups/Home Server/System Design.md",
+    "⚡️ My Setups/Github/Repo Standards.md",
+    "⚡️ My Setups/Github/README Standards.md",
+    "⚡️ My Setups/Github/Profile README.md",
     "⚡️ My Setups",
     "🔧 Projects/Software Aided Planter/System Design.md",
     "🔧 Projects/Software Aided Planter/Ideation.md",
     "🔧 Projects/Software Aided Planter/Bookmarks.md",
     "🔧 Projects/Portfolio/Ideation.md",
-    "🔧 Projects/Github Setup/Repo Standards.md",
-    "🔧 Projects/Github Setup/README Standards.md",
-    "🔧 Projects/Github Setup/Profile README.md",
     "Untitled.md",
     "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Five Algorithm Approach.md",
     "📕 Reading/Cracking the Coding Interview/6. Technical Questions/Handling Technical Questions.md",
@@ -192,18 +192,7 @@
     "📕 Reading/Cracking the Coding Interview/5. Behavioural Questions/Handling Behavioural Questions.md",
     "📕 Reading/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
     "📕 Reading/Cracking the Coding Interview/3. Special Situations/Experienced Candidates.md",
-    "📕 Reading/Cracking the Coding Interview/3. Special Situations/Start Ups.md",
-    "📕 Reading/Cracking the Coding Interview/4. Before the Interview/Getting the Right Experience.md",
-    "📕 Reading/Cracking the Coding Interview/4. Before the Interview/Writing a Great Resume.md",
-    "📕 Reading/Cracking the Coding Interview/5. Behavioural Questions/Behavioural Preparation.md",
-    "📕 Reading/Bookmarks.md",
-    "📈 Algorithms/Binary Search.md",
-    "💻 LeetCode/35-search-insert-position 2.md",
-    "💻 LeetCode/35-search-insert-position.md",
-    "💻 LeetCode/27. Remove Element.md",
-    "💻 LeetCode/26. Remove Duplicates From Sorted Array.md",
-    "💻 LeetCode/21. Merge Two Sorted Lists.md",
-    "🔧 Projects/home.server",
-    "🔧 Projects/Mac Setup"
+    "⚡️ My Setups/Home Server",
+    "⚡️ My Setups/Macbook"
   ]
 }

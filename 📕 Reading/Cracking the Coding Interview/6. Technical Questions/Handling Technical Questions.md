@@ -1,5 +1,5 @@
 # Handling Technical Questions
-#reading #cracking-the-coding-interview #interview
+#reading #ctci #interview
 
 Interviews are supposed to be difficult, so when you get a hard questions, don't panic. Just start talking aloud about how you would solve it. Show your interviewer how you're tackling the problem so that they don't think you're stuck.
 

@@ -1,5 +1,5 @@
 # Technical Preparation
-#reading #cracking-the-coding-interview #interview #preparation
+#reading #ctci #interview #preparation
 
 ##### How to Practice a Question
 1. *Try to solve the problem on your own*

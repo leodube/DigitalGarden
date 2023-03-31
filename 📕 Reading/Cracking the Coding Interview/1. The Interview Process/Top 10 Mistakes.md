@@ -1,5 +1,5 @@
 # Top 10 Mistakes
-#reading #cracking-the-coding-interview #interview
+#reading #ctci #interview
 
 >[!note]
 >Only mistakes potentially applicable to me are listed

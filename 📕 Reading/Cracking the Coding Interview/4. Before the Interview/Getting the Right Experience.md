@@ -1,5 +1,5 @@
 # Getting the Right Experience
-#reading #cracking-the-coding-interview #experience
+#reading #ctci #experience
 
 Although offer decisions are typically based more on the interview than anything else, it's your resume - and therefore your prior experience - that gets you the interview. You should think actively about how to enhance your technical (and non-technical) experience. 
 

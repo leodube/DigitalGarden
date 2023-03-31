@@ -1,5 +1,5 @@
 # Binary Search Tree
-#data-structures  #binary-search-tree
+#datastructure  #binarysearchtree
 
 Also see [[✏️ Data Structures/Binary Tree|Binary Tree]].
 

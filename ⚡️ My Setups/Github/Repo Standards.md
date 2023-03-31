@@ -1,8 +1,8 @@
 # Repo Standards
-#projects #github #repo #standards
+#setup #github #repo #standards
 
-- Follows [[🔧 Projects/Github Setup/README Standards]].
-- Follows [[🔧 Projects/Github Setup/Profile README]].
+- Follows [[⚡️ My Setups/Github/README Standards]].
+- Follows [[⚡️ My Setups/Github/Profile README]].
 
 ## General
 - **Name:** PascalCase and preferably 2-3 words

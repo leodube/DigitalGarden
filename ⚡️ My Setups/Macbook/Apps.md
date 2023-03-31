@@ -1,5 +1,5 @@
-# My Apps
-#projects #macsetup
+# Apps
+#setup #macbook #apps
 
 **Utilities:**
 - Rectangle

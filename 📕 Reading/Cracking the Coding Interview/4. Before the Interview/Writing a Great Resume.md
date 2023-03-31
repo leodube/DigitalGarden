@@ -1,5 +1,5 @@
 # Writing a Great Resume
-#reading #cracking-the-coding-interview #resume
+#reading #ctci #resume
 
 Resume screeners look for the same things that interviewers do. They want to know that you're smart and that you can code.
 

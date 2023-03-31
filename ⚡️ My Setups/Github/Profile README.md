@@ -1,5 +1,5 @@
 # Profile README
-#project #github #profile #readme
+#setup #github #profile #readme
 
 # Hi there 👋, I'm Leo!
 *I am a full stack software developer with a passion for adventure. I have experience in multiple languages and frameworks, and enjoy solving complex problems.*

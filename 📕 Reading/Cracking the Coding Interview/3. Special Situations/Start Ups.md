@@ -1,5 +1,5 @@
 # Start Ups
-#reading #cracking-the-coding-interview
+#reading #ctci
 
 The application and interview process for start-ups is highly variable.
 

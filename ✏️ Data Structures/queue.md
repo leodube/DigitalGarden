@@ -1,5 +1,5 @@
 # Queue
-#data-structures #queue #todo
+#datastructure #queue #todo
 
 ## What is it?
 ## Why is it used?

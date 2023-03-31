@@ -1,5 +1,5 @@
 # Stack
-#data-structures #stack #todo/ds
+#datastructure #stack #todo
 
 ## What is it?
 It is a linear data structure that follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out).

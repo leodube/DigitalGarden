@@ -1,5 +1,7 @@
 # 0. Template
+
 ## Question
+
 ---
 ## Solution
 ### Initial Solution
@@ -11,6 +13,5 @@
 ###### Analysis
 >[!success]
 > Performance
-
 
 ### LeetCode Solution

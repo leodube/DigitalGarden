@@ -1,5 +1,5 @@
 # Experienced Candidates
-#reading #cracking-the-coding-interview 
+#reading #ctci 
 
 Experienced candidates are asked very similar questions as inexperiences candidates, and the standards don't vary significantly.
 

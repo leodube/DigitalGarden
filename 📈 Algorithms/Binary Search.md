@@ -1,5 +1,5 @@
 # Binary Search
-#algorithms #binary-search
+#algorithms #binarysearch
 
 ## Algorithm
 - Begin with the mid element of the whole array as a search key.

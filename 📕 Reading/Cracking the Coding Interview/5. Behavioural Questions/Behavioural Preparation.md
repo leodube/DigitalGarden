@@ -1,5 +1,5 @@
 # Behavioural Questions
-#reading #cracking-the-coding-interview #interview
+#reading #ctci #interview
 
 Behavioural questions are asked for a variety of reasons. They can be asked to get to know your personality, to understand your resume more deeply, or just to ease you into an interview. Either way, these questions are important and can be prepared for.
 
