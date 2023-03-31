@@ -17,4 +17,4 @@ In contrast to big companies, which tend to look mostly at your general aptitude
 
 - *Personality fit:* Typically assessed by how you interact with your interviewer. Establishing a friendly, engaging conversation with your interviewers is your ticket to many job offers
 - *Skill set:* Likely to assess your skills with specific programming languages. If you know a language that the start-up works with, make sure to brush up on the details.
-- *Prior Experience:* Start-ups are likely to ask you a lot of questions about your prior experience. Pay special attention to the [[📕 Reading/Cracking the Coding Interview/5. Behavioural Questions/Behavioural Preparation|Behavioural Questions]] section
+- *Prior Experience:* Start-ups are likely to ask you a lot of questions about your prior experience. Pay special attention to the [[📕 Reading/Books/Cracking the Coding Interview/5. Behavioural Questions/Behavioural Preparation|Behavioural Questions]] section

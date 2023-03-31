@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👓 Learning/Hugo/Sections.md",
+                "file": "📕 Reading/Books/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cebe2d72cbef494f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📕 Reading/Books/Taming the State in React/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👓 Learning/Hugo/Sections.md",
+                "file": "📕 Reading/Books/Taming the State in React/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👓 Learning/Hugo/Sections.md",
+                "file": "📕 Reading/Books/Taming the State in React/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👓 Learning/Hugo/Sections.md"
+                "file": "📕 Reading/Books/Taming the State in React/Untitled.md"
               }
             }
           },
@@ -163,10 +176,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f31b8a4c23a52efe",
+  "active": "cebe2d72cbef494f",
   "lastOpenFiles": [
-    "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
+    "📕 Reading/Books/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
+    "📕 Reading/Books/Taming the State in React/Untitled.md",
+    "📕 Reading/Books/Taming the State in React",
+    "📕 Reading/Articles",
+    "📕 Reading/Books",
     "👓 Learning/Hugo/Sections.md",
+    "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
     "🔧 Projects/app.modeleo/ideation.md",
     "👓 Learning/Data Structures/Stack.md",
     "👓 Learning/Data Structures/Queue.md",
@@ -191,8 +209,6 @@
     "💻 LeetCode/8. String to Integer (atoi).md",
     "💻 LeetCode/4. Median of Two Sorted Arrays.md",
     "⚡️ My Setups/Macbook/Apps.md",
-    "⚡️ My Setups/Github/Repo Standards.md",
-    "⚡️ My Setups/Github/README Standards.md",
     "⚡️ My Setups",
     "⚡️ My Setups/Home Server",
     "⚡️ My Setups/Macbook"
