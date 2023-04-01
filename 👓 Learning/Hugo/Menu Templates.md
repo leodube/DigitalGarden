@@ -68,4 +68,21 @@ Call the partial above, passing a menu ID and the current page in context
 ```
 
 ## Page references
+
 Regardless of how you define menu entries, an entry associated with a page has access to page variables and methods.
+
+This simplistic example renders a page parameter named `version` next to each entry's `name`. Code defensively using `with` or `if` to handle entries where the entry points to an external resource, or the `version` parameter is not defined
+
+`layouts/_default/single.html`
+```html
+{{- range site.Menus.main }} 
+	<a href="{{ .URL }}"> 
+		{{ .Name }} 
+		{{- with .Page }} 
+			{{- with .Params.version -}} 
+				({{ . }}) 
+			{{- end }} 
+		{{- end }} 
+	</a> 
+{{- end }}
+```
