@@ -58,3 +58,14 @@ This partial template recursively "walks" a menu structure, rendering a localize
 	{{- end }} 
 {{- end }}
 ```
+
+Call the partial above, passing a menu ID and the current page in context
+
+`layouts/_default/single.html`
+```html
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }} 
+{{ partial "menu.html" (dict "menuID" "footer" "page" .) }}
+```
+
+## Page references
+Regardless of how you define menu entries, an entry associated with a page has access to page variables and methods.
