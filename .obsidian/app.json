@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "readableLineLength": false
 }
