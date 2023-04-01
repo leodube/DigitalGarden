@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Reading/Books/Taming the State in React/Untitled.md",
+                "file": "📕 Reading/Books/Taming the State in React/Local State Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Reading/Books/Taming the State in React/Untitled.md",
+                "file": "📕 Reading/Books/Taming the State in React/Local State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Reading/Books/Taming the State in React/Untitled.md",
+                "file": "📕 Reading/Books/Taming the State in React/Local State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 Reading/Books/Taming the State in React/Untitled.md"
+                "file": "📕 Reading/Books/Taming the State in React/Local State Management.md"
               }
             }
           },
@@ -179,7 +179,7 @@
   "active": "cebe2d72cbef494f",
   "lastOpenFiles": [
     "📕 Reading/Books/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
-    "📕 Reading/Books/Taming the State in React/Untitled.md",
+    "📕 Reading/Books/Taming the State in React/Local State Management.md",
     "📕 Reading/Books/Taming the State in React",
     "📕 Reading/Articles",
     "📕 Reading/Books",
