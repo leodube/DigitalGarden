@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👓 Learning/Hugo/Menus.md",
+                "file": "👓 Learning/Hugo/Menu Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👓 Learning/Hugo/Menus.md",
+                "file": "👓 Learning/Hugo/Menu Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👓 Learning/Hugo/Menus.md",
+                "file": "👓 Learning/Hugo/Menu Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👓 Learning/Hugo/Menus.md"
+                "file": "👓 Learning/Hugo/Menu Templates.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "cebe2d72cbef494f",
   "lastOpenFiles": [
-    "📕 Reading/Books/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
+    "👓 Learning/Hugo/Menu Variables.md",
     "👓 Learning/Hugo/Menus.md",
+    "📕 Reading/Books/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
     "👓 Learning/Hugo/Sections.md",
     "👓 Learning/Hugo/Menu Templates.md",
     "Untitled.md",
@@ -208,7 +209,6 @@
     "⚡️ My Setups/Home Server/Case Study.md",
     "templates/quartz.md",
     "templates/leetcode.md",
-    "💻 LeetCode/10. Regular Expression Matching.md",
     "⚡️ My Setups",
     "⚡️ My Setups/Home Server",
     "⚡️ My Setups/Macbook"

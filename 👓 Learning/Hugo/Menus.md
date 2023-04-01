@@ -43,3 +43,21 @@ title: About
 ```
 
 Access the entry with `site.Menus.main` in your templates. See [[👓 Learning/Hugo/Menu Templates|menu templates]] for details.
+
+## Define in site configuration
+
+To define entries for the "main" menu:
+
+`config.yaml`
+```yaml
+menu: 
+	main: 
+	- name: Home 
+	  pageRef: / 
+	  weight: 10 
+	- name: Products
+	  pageRef: /products
+	  weight: 20
+```
+
+This creates a menu structure that you can access with `site.Menus.main` in your templates. See [[👓 Learning/Hugo/Menu Templates|menu templates]] for details.
