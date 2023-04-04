@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👓 Learning/Hugo/Menu Templates.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👓 Learning/Hugo/Menu Templates.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👓 Learning/Hugo/Menu Templates.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👓 Learning/Hugo/Menu Templates.md"
+                "file": "⚡️ My Setups/Macbook/Apps.md"
               }
             }
           },
@@ -178,11 +178,11 @@
   },
   "active": "cebe2d72cbef494f",
   "lastOpenFiles": [
+    "👓 Learning/Hugo/Menu Templates.md",
     "👓 Learning/Hugo/Menu Variables.md",
     "👓 Learning/Hugo/Menus.md",
     "📕 Reading/Books/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
     "👓 Learning/Hugo/Sections.md",
-    "👓 Learning/Hugo/Menu Templates.md",
     "Untitled.md",
     "templates/callouts.md",
     "📕 Reading/Books/Taming the State in React/Local State Management.md",

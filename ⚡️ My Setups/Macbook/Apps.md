@@ -29,5 +29,6 @@
 - Java
 - nvm
 - yarn
+- go
 - Homebrew:
   - git
