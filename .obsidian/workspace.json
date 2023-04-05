@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f0d75d3e04ebf097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔧 Projects/QuartzSN/Bookmarks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e777ec03fdf11d6b",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/callouts.md",
+                "file": "🔧 Projects/QuartzSN/Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/callouts.md",
+                "file": "🔧 Projects/QuartzSN/Bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/callouts.md"
+                "file": "🔧 Projects/QuartzSN/Bookmarks.md"
               }
             }
           },
@@ -176,8 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cebe2d72cbef494f",
+  "active": "f0d75d3e04ebf097",
   "lastOpenFiles": [
+    "templates/callouts.md",
+    "🔧 Projects/QuartzSN/Bookmarks.md",
+    "🔧 Projects/QuartzSN",
     "⚡️ My Setups/Macbook/Apps.md",
     "🐞 Debug Stories",
     "👓 Learning/Hugo/Menu Templates.md",
@@ -186,7 +202,6 @@
     "📕 Reading/Books/Cracking the Coding Interview/1. The Interview Process/Top 10 Mistakes.md",
     "👓 Learning/Hugo/Sections.md",
     "Untitled.md",
-    "templates/callouts.md",
     "📕 Reading/Books/Taming the State in React/Local State Management.md",
     "📕 Reading/Books/Taming the State in React",
     "📕 Reading/Articles",
@@ -209,7 +224,6 @@
     "👓 Learning",
     "⚡️ My Setups/Home Server/Bookmarks.md",
     "⚡️ My Setups/Home Server/Case Study.md",
-    "templates/quartz.md",
     "⚡️ My Setups",
     "⚡️ My Setups/Home Server",
     "⚡️ My Setups/Macbook"
