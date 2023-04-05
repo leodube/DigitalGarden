@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "templates/callouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "templates/callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "templates/callouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md"
+                "file": "templates/callouts.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "cebe2d72cbef494f",
   "lastOpenFiles": [
+    "⚡️ My Setups/Macbook/Apps.md",
+    "🐞 Debug Stories",
     "👓 Learning/Hugo/Menu Templates.md",
     "👓 Learning/Hugo/Menu Variables.md",
     "👓 Learning/Hugo/Menus.md",
@@ -208,7 +210,6 @@
     "⚡️ My Setups/Home Server/Bookmarks.md",
     "⚡️ My Setups/Home Server/Case Study.md",
     "templates/quartz.md",
-    "templates/leetcode.md",
     "⚡️ My Setups",
     "⚡️ My Setups/Home Server",
     "⚡️ My Setups/Macbook"
