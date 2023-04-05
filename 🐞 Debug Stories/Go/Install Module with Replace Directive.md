@@ -7,5 +7,6 @@ This is a continuation of the issue I encountered [[🐞 Debug Stories/Go/Forkin
 
 ## Bug
 
-When trying to install the Go module
+When trying to install the custom Go module, I got the following problem
+
 ## Solution
