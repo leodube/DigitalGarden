@@ -20,6 +20,7 @@
 **Development:**
 - Docker
 - VSCode
+- Visual Studio
 - Obsidian
 - Github Desktop (install git first)
 - Fitbit device simulator
@@ -30,5 +31,6 @@
 - nvm
 - yarn
 - go
+- .Net SDK
 - Homebrew:
   - git

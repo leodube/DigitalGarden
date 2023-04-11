@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐞 Debug Stories/Go/Install Module with Replace Directive.md"
+                "file": "⚡️ My Setups/Macbook/Apps.md"
               }
             }
           },
@@ -215,10 +215,10 @@
   },
   "active": "b0d3964de207febd",
   "lastOpenFiles": [
+    "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
     "🐞 Debug Stories/Go/Forking a Go Module.md",
     "templates/callouts.md",
     "templates/leetcode.md",
-    "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
     "🔧 Projects/QuartzSN/Bookmarks.md",
     "🐞 Debug Stories/Go.md",
     "🐞 Debug Stories/Go",
