@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "📕 Reading/Bookmarks.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "📕 Reading/Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "📕 Reading/Bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md"
+                "file": "📕 Reading/Bookmarks.md"
               }
             }
           },
@@ -215,6 +215,7 @@
   },
   "active": "b0d3964de207febd",
   "lastOpenFiles": [
+    "⚡️ My Setups/Macbook/Apps.md",
     "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
     "🐞 Debug Stories/Go/Forking a Go Module.md",
     "templates/callouts.md",
@@ -223,7 +224,6 @@
     "🐞 Debug Stories/Go.md",
     "🐞 Debug Stories/Go",
     "🔧 Projects/QuartzSN",
-    "⚡️ My Setups/Macbook/Apps.md",
     "🐞 Debug Stories",
     "👓 Learning/Hugo/Menu Templates.md",
     "👓 Learning/Hugo/Menu Variables.md",
