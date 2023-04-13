@@ -14,12 +14,14 @@
 
 
 ## Background
+I have included some of the most interesting facts from the background for this paper.
+
 - Canada's forests account for 27% of the country's land mass.
 - Forestry is worth $6 billion per annum.
 - Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
 
 ## Methods
-The most interesting part of the methods is the *video-recording & analysis*, and the *data & statistical analyses*.
+The most interesting part of the methods section is the *video-recording & analysis*, and the *data & statistical analyses*.
 
 >[!note]
 > Data collection occurred in the middle of a reforestation season (June and July) to avoid making measures on workers who were still learning tasks.
@@ -37,18 +39,13 @@ The most interesting part of the methods is the *video-recording & analysis*, an
 - **Mean HR** for a full working day was calculated as the average HR throughout the entire work day (including breaks in work).
 - **Working HR** was defined as the mean HR recorded during the process of planting trees (as opposed to mean HR inclusive of all activities during the work day), and was calculated by including only the data recorded during the three minutes of video recording.
 - **Work pace** was defined as the number of trees planted per hour. This was calculated by summing the number of trees planted in the three minute video sample of work to the nearest tree and multiplying by 20.
-
->[!question]
->Are there potential implications to calculating the pace using a 3 minute sample rather than taking the number of trees planted in the day?
-
-- **Heart rate per work pace** was calculated by dividing working HR for each subject by the work pace they exhibited at that time point in the work day.
 - **Efficiency** was defined as the quotient of HR divided by the working pace, with a lower quotient indicating a higher efficiency.
 
->[!warning]
->Both **heart rate per work pace** and **efficiency** are calculated based on the 3 minute samples rather than over the course of the entire day.
-
+>[!question]
+>Are there potential implications to calculating the pace and efficiency using a 3 minute sample rather than taking the number of trees planted in the day?
 
 ## Results
+
 - For subjects on whom a full day HR data was collected, the proportion of time during each day spent at the working HR ranged from $71 - 94$% of the work day (mean $83 \pm 7$%)
 
 >[!note]
@@ -58,3 +55,5 @@ The most interesting part of the methods is the *video-recording & analysis*, an
 - The more tree planting experience you have, the faster your work pace.
 - The faster your work pace, the higher your working HR.
 
+**This next part is the most interesting aspect of the study, in my opinion:**
+- No significant relationship was found between the proportion of time spent planting each tree and experience level, or the proportion of time spent planting each tree and work pace.
