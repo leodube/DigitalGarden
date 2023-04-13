@@ -42,3 +42,9 @@ The most interesting part of the methods is the *video-recording & analysis*, an
 >Are there potential implications to calculating the pace using a 3 minute sample rather than taking the number of trees planted in the day?
 
 - **Heart rate per work pace** was calculated by dividing working HR for each subject by the work pace they exhibited at that time point in the work day.
+- **Efficiency** was defined as the quotient of HR divided by the working pace, with a lower quotient indicating a higher efficiency.
+
+>[!warning]
+>Both **heart rate per work pace** and **efficiency** are calculated based on the 3 minute samples rather than over the course of the entire day.
+
+- In order to calculate the proportion of the total working day that was spent at the working HR (rather than on breaks), a graph of HR vs. working time was generated for each subject and then visually analyzed to assess the data points that corresponded with working times and resting times. Break periods were defined by a drop in HR below the average working HR for that individual that extended into several minutes of time.
