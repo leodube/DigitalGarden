@@ -51,6 +51,7 @@ The most interesting part of the methods section is the *video-recording & analy
 - The mean proportion of working time spent planting each tree was $53 \pm 8$%. 
 - The more tree planting experience you have, the faster your work pace.
 - The faster your work pace, the higher your working HR.
+- The more tree planting experience you have, the more efficient you are (recall the efficiency is HR for a given work pace).
 
 **This next part is the most interesting aspect of the study, in my opinion:**
 - No significant relationship was found between the proportion of time spent planting each tree and experience level, or the proportion of time spent planting each tree and work pace.
