@@ -25,16 +25,16 @@ The most interesting part of the methods is the *video-recording & analysis*, an
 > Data collection occurred in the middle of a reforestation season (June and July) to avoid making measures on workers who were still learning tasks.
 
 ### Video-Recording & Analysis
-- Subjects were video-recorded during three minutes of tree panting work. They were unaware of the time point they were being filmed. Each subject was filmed on three separate occasions to ensure consistency of the data captured by video (retest correlation coefficient, $r = 0.93$).
+- Subjects were video-recorded during three minutes of tree panting work. Each subject was filmed on three separate occasions to ensure consistency of the data captured by video.
 - The analysis was performed manually by a researcher with 16 years of tree planting experience by recording the total time spent planting each tree, the total number of trees planted, and the total time spent walking between each tree. Time spent planting each tree was defined as the time between the point at which the worker stopped walking and had clearly selected a microsite and the point at which they closed the earth around the tree seedling and began walking again.
 
 >[!question]
 > Does this study take into account time spent between bagups (i.e. at cache or walking to cache)?
 >
-> **Answer**: It does not seem so, at least not in terms of how **work pace** is calculated.
+> **Answer**: Yes and no. For some calculations such as **work pace** it does not factor in breaks.
 
 ### Data & Statistical Analyses
-- **Mean HR** for a full working day was calculated as the average HR throughout the entire work day (including breaks in work) on 19 subjects.
+- **Mean HR** for a full working day was calculated as the average HR throughout the entire work day (including breaks in work).
 - **Working HR** was defined as the mean HR recorded during the process of planting trees (as opposed to mean HR inclusive of all activities during the work day), and was calculated by including only the data recorded during the three minutes of video recording.
 - **Work pace** was defined as the number of trees planted per hour. This was calculated by summing the number of trees planted in the three minute video sample of work to the nearest tree and multiplying by 20.
 
@@ -48,3 +48,5 @@ The most interesting part of the methods is the *video-recording & analysis*, an
 >Both **heart rate per work pace** and **efficiency** are calculated based on the 3 minute samples rather than over the course of the entire day.
 
 - In order to calculate the proportion of the total working day that was spent at the working HR (rather than on breaks), a graph of HR over time was generated for each subject and then visually analyzed to assess the data points that corresponded with working times and resting times. Break periods were defined by a drop in HR below the average working HR for that individual that extended into several minutes of time.
+
+## Results
