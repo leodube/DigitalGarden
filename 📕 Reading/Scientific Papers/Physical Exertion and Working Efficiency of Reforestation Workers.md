@@ -47,6 +47,14 @@ The most interesting part of the methods is the *video-recording & analysis*, an
 >[!warning]
 >Both **heart rate per work pace** and **efficiency** are calculated based on the 3 minute samples rather than over the course of the entire day.
 
-- In order to calculate the proportion of the total working day that was spent at the working HR (rather than on breaks), a graph of HR over time was generated for each subject and then visually analyzed to assess the data points that corresponded with working times and resting times. Break periods were defined by a drop in HR below the average working HR for that individual that extended into several minutes of time.
 
 ## Results
+- For subjects on whom a full day HR data was collected, the proportion of time during each day spent at the working HR ranged from $71 - 94$% of the work day (mean $83 \pm 7$%)
+
+>[!note]
+>The time spent planting vs on break could be quite a significant factor affecting a tree planter's total daily production.
+
+- The mean proportion of working time spent planting each tree was $53 \pm 8$%. 
+- The more tree planting experience you have, the faster your work pace.
+- The faster your work pace, the higher your working HR.
+
