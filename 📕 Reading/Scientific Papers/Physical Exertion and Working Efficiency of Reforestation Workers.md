@@ -68,9 +68,11 @@ The most interesting part of the methods section is the *video-recording & analy
 - In an industry in which earnings vary directly with production, it is likely that workers find the maximal daily exertion level that is both tolerable and maintainable, and strive to achieve this level regardless of the precise natire of this work.
 
 ### Exertion and Efficiency
-- The negative correlation found between tree planting experience level and HR for a given work pace confirms the hypothesis that more experienced tree planters have lower HR for a given work pace. Since efficiency was defined as a lower HR for a given work pace, this denotes a positive relationship between experience level and efficiency.
-- However, our hypothesis that more experienced tree planters would spend a smaller proportion of time per tree than less experienced tree planters was rejected.
+- The hypothesis that more experienced tree planters would spend a smaller proportion of time per tree than less experienced tree planters was rejected.
 - It could be concluded that more experienced tree planters have increased the rate at which they perform both tasks equally: that experienced workers are equally faster at the mechanics of planting each tree and at the skill of microsite selec- tion between each tree in comparison to less experi- enced workers, and that improvements in productivity therefore require skill in each of these tasks.
+
+## Conclusion
+The findings of this study indicate that productivity amongst tree planters is achieved through increased exertion and increased efficiency. 
 
 ## References
 4.  Trites DG, Robinson DG, Banister EW: Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers. Ergonomics 1993, 36:935-949.
