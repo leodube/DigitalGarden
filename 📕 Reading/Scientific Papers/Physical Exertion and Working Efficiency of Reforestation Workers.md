@@ -16,7 +16,7 @@
 ## Background
 - Canada's forests account for 27% of the country's land mass.
 - Forestry is worth $6 billion per annum.
-- Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
+- Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$). [4,5,7,9]
 
 ## Methods
 The most interesting part of the methods section is the *video-recording & analysis*, and the *data & statistical analyses*.
@@ -64,3 +64,12 @@ The most interesting part of the methods section is the *video-recording & analy
 - Experienced workers complete their bag-ups in approximately half the time of the inexperienced workers. 
 - Experienced tree planters work faster compared to inexperienced tree planters and the experienced workers don't require a greater working HR to achieve this greater productivity.
 - This may support the notion that these workers exert themselves to a given maximal sustainable effort regardless of the technical difficulty of the task. This maximal sustainable effort has been defined as critical power in a sporting context where human performance at or below critical power can be maintained indefinitely.
+
+## References
+4.  Trites DG, Robinson DG, Banister EW: Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers. Ergonomics 1993, 36:935-949.
+5.  Banister EW, Robinson DG, Trites DG: Ergonomics of tree planting (FRDA Report). Book Ergonomics of tree planting (FRDA Report) City: Forestry Canada and the British Columbia Ministry of Forests; 1990.
+6.  Robinson DG, Trites DG, Banister EW: Physiological effects of work stress and pesticide exposure in tree planting by British Columbia silviculture workers. Ergonomics 1993, 36:951-961.
+7.  Giguere D, Belanger R, Gauthier JM, Larue C: Ergonomics aspects of tree- planting using ‘multipot’ technology. Ergonomics 1993, 36:963-972.
+8.  Hodges AN, Ellis JD, McKenzie DC: The effects of 10 weeks of reforestation work on body composition. Wilderness & environmental medicine 2005, 16:3-8.
+9.  Roberts D: In-season physiological and biochemical status of reforestation workers. Journal of occupational and environmental medicine / American College of Occupational and Environmental Medicine 2002, 44:559-567.
+14. Hill DW: The critical power concept. A review. In Sports medicine. Volume 16. Auckland, NZ; 1993:237-254.
