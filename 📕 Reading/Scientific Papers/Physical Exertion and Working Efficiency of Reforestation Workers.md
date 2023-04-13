@@ -19,6 +19,26 @@
 - Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
 
 ## Methods
-The most interesting part of the methods is the video-recording and analysis portion.
+The most interesting part of the methods is the *video-recording & analysis*, and the *data & statistical analyses*.
 
-- Subjects were video-recorded during three minutes of tree panting work. They were unaware of the time point they were being filmed. Each subject was filmed on three separate
+>[!note]
+> Data collection occurred in the middle of a reforestation season (June and July) to avoid making measures on workers who were still learning tasks.
+
+### Video-Recording & Analysis
+- Subjects were video-recorded during three minutes of tree panting work. They were unaware of the time point they were being filmed. Each subject was filmed on three separate occasions to ensure consistency of the data captured by video (retest correlation coefficient, $r = 0.93$).
+- The analysis was performed manually by a researcher with 16 years of tree planting experience by recording the total time spent planting each tree, the total number of trees planted, and the total time spent walking between each tree. Time spent planting each tree was defined as the time between the point at which the worker stopped walking and had clearly selected a microsite and the point at which they closed the earth around the tree seedling and began walking again.
+
+>[!question]
+> Does this study take into account time spent between bagups (i.e. at cache or walking to cache)?
+>
+> **Answer**: It does not seem so, at least not in terms of how **work pace** is calculated.
+
+### Data & Statistical Analyses
+- **Mean HR** for a full working day was calculated as the average HR throughout the entire work day (including breaks in work) on 19 subjects.
+- **Working HR** was defined as the mean HR recorded during the process of planting trees (as opposed to mean HR inclusive of all activities during the work day), and was calculated by including only the data recorded during the three minutes of video recording.
+- **Work pace** was defined as the number of trees planted per hour. This was calculated by summing the number of trees planted in the three minute video sample of work to the nearest tree and multiplying by 20.
+
+>[!question]
+>Are there potential implications to calculating the pace using a 3 minute sample rather than taking the number of trees planted in the day?
+
+- **Heart rate per work pace** was calculated by dividing working HR for each subject by the work pace they exhibited at that time point in the work day.
