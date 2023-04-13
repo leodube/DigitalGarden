@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0532f81e9087f066",
+            "id": "5e98bbf003de56db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "5e98bbf003de56db",
+            "id": "a13d838134f9ddf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
+                "file": "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
+                "file": "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
+                "file": "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md"
+                "file": "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md"
               }
             }
           },
@@ -189,11 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e98bbf003de56db",
+  "active": "a13d838134f9ddf7",
   "lastOpenFiles": [
-    "📕 Reading/Scientific Papers/Physical Exertion and Working Efficiency of Reforestation Workers.md",
-    "📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
     "templates/callouts.md",
+    "📕 Reading/Scientific Papers/Physical Exertion and Working Efficiency of Reforestation Workers.md",
+    "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md",
+    "📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
     "🐞 Debug Stories/Go/Forking a Go Module.md",
     "🔧 Projects/QuartzSN/Bookmarks.md",
     "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
@@ -223,7 +224,6 @@
     "👓 Learning/Data Structures/Heap.md",
     "👓 Learning/Data Structures/Hashing.md",
     "👓 Learning/Data Structures/Graph.md",
-    "👓 Learning/Data Structures/Binary Tree.md",
     "👓 Learning/Hugo",
     "👓 Learning",
     "⚡️ My Setups"
