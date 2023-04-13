@@ -56,6 +56,11 @@ The most interesting part of the methods section is the *video-recording & analy
 **This next part is the most interesting aspect of the study, in my opinion:**
 - No significant relationship was found between the proportion of time spent planting each tree and experience level, or the proportion of time spent planting each tree and work pace.
 
+>[!note]
+>This indicates to me that as a tree planter gets more experienced, they not only get faster at planting trees, but also faster and moving through the land and finding microsites. 
+
+
 ## Discussion
 - Experienced workers complete their bag-ups in approximately half the time of the inexperienced workers. 
 - Experienced tree planters work faster compared to inexperienced tree planters and the experienced workers don't require a greater working HR to achieve this greater productivity.
+- This may support the notion that these workers exert themselves to a given maximal sustainable effort regardless of the technical difficulty of the task. This maximal sustainable effort has been defined as critical power in a sporting context where human performance at or below critical power can be maintained indefinitely.
