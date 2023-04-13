@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Reading/Bookmarks.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Reading/Bookmarks.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Reading/Bookmarks.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 Reading/Bookmarks.md"
+                "file": "⚡️ My Setups/Macbook/Apps.md"
               }
             }
           },
@@ -215,6 +215,7 @@
   },
   "active": "b0d3964de207febd",
   "lastOpenFiles": [
+    "📕 Reading/Bookmarks.md",
     "⚡️ My Setups/Macbook/Apps.md",
     "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
     "🐞 Debug Stories/Go/Forking a Go Module.md",
@@ -246,7 +247,6 @@
     "👓 Learning/Data Structures/Binary Tree.md",
     "👓 Learning/Data Structures/Binary Search Tree.md",
     "👓 Learning/Data Structures/Array.md",
-    "👓 Learning/Algorithms/Binary Search.md",
     "👓 Learning/Hugo",
     "👓 Learning",
     "⚡️ My Setups",

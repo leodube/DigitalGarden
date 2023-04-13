@@ -8,6 +8,7 @@
 
 **Apps:**
 - Chrome
+- Firefox
 - Bitwarden
 - Spotify
 - Google Drive Backup
