@@ -61,15 +61,19 @@ The most interesting part of the methods section is the *video-recording & analy
 
 
 ## Discussion
+### Effort as determined by heart rate response
 - Experienced workers complete their bag-ups in approximately half the time of the inexperienced workers. 
 - Experienced tree planters work faster compared to inexperienced tree planters and the experienced workers don't require a greater working HR to achieve this greater productivity.
-- This may support the notion that these workers exert themselves to a given maximal sustainable effort regardless of the technical difficulty of the task. This maximal sustainable effort has been defined as critical power in a sporting context where human performance at or below critical power can be maintained indefinitely.
+- This may support the notion that these workers exert themselves to a given maximal sustainable effort regardless of the technical difficulty of the task. This maximal sustainable effort has been defined as critical power in a sporting context where human performance at or below critical power can be maintained indefinitely. [14]
+- In an industry in which earnings vary directly with production, it is likely that workers find the maximal daily exertion level that is both tolerable and maintainable, and strive to achieve this level regardless of the precise natire of this work.
+
+### Exertion and Efficiency
+- The negative correlation found between tree planting experience level and HR for a given work pace confirms the hypothesis that more experienced tree planters have lower HR for a given work pace. Since efficiency was defined as a lower HR for a given work pace, this denotes a positive relationship between experience level and efficiency.
+- 
 
 ## References
 4.  Trites DG, Robinson DG, Banister EW: Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers. Ergonomics 1993, 36:935-949.
 5.  Banister EW, Robinson DG, Trites DG: Ergonomics of tree planting (FRDA Report). Book Ergonomics of tree planting (FRDA Report) City: Forestry Canada and the British Columbia Ministry of Forests; 1990.
-6.  Robinson DG, Trites DG, Banister EW: Physiological effects of work stress and pesticide exposure in tree planting by British Columbia silviculture workers. Ergonomics 1993, 36:951-961.
 7.  Giguere D, Belanger R, Gauthier JM, Larue C: Ergonomics aspects of tree- planting using ‘multipot’ technology. Ergonomics 1993, 36:963-972.
-8.  Hodges AN, Ellis JD, McKenzie DC: The effects of 10 weeks of reforestation work on body composition. Wilderness & environmental medicine 2005, 16:3-8.
 9.  Roberts D: In-season physiological and biochemical status of reforestation workers. Journal of occupational and environmental medicine / American College of Occupational and Environmental Medicine 2002, 44:559-567.
 14. Hill DW: The critical power concept. A review. In Sports medicine. Volume 16. Auckland, NZ; 1993:237-254.
