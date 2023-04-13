@@ -57,3 +57,5 @@ The most interesting part of the methods section is the *video-recording & analy
 - No significant relationship was found between the proportion of time spent planting each tree and experience level, or the proportion of time spent planting each tree and work pace.
 
 ## Discussion
+- Experienced workers complete their bag-ups in approximately half the time of the inexperienced workers. 
+- Experienced tree planters work faster compared to inexperienced tree planters and the experienced workers don't require a greater working HR to achieve this greater productivity.
