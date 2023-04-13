@@ -3,3 +3,5 @@
 
 **Link:** https://pubmed.ncbi.nlm.nih.gov/8365392/
 
+## Introduction
+- Injury statistics indicate the annual risk of injury to a planter is as high as 75% in accidents which often incur multiple injuries.
