@@ -16,4 +16,6 @@
 ## Background
 - Canada's forests account for 27% of the country's land mass.
 - Forestry is worth $6 billion per annum.
-- Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-70% of maximal heart rate ($HR_{max}$).
+- Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
+
+## Methods
