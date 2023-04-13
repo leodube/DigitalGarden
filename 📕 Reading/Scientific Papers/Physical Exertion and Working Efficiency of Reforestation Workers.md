@@ -47,4 +47,4 @@ The most interesting part of the methods is the *video-recording & analysis*, an
 >[!warning]
 >Both **heart rate per work pace** and **efficiency** are calculated based on the 3 minute samples rather than over the course of the entire day.
 
-- In order to calculate the proportion of the total working day that was spent at the working HR (rather than on breaks), a graph of HR vs. working time was generated for each subject and then visually analyzed to assess the data points that corresponded with working times and resting times. Break periods were defined by a drop in HR below the average working HR for that individual that extended into several minutes of time.
+- In order to calculate the proportion of the total working day that was spent at the working HR (rather than on breaks), a graph of HR over time was generated for each subject and then visually analyzed to assess the data points that corresponded with working times and resting times. Break periods were defined by a drop in HR below the average working HR for that individual that extended into several minutes of time.
