@@ -19,3 +19,6 @@
 - Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
 
 ## Methods
+The most interesting part of the methods is the video-recording and analysis portion.
+
+- Subjects were video-recorded during three minutes of tree panting work. They were unaware of the time point they were being filmed. Each subject was filmed on three separate
