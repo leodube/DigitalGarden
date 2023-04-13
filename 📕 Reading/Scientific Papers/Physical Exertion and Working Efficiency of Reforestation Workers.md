@@ -14,8 +14,6 @@
 
 
 ## Background
-I have included some of the most interesting facts from the background for this paper.
-
 - Canada's forests account for 27% of the country's land mass.
 - Forestry is worth $6 billion per annum.
 - Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
@@ -45,7 +43,6 @@ The most interesting part of the methods section is the *video-recording & analy
 >Are there potential implications to calculating the pace and efficiency using a 3 minute sample rather than taking the number of trees planted in the day?
 
 ## Results
-
 - For subjects on whom a full day HR data was collected, the proportion of time during each day spent at the working HR ranged from $71 - 94$% of the work day (mean $83 \pm 7$%)
 
 >[!note]
@@ -57,3 +54,5 @@ The most interesting part of the methods section is the *video-recording & analy
 
 **This next part is the most interesting aspect of the study, in my opinion:**
 - No significant relationship was found between the proportion of time spent planting each tree and experience level, or the proportion of time spent planting each tree and work pace.
+
+## Discussion
