@@ -12,3 +12,6 @@
 
 ## Results
 - Three-day diet history analysis indicated that the mean caloric intake was $5159 \pm 1047$ kcal/day, of which $14 \pm 3$% was protein, $50 \pm 7$% was protein, $35 \pm 7$% was fat.
+
+## Discussion
+- The most pronounced finding was that blood glucose levels remained at near hypoglycemic levels throughout the day.
