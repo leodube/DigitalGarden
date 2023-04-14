@@ -16,7 +16,8 @@
 ## Background
 - Canada's forests account for 27% of the country's land mass.
 - Forestry is worth $6 billion per annum.
-- Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$). ([[📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers|4]],[[📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers|5]],7,9)
+- Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
+- For more about physical effects of tree planting, see [[📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers|this]] and [[📕 Reading/Scientific Papers/In-Season Physiological and Biochemical Status of Reforestation Workers|this]].
 
 ## Methods
 The most interesting part of the methods section is the *video-recording & analysis*, and the *data & statistical analyses*.
@@ -75,6 +76,4 @@ The most interesting part of the methods section is the *video-recording & analy
 The findings of this study indicate that productivity amongst tree planters is achieved through increased exertion and increased efficiency. 
 
 ## References
-7.  Giguere D, Belanger R, Gauthier JM, Larue C: Ergonomics aspects of tree- planting using ‘multipot’ technology. Ergonomics 1993, 36:963-972.
-9.  Roberts D: In-season physiological and biochemical status of reforestation workers. Journal of occupational and environmental medicine / American College of Occupational and Environmental Medicine 2002, 44:559-567.
 14. Hill DW: The critical power concept. A review. In Sports medicine. Volume 16. Auckland, NZ; 1993:237-254.
