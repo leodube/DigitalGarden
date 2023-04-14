@@ -14,3 +14,16 @@
 
 ## Introduction
 - The majority of a 7-9 hour tree planting work day is spent at between 60% and 75% of maximal heart rate. ([[📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers|See More]])
+
+## Methods
+### Subjects
+A total of 17 male and 5 female subjects volunteered for the study. Of the men, 9 had a mean of 1.6 seasons of pre- vious tree-planting experience and 8 had no previous experience. Of the women, only 1 had previous experience in the industry (for 2 seasons).
+
+## Results
+- Men experienced significant decreases in body fat and body mass. The women experienced no significant changes in body fat or body mass.
+
+>[!attention]
+>They found similar decreases in the female subject but could not achieve statistical significance due to the small sample size (N=5)
+
+- For the days on which nutritional data were collected, mean energy consumption for was $4942.6 \pm 526.8 kcal$ for the men and $3469.4 \pm 496.4 kcal$ for the women.
+- On average, the male subjects lost approximately 55g of body mass per day.
