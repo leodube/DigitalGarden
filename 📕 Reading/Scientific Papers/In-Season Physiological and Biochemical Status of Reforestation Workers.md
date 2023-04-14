@@ -9,3 +9,6 @@
 ## Introduction
 - The strenuous nature of tree planting has been shown to load to immunosuppression, with a reduced ability of the immune system to effect tissue repairs after injury or to ward off infections when exposed to pathological organisms.
 - This project proposed to characterize the occupation of tree-planting by determining fitness, dietary intake, blood glucose, body composition, and markers of inflammation, immune, and neoroendocrine systems as affected by the work of tree-planting.
+
+## Results
+- Three-day diet history analysis indicated that the mean caloric intake was $5159 \pm 1047$ kcal/day, of which $14 \pm 3$% was protein, $50 \pm 7$% was protein, $35 \pm 7$% was fat.
