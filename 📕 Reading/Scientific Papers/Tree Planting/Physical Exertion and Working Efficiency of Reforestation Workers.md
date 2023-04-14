@@ -17,7 +17,7 @@
 - Canada's forests account for 27% of the country's land mass.
 - Forestry is worth $6 billion per annum.
 - Workers carried loads of approximately 17 kg for distances of 16 km per day with an average heart rate (HR) of 60%-75% of maximal heart rate ($HR_{max}$).
-- For more about physical effects of tree planting, see [[📕 Reading/Scientific Papers/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers|this]] and [[📕 Reading/Scientific Papers/In-Season Physiological and Biochemical Status of Reforestation Workers|this]].
+- For more about physical effects of tree planting, see [[📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers|this]] and [[📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers|this]].
 
 ## Methods
 The most interesting part of the methods section is the *video-recording & analysis*, and the *data & statistical analyses*.
