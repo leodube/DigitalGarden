@@ -1,0 +1,13 @@
+# The Effects of 10 Weeks of Reforestation Work on Body Composition (2005)
+#reading #science #paper #treeplanting 
+
+**Link:** https://pubmed.ncbi.nlm.nih.gov/15813140/
+
+>[!abstract]
+>**Objective** - To document changes in body composition and body mass in male and female tree planters.
+>
+>**Methods** - Height, mass, skin-fold thickness, and limb girths were measured in 17 male and 5 female tree planters before and after 10 weeks of work.
+>
+>**Results** - Significant decreases were found in body mass (80.6  10.7 kg vs 76.8  8.5 kg) and body fat (13.3%  5.5% vs. 10.4%  5.0%) in the men (P  .05). No changes in skin-fold–corrected limb girths were found in the men or women. Initial body mass was significantly (P  .05) correlated with mass loss in men (r2  .46) and women (r2  .67). Estimated daily energy consumption was 20680.1  2204.5 kJ for men and 14516.6  2077.3 kJ for women, and estimated daily fat con- sumption was 194.2  30.1 g for men and 132.3  35.6 g for women.
+>
+>**Conclusions** - Ten weeks of tree planting leads to significant decreases in body mass and body fat in men while maintaining skin-fold–corrected limb girths.****
