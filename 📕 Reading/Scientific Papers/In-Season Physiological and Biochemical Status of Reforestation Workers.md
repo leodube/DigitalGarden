@@ -15,3 +15,6 @@
 
 ## Discussion
 - The most pronounced finding was that blood glucose levels remained at near hypoglycemic levels throughout the day.
+- Muscle wasting in response to increased cortisol levels is well documented. In the current study, planters lost an average of $1.7 \pm 1.5$% of body mass over 14 days. Skinfold measurements indicated that approximately 15% of this loss was due to loss of fat mass, with the remainder of the loss due to loss of lean muscle mass.
+- Sports science has clearly demonstrated the benefits of increased carbohydrate intake on both the duration of and intensity sustained during endurance performance. These effects are particularly pronounced when carbohydrates are supplemented during exercise.
+- Recovery from prolonged exercise has been shown to be significantly improved by the provision of high glycemic-index intake in the postexercise period.
