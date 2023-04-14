@@ -65,7 +65,7 @@ The most interesting part of the methods section is the *video-recording & analy
 ### Effort as determined by heart rate response
 - Experienced workers complete their bag-ups in approximately half the time of the inexperienced workers. 
 - Experienced tree planters work faster compared to inexperienced tree planters and the experienced workers don't require a greater working HR to achieve this greater productivity.
-- This may support the notion that these workers exert themselves to a given maximal sustainable effort regardless of the technical difficulty of the task. This maximal sustainable effort has been defined as critical power in a sporting context where human performance at or below critical power can be maintained indefinitely. [14]
+- This may support the notion that these workers exert themselves to a given maximal sustainable effort regardless of the technical difficulty of the task. This maximal sustainable effort has been defined as critical power in a sporting context where human performance at or below critical power can be maintained indefinitely ([[📕 Reading/Scientific Papers/Sports/The Critical Power Concept|see more]]).
 - In an industry in which earnings vary directly with production, it is likely that workers find the maximal daily exertion level that is both tolerable and maintainable, and strive to achieve this level regardless of the precise natire of this work.
 
 ### Exertion and Efficiency
@@ -74,6 +74,3 @@ The most interesting part of the methods section is the *video-recording & analy
 
 ## Conclusion
 The findings of this study indicate that productivity amongst tree planters is achieved through increased exertion and increased efficiency. 
-
-## References
-14. Hill DW: The critical power concept. A review. In Sports medicine. Volume 16. Auckland, NZ; 1993:237-254.
