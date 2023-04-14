@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
+                "file": "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6132a481c0bd5bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📕 Reading/Scientific Papers/Sports/The Critical Power Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
+                "file": "📕 Reading/Scientific Papers/Sports/The Critical Power Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
+                "file": "📕 Reading/Scientific Papers/Sports/The Critical Power Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md"
+                "file": "📕 Reading/Scientific Papers/Sports/The Critical Power Concept.md"
               }
             }
           },
@@ -176,12 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99fced8f0443f1a9",
+  "active": "6132a481c0bd5bf6",
   "lastOpenFiles": [
-    "📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
-    "📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers.md",
-    "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
+    "📕 Reading/Scientific Papers/Sports/The Critical Power Concept.md",
+    "📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
+    "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
+    "📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers.md",
     "📕 Reading/Scientific Papers/Sports",
     "📕 Reading/Scientific Papers/Tree Planting",
     "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md",
@@ -212,7 +226,6 @@
     "👓 Learning/Data Structures/Stack.md",
     "👓 Learning/Data Structures/Queue.md",
     "👓 Learning/Data Structures/Linked List.md",
-    "👓 Learning/Data Structures/Heap.md",
     "👓 Learning/Hugo"
   ]
 }
