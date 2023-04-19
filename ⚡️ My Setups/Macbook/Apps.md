@@ -12,8 +12,9 @@
 - Bitwarden
 - Spotify
 - Google Drive Backup
-- Microsoft Remote Desktop
-- Keeper
+- Microsoft Remote Desktop ★
+- Keeper ★
+- Wireguard
 
 **Games:**
 - Minecraft
@@ -31,7 +32,9 @@
 - Java
 - nvm
 - yarn
-- go
-- .Net SDK
+- go ★
+- .Net SDK ★
 - Homebrew:
   - git
+
+★ Currently used for specific projects. Remove after completion
