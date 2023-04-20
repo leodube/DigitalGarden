@@ -33,7 +33,6 @@
 - nvm
 - yarn
 - go ★
-- .Net SDK ★
 - Homebrew:
   - git
 
