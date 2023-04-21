@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md"
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md"
               }
             }
           },
@@ -191,9 +191,12 @@
   },
   "active": "6132a481c0bd5bf6",
   "lastOpenFiles": [
+    "⚡️ My Setups/Home Server/System Design.md",
+    "⚡️ My Setups/Home Server/Bookmarks.md",
+    "⚡️ My Setups/Home Server/Case Study.md",
+    "⚡️ My Setups/Macbook/Apps.md",
     "📕 Reading/Scientific Papers/Sports/The Critical Power Concept.md",
     "images",
-    "⚡️ My Setups/Home Server/System Design.md",
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
     "📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
     "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
@@ -207,7 +210,6 @@
     "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
     "👓 Learning/Hugo/Menu Templates.md",
     "📕 Reading/Scientific Papers",
-    "⚡️ My Setups/Macbook/Apps.md",
     "📕 Reading/Bookmarks.md",
     "templates/leetcode.md",
     "🐞 Debug Stories/Go.md",
@@ -224,7 +226,6 @@
     "📕 Reading/Articles",
     "📕 Reading/Books",
     "🔧 Projects/pkg.treedensity.viz/bookmarks.md",
-    "🔧 Projects/app.modeleo/ideation.md",
-    "👓 Learning/Data Structures/Stack.md"
+    "🔧 Projects/app.modeleo/ideation.md"
   ]
 }
