@@ -39,6 +39,7 @@
 - **3M**: Vehicle Sanding Block
 - **Bondo**: Glazing and Spot Putty
 - **Bondo:** Spreader
+- **Dominion:** Self Etch Primer
 
 ## Other
 - **3m**: Automotive Masking Tape
