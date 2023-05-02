@@ -12,7 +12,7 @@
 - Bitwarden
 - Spotify
 - Google Drive Backup
-- Microsoft Remote Desktop ★
+- Microsoft Remote Desktop
 - Keeper ★
 - Wireguard
 
