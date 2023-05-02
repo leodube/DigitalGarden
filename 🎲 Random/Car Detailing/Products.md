@@ -40,6 +40,7 @@
 - **Bondo**: Glazing and Spot Putty
 - **Bondo:** Spreader
 - **Dominion:** Self Etch Primer
+- **DupliColor**: Scratch Filler Primer
 
 ## Other
 - **3m**: Automotive Masking Tape
