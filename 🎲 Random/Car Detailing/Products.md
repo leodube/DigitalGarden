@@ -12,6 +12,7 @@
 - **Chemical Guys**: Clay Bar (yellow)
 - **Chemical Guys**: Clay Luber
 - **Chemical Guys**: Butter Wet Wax
+- **DupliColor**: Scratch Fix All-in-1
 
 ## Other
 - **3m**: Automotive Masking Tape
