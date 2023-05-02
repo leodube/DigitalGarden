@@ -36,6 +36,7 @@
 - **Dominion**: Wax and Grease Remover
 - **MasterCraft:** Wire Wheel Brush Set
 - **Bondo**: Body Repair Kit
+- **3M**: Vehicle Sanding Block
 
 ## Other
 - **3m**: Automotive Masking Tape
