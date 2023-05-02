@@ -5,6 +5,7 @@
 - Rectangle
 - Mullvad
 - Omnidisk Sweeper
+- Flux
 
 **Apps:**
 - Chrome
