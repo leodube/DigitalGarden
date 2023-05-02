@@ -32,6 +32,8 @@
 - **Chemical Guys**: Butter Wet Wax
 - **DupliColor**: Scratch Fix All-in-1
 
+## Rust Patch Fix
+
 ## Other
 - **3m**: Automotive Masking Tape
 - **Chemical Guys**: Workhorse Microfiber Towels
