@@ -41,6 +41,7 @@
 - **Dominion:** Self Etch Primer
 - **DupliColor**: Scratch Filler Primer
 - **Rust Check**: Rust Converter
+- **Bennett**: Tack Cloth
 
 ## Other
 - **3m**: Automotive Masking Tape
