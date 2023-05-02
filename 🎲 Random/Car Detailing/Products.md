@@ -41,6 +41,7 @@
 - **Bondo:** Spreader
 - **Dominion:** Self Etch Primer
 - **DupliColor**: Scratch Filler Primer
+- **Rust Check**: Rust Converter
 
 ## Other
 - **3m**: Automotive Masking Tape
