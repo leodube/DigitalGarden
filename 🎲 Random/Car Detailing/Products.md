@@ -35,9 +35,8 @@
 ## Rust Patch Fix
 - **Dominion**: Wax and Grease Remover
 - **MasterCraft:** Wire Wheel Brush Set
-- **Bondo**: Body Repair Kit
+- **Bondo**: Body Filler
 - **3M**: Vehicle Sanding Block
-- **Bondo**: Glazing and Spot Putty
 - **Bondo:** Spreader
 - **Dominion:** Self Etch Primer
 - **DupliColor**: Scratch Filler Primer
