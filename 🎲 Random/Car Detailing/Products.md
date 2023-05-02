@@ -18,7 +18,6 @@
 - **Chemical Guys**: Tire + Trim Gel
 - **Chemical Guys**: Synthetic Quick Detailer
 
-
 ## Paint
 - **Chemical Guys**: Clean Slate Wax Stripping Wash
 - **Chemical Guys**: Clay Bar (yellow)
