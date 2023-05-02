@@ -52,3 +52,4 @@
 - **Chemical Guys:** Jet Seal
 - **Chemical Guys:** Cutting Pads
 - **DupliColor**: Perfect Match Spray Paint
+- **DupliColor**: Lacquer Clear Coat
