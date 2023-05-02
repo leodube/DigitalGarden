@@ -41,3 +41,5 @@
 - **Chemical Guys**: Microfibre Wash
 
 ## To Purchase
+- **Chemical Guys:** Jet Seal
+- **Chemical Guys:** Cutting Pads
