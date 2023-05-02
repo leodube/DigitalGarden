@@ -37,6 +37,8 @@
 - **MasterCraft:** Wire Wheel Brush Set
 - **Bondo**: Body Repair Kit
 - **3M**: Vehicle Sanding Block
+- **Bondo**: Glazing and Spot Putty
+- **Bondo:** Spreader
 
 ## Other
 - **3m**: Automotive Masking Tape
