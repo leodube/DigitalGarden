@@ -16,6 +16,14 @@
 ### Fill in area
 #### Fill in large are (optional)
 If the rust patch is very large and goes all the way through the panel, follow the next steps. Otherwise continue to the *Apply Body Filler* section.
+1. If rust patch is around wheel well, jack up car and remove wheel and liner to access the back of the panel
+2. Remove the rust at the back of the panel
+3. Spray a couple layers of self etching primer on the bare metal
+4. Follow up with a thick coat of rubberized stone chip undercoating
+5. If the wheel was removed, it can be put back and the car lowered
+6. Place a body patch behind areas that have holes
+7. Clean surface with wax and grease remover
+8. 
 
 #### Apply Body Filler
 1. Use a spreader to apply some body filler over the pitting from the rust, and allow time to cure
@@ -25,7 +33,7 @@ If the rust patch is very large and goes all the way through the panel, follow t
 5. Sand again with 320 grit sandpaper, then with 400 grit sandpaper
 6. Blow away dust and add paper to areas you don't want affected
 7. Wipe down area with wax and grease remover
-8. Spray some self etching primer on any bare metal
+8. Spray a couple layers of self etching primer on any bare metal
 9. Spray filler primer over the area
 10. Sand area with 400 grit sandpaper, then 600 grit sandpaper to remove scratches
 11. Wipe area again with wax and grease remover and blow away dust with compressed air
