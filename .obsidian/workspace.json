@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Random/Car Detailing/Interior.md",
+                "file": "🎲 Random/Car Detailing/Rust Patch.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎲 Random/Car Detailing/Interior.md",
+                "file": "🎲 Random/Car Detailing/Rust Patch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎲 Random/Car Detailing/Interior.md",
+                "file": "🎲 Random/Car Detailing/Rust Patch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎲 Random/Car Detailing/Interior.md"
+                "file": "🎲 Random/Car Detailing/Rust Patch.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "5421898496b66581",
   "lastOpenFiles": [
-    "🎲 Random/Car Detailing/Products.md",
     "🎲 Random/Car Detailing/Interior.md",
+    "🎲 Random/Car Detailing/Products.md",
     "🎲 Random/Car Detailing/Rust Patch.md",
     "🎲 Random/Car Detailing/Paint.md",
     "🎲 Random/Car Detailing/Exterior.md",

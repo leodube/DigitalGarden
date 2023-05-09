@@ -14,6 +14,10 @@
 6. Apply some rust converter to the area
 
 ### Fill in area
+#### Fill in large are (optional)
+If the rust patch is very large and goes all the way through the panel, follow the next steps. Otherwise continue to the *Apply Body Filler* section.
+
+#### Apply Body Filler
 1. Use a spreader to apply some body filler over the pitting from the rust, and allow time to cure
 2. Do a quick sand with 80 grit sandpaper to knock down any high points from the filler
 3. Sand again with 180 grit sandpaper
