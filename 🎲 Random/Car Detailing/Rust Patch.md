@@ -24,6 +24,7 @@ If the rust patch is very large and goes all the way through the panel, follow t
 6. Place a body patch behind areas that have holes
 7. Clean surface with wax and grease remover
 8. Use a fiberglass body filler if there are large holes
+9. Sand down body filler to general shape of the panel
 
 #### Apply Body Filler
 1. Use a spreader to apply some body filler over the pitting from the rust, and allow time to cure
