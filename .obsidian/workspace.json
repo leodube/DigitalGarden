@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Random/Car Detailing/Rust Patch.md",
+                "file": "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "9c09381c749f1b15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎲 Random/Car Detailing/Rust Patch.md",
+                "file": "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎲 Random/Car Detailing/Rust Patch.md",
+                "file": "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎲 Random/Car Detailing/Rust Patch.md"
+                "file": "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md"
               }
             }
           },
@@ -203,9 +211,13 @@
   },
   "active": "5421898496b66581",
   "lastOpenFiles": [
+    "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
+    "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
+    "🐞 Debug Stories/Go/Forking a Go Module.md",
+    "🐞 Debug Stories/C-Sharp",
+    "🎲 Random/Car Detailing/Rust Patch.md",
     "🎲 Random/Car Detailing/Interior.md",
     "🎲 Random/Car Detailing/Products.md",
-    "🎲 Random/Car Detailing/Rust Patch.md",
     "🎲 Random/Car Detailing/Paint.md",
     "🎲 Random/Car Detailing/Exterior.md",
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
@@ -227,17 +239,13 @@
     "📕 Reading/Scientific Papers/Tree Planting",
     "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md",
     "templates/callouts.md",
-    "🐞 Debug Stories/Go/Forking a Go Module.md",
     "🔧 Projects/QuartzSN/Bookmarks.md",
-    "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
     "👓 Learning/Hugo/Menu Templates.md",
     "📕 Reading/Scientific Papers",
     "📕 Reading/Bookmarks.md",
     "templates/leetcode.md",
     "🐞 Debug Stories/Go.md",
     "🐞 Debug Stories/Go",
-    "🔧 Projects/QuartzSN",
-    "🐞 Debug Stories",
-    "👓 Learning/Hugo/Menu Variables.md"
+    "🔧 Projects/QuartzSN"
   ]
 }
