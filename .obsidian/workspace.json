@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/callouts.md",
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/callouts.md",
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/callouts.md",
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/callouts.md"
+                "file": "⚡️ My Setups/Home Server/Bookmarks.md"
               }
             }
           },
@@ -220,6 +220,8 @@
   },
   "active": "0d1bf365377b636a",
   "lastOpenFiles": [
+    "⚡️ My Setups/Home Server/System Design.md",
+    "templates/callouts.md",
     "🎲 Random/Car Detailing/Paint.md",
     "🎲 Random/Car Detailing/Exterior.md",
     "🎲 Random/Car Detailing/Products.md",
@@ -240,14 +242,12 @@
     "Other",
     "📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
     "⚡️ My Setups/Home Server/Bookmarks.md",
-    "⚡️ My Setups/Home Server/System Design.md",
     "⚡️ My Setups/Home Server/Case Study.md",
     "images",
     "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
     "📕 Reading/Scientific Papers/Sports",
     "📕 Reading/Scientific Papers/Tree Planting",
     "📕 Reading/Scientific Papers/Ergonomics of Tree Planting Work Among British Columbia Forest Workers.md",
-    "templates/callouts.md",
     "🔧 Projects/QuartzSN/Bookmarks.md",
     "👓 Learning/Hugo/Menu Templates.md",
     "📕 Reading/Scientific Papers",
