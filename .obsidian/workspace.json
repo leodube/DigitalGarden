@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md",
+                "file": "templates/callouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md",
+                "file": "templates/callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md",
+                "file": "templates/callouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md"
+                "file": "templates/callouts.md"
               }
             }
           },
@@ -188,6 +188,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0b92e295f3df21c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -210,6 +220,7 @@
   },
   "active": "0d1bf365377b636a",
   "lastOpenFiles": [
+    "🎲 Random/Car Detailing/Paint.md",
     "🎲 Random/Car Detailing/Exterior.md",
     "🎲 Random/Car Detailing/Products.md",
     "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
@@ -218,7 +229,6 @@
     "🐞 Debug Stories/C-Sharp",
     "🎲 Random/Car Detailing/Rust Patch.md",
     "🎲 Random/Car Detailing/Interior.md",
-    "🎲 Random/Car Detailing/Paint.md",
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
     "⚡️ My Setups/Macbook/Apps.md",
     "📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers.md",
