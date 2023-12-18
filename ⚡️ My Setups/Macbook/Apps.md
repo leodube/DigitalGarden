@@ -10,6 +10,7 @@
 **Apps:**
 - Chrome
 - Firefox
+- Ungoogled Chromium - [setup](https://avoidthehack.com/how-to-install-configure-ungoogled-chromium)
 - Bitwarden
 - Spotify
 - Google Drive Backup
@@ -33,7 +34,6 @@
 - Java
 - nvm
 - yarn
-- go ★
 - Homebrew:
   - git
 
