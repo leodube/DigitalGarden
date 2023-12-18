@@ -1,40 +1,58 @@
 # Apps
 #setup #macbook #apps
 
+## System
 **Utilities:**
 - Rectangle
-- Mullvad
+- Mullvad VPN
 - Omnidisk Sweeper
 - Flux
 
 **Apps:**
-- Chrome
+- Google Chrome
 - Firefox
 - Ungoogled Chromium - [setup](https://avoidthehack.com/how-to-install-configure-ungoogled-chromium)
 - Bitwarden
 - Spotify
 - Google Drive Backup
 - Microsoft Remote Desktop
-- Keeper ★
 - Wireguard
-
-**Games:**
-- Minecraft
 
 **Development:**
 - Docker
 - VSCode
-- Visual Studio
-- Obsidian
 - Github Desktop (install git first)
-- Fitbit device simulator
 
 **Command Line:**
 - Command Line Tools for Xcode
 - Java
 - nvm
 - yarn
-- Homebrew:
-  - git
+- [[⚡️ My Setups/Macbook/Homebrew List|Homebrew]]
+
+## Users
+### Main
+**Apps:**
+- Obsidian
+- Google Docs
+- Google Drive
+- Google Sheets
+- Google Slides
+- Notion
+- OmniDiskSweeper
+- Raindrop.io
+
+**Games:**
+- Minecraft
+- Battle.Net:
+	- Starcraft 1
+
+### Work
+**Apps:**
+- ConnectWise Control Client ★
+- Keeper ★
+- Microsoft Teams
+- Postico 2
+- Postman
 
 ★ Currently used for specific projects. Remove after completion

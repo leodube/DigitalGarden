@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Untitled.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Untitled.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Untitled.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Untitled.md"
+                "file": "⚡️ My Setups/Macbook/Apps.md"
               }
             }
           },
@@ -220,8 +220,8 @@
   },
   "active": "0d1bf365377b636a",
   "lastOpenFiles": [
+    "⚡️ My Setups/Macbook/Homebrew List.md",
     "⚡️ My Setups/Macbook/Apps.md",
-    "⚡️ My Setups/Macbook/Untitled.md",
     "💻 LeetCode/21. Merge Two Sorted Lists.md",
     "💻 LeetCode/20. Valid Parenthesis.md",
     "💻 LeetCode/14. Longest Common Prefix.md",
