@@ -17,6 +17,7 @@
 - Google Drive Backup
 - Microsoft Remote Desktop
 - Wireguard
+- Uber
 
 **Development:**
 - Docker
