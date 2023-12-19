@@ -5,6 +5,7 @@
 **Utilities:**
 - Rectangle
 - Mullvad VPN
+- Wireguard
 - Omnidisk Sweeper
 - Flux
 
@@ -16,8 +17,7 @@
 - Spotify
 - Google Drive Backup
 - Microsoft Remote Desktop
-- Wireguard
-- Uber
+- Ubersicht
 
 **Development:**
 - Docker
@@ -32,7 +32,7 @@
 - [[⚡️ My Setups/Macbook/Homebrew List|Homebrew]]
 
 ## Users
-### Main
+### leodube
 **Apps:**
 - Obsidian
 - Google Docs
@@ -48,7 +48,7 @@
 - Battle.Net:
 	- Starcraft 1
 
-### Work
+### work
 **Apps:**
 - ConnectWise Control Client ★
 - Keeper ★
