@@ -17,7 +17,6 @@
 - Spotify
 - Google Drive Backup
 - Microsoft Remote Desktop
-- Ubersicht
 
 **Development:**
 - Docker
