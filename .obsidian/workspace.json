@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "0d1bf365377b636a",
   "lastOpenFiles": [
+    "README.md",
     "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
     "⚡️ My Setups/Macbook/Apps.md",
     "👓 Learning/Hugo/Menu Templates.md",
@@ -246,7 +247,6 @@
     "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
     "🐞 Debug Stories/Go/Forking a Go Module.md",
     "🐞 Debug Stories/C-Sharp",
-    "🎲 Random/Car Detailing/Rust Patch.md",
     "🎲 Random/Car Detailing",
     "🎲 Random",
     "Other",
