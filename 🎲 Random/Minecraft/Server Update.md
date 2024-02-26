@@ -5,5 +5,5 @@
 - Update and replace the fabric-api and individual mod versions.
 
 ### Update Server
-- In ggservers, change server type to latest version.
+- In ggservers, update server `version` change `server type` to latest version.
 - Update and replace the fabric-api and individual mod versions.
