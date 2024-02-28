@@ -20,7 +20,7 @@
     "obsidian-git:pull": 1,
     "obsidian-git:add-to-gitignore": 1,
     "obsidian-git:push": 1,
-    "obsidian-git:backup-and-close": 48,
+    "obsidian-git:backup-and-close": 51,
     "obsidian-git:commit-push-specified-message": 1,
     "obsidian-git:commit": 4,
     "obsidian-git:commit-specified-message": 4,
@@ -49,9 +49,9 @@
     "switcher:open": 6,
     "obsidian-kanban:add-kanban-lane": 1,
     "key-promoter:key-promoter": 1,
-    "workspace:undo-close-pane": 47,
-    "workspace:close": 47,
-    "workspace:close-others": 47,
+    "workspace:undo-close-pane": 50,
+    "workspace:close": 50,
+    "workspace:close-others": 50,
     "graph:open": 6,
     "editor:open-link-in-new-leaf": 3,
     "workspace:new-tab": 3,
@@ -59,8 +59,10 @@
     "workspace:toggle-stacked-tabs": 1,
     "insert-current-date": 1,
     "insert-current-time": 1,
-    "workspace:close-window": 19,
-    "editor:toggle-spellcheck": 1
+    "workspace:close-window": 22,
+    "editor:toggle-spellcheck": 1,
+    "workspace:close-tab-group": 3,
+    "workspace:close-others-tab-group": 3
   },
   "keyboardStatistics": {}
 }

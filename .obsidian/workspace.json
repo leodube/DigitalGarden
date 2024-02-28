@@ -13,49 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Random/Minecraft/Server Update.md",
+                "file": "⚡️ My Setups/Home Server/System Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d7d59743d49881d",
+            "id": "dcae28203381089e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "🎲 Random/Car Detailing/Exterior.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bba09b0fbe3d7593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎲 Random/Car Detailing/Products.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5421898496b66581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.8"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎲 Random/Minecraft/Server Update.md",
+                "file": "⚡️ My Setups/Home Server/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎲 Random/Minecraft/Server Update.md",
+                "file": "⚡️ My Setups/Home Server/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎲 Random/Minecraft/Server Update.md"
+                "file": "⚡️ My Setups/Home Server/System Design.md"
               }
             }
           },
@@ -195,7 +170,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -218,19 +195,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d1bf365377b636a",
+  "active": "dcae28203381089e",
   "lastOpenFiles": [
+    "⚡️ My Setups/Home Server/Case Study.md",
+    "⚡️ My Setups/Home Server/System Design.md",
+    "⚡️ My Setups/Home Server/Bookmarks.md",
+    "🎲 Random/Minecraft/Server Update.md",
     "Screenshot 2024-01-26 at 8.34.32 PM.png",
     "⚡️ My Setups/Macbook/Homebrew List.md",
-    "🎲 Random/Minecraft/Server Update.md",
     "🎲 Random/Minecraft",
     "README.md",
     "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
     "⚡️ My Setups/Macbook/Apps.md",
     "👓 Learning/Hugo/Menu Templates.md",
-    "⚡️ My Setups/Home Server/System Design.md",
-    "⚡️ My Setups/Home Server/Case Study.md",
-    "⚡️ My Setups/Home Server/Bookmarks.md",
     "💻 LeetCode/21. Merge Two Sorted Lists.md",
     "💻 LeetCode/20. Valid Parenthesis.md",
     "💻 LeetCode/14. Longest Common Prefix.md",
