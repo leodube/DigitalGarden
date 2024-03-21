@@ -41,6 +41,11 @@
 - Notion
 - OmniDiskSweeper
 - Raindrop.io
+- Capo
+- Cyberduck
+- KeePassXC
+- MuseScore 4
+- Picocrypt
 
 **Games:**
 - Minecraft
