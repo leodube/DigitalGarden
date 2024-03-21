@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Homebrew List.md"
+                "file": "⚡️ My Setups/Macbook/Apps.md"
               }
             }
           },
@@ -207,14 +207,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1d9416ee338532b",
+  "active": "7965948d636f94d1",
   "lastOpenFiles": [
+    "⚡️ My Setups/Macbook/Homebrew List.md",
     "⚡️ My Setups/Home Server/Case Study.md",
     "⚡️ My Setups/Home Server/System Design.md",
     "⚡️ My Setups/Home Server/Bookmarks.md",
     "🎲 Random/Minecraft/Server Update.md",
     "Screenshot 2024-01-26 at 8.34.32 PM.png",
-    "⚡️ My Setups/Macbook/Homebrew List.md",
     "🎲 Random/Minecraft",
     "README.md",
     "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",

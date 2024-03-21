@@ -8,15 +8,15 @@
 - Wireguard
 - Omnidisk Sweeper
 - Flux
+- Sloth
 
 **Apps:**
 - Google Chrome
-- Firefox
 - Ungoogled Chromium - [setup](https://avoidthehack.com/how-to-install-configure-ungoogled-chromium)
 - Bitwarden
 - Spotify
+- Notion
 - Google Drive Backup
-- Microsoft Remote Desktop
 
 **Development:**
 - Docker
@@ -54,5 +54,6 @@
 - Microsoft Teams
 - Postico 2
 - Postman
+- Microsoft Remote Desktop
 
 ★ Currently used for specific projects. Remove after completion
