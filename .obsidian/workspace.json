@@ -28,9 +28,21 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "b1d9416ee338532b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡️ My Setups/Home Server/System Design.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡️ My Setups/Home Server/System Design.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡️ My Setups/Home Server/System Design.md"
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md"
               }
             }
           },
@@ -195,7 +207,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcae28203381089e",
+  "active": "b1d9416ee338532b",
   "lastOpenFiles": [
     "⚡️ My Setups/Home Server/Case Study.md",
     "⚡️ My Setups/Home Server/System Design.md",
