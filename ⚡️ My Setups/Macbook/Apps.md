@@ -15,6 +15,7 @@
 - Bitwarden
 - Spotify
 - Notion
+- Obsidian Notes
 - Google Drive Backup
 
 **Development:**
