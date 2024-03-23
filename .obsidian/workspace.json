@@ -23,16 +23,6 @@
             "id": "dcae28203381089e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "b1d9416ee338532b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "⚡️ My Setups/Macbook/Apps.md",
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,9 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7965948d636f94d1",
+  "active": "dcae28203381089e",
   "lastOpenFiles": [
     "⚡️ My Setups/Macbook/Homebrew List.md",
+    "Screenshot 2024-01-26 at 8.34.32 PM.png",
+    "⚡️ My Setups/Macbook/Apps.md",
     "⚡️ My Setups/Home Server/Case Study.md",
     "⚡️ My Setups/Home Server/System Design.md",
     "⚡️ My Setups/Home Server/Bookmarks.md",
@@ -218,7 +210,6 @@
     "🎲 Random/Minecraft",
     "README.md",
     "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
-    "⚡️ My Setups/Macbook/Apps.md",
     "👓 Learning/Hugo/Menu Templates.md",
     "💻 LeetCode/21. Merge Two Sorted Lists.md",
     "💻 LeetCode/20. Valid Parenthesis.md",

@@ -8,7 +8,6 @@
 - Wireguard
 - Omnidisk Sweeper
 - Flux
-- Sloth
 
 **Apps:**
 - Google Chrome
