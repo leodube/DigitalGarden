@@ -6,7 +6,6 @@
 - Rectangle
 - Mullvad VPN
 - Wireguard
-- Omnidisk Sweeper
 - Flux
 
 **Apps:**
@@ -15,8 +14,6 @@
 - Bitwarden
 - Spotify
 - Notion
-- Obsidian Notes
-- Google Drive Backup
 
 **Development:**
 - Docker
