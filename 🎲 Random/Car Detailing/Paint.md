@@ -13,24 +13,25 @@
 4. Once you feel paint get smooth, buff off excess lubricant and move on to another section.
 
 ## Polish
-
-6. Polish: V36 with Orange Pad
-7. Buff
-8. Polish: V38 with White Pad
-9. Buff
-10. Ceramic: Hydro Charge
+1. Apply dime size drops to polishing pad. The number of drops you add should be the same number as the pad size, so a 6 inch pad receives 6 drops.
+2. 
+3. Polish: V36 with Orange Pad
+4. Buff
+5. Polish: V38 with White Pad
+6. Buff
+7. Ceramic: Hydro Charge
+8. Buff
+9. Bond: wait 3 hours
+10. Ceramic: Hydro Slick
 11. Buff
 12. Bond: wait 3 hours
-13. Ceramic: Hydro Slick
-14. Buff
-15. Bond: wait 3 hours
-16. Glaze: Wet Mirror Finish with Blue Pad (low speed)
+13. Glaze: Wet Mirror Finish with Blue Pad (low speed)
+14. Bond: Wait 15 mins
+15. Buff
+16. Seal: Jet Seal with Black Pad (low speed)
 17. Bond: Wait 15 mins
 18. Buff
-19. Seal: Jet Seal with Black Pad (low speed)
+19. Wax: Hybrid V07 with Red Pad (low speed)
 20. Bond: Wait 15 mins
 21. Buff
-22. Wax: Hybrid V07 with Red Pad (low speed)
-23. Bond: Wait 15 mins
-24. Buff
-25. Clean: Quick Detail Spray
+22. Clean: Quick Detail Spray
