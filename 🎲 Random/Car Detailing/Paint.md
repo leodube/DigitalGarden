@@ -47,8 +47,9 @@
 5. Wait 10-15 minutes, then buff off with a microfibre towel.
 
 ## Wax
+1. Apply 4 dots of the wax (Butter Wet Wax) on to a new microfibre applicator.
+2. Apply to surface in a straight, cross-hatch pattern (avoid circular motions).
+3. Once added to the working surface, wait 15 minute and then lightly buff with a clean microfibre towel.
 
-24. Wax: Hybrid V07 with Red Pad (low speed)
-25. Bond: Wait 15 mins
-26. Buff
-27. Clean: Quick Detail Spray
+## Detail Spray
+1. Spray surface directly with Quick Detail Spray and wipe off with clean microfibre towel. Buff off with dry side of microfibre towel.
