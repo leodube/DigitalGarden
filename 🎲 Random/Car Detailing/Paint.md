@@ -2,11 +2,18 @@
 #random #detailing #paint
 
 ## Wash
-1. Wash with Mr. Pink
-2. Dry car with microfibre towel
-3. Wash: Wipe Out
-4. Clay: Clay Luber and Clay Bar
-5. Buff
+1. Wash car with Mr. Pink to remove surface dirt and grime.
+2. Second wash with Clean Slate to strip old wax and sealants
+3. Dry car with microfibre towel
+
+## Clay Bar
+1. Take a golf ball size amount of the clay bar and shape into a patty.
+2. Spray clay bar with Clay Luber and spray paint generously.
+3. Work the clay bar in straight motions (avoid circular motions) and ensure enough lubrication is used. Make sure not to apply any pressure (just the weight of your hand).
+4. Once you feel paint get smooth, buff off excess lubricant and move on to another section.
+
+## Polish
+
 6. Polish: V36 with Orange Pad
 7. Buff
 8. Polish: V38 with White Pad
