@@ -33,14 +33,14 @@
 9. Wait for 3 hours for Hydro Charge to bond before moving to the next step.
 
 ## Glaze
-1. Apply dime size drops of the glaze to the polishing pad. The number of drops you add should be the same number as the pad size, so a 6 inch pad receives 6 drops.
+1. Apply dime size drops of the glaze (Wet Mirror Finish) to the polishing pad. The number of drops you add should be the same number as the pad size, so a 6 inch pad receives 6 drops.
 2. Blot out the glaze onto the working area.
 3. On low speed, use the polisher to spread the glaze over the working area. Do not work in to the paint. It should not take long to cover the area.
 4. Continue over the surface of the vehicle.
 5. Wait 10-15 minutes, then buff off with a microfibre towel.
 
 ## Sealant
-1. Apply dime size drops of the sealant to the polishing pad. The number of drops you add should be the same number as the pad size, so a 6 inch pad receives 6 drops.
+1. Apply dime size drops of the sealant (Jet Seal) to the polishing pad. The number of drops you add should be the same number as the pad size, so a 6 inch pad receives 6 drops.
 2. Blot out the sealant onto the working area.
 3. On low speed, use the polisher to spread the sealant over the working area. Do not work in to the paint. It should not take long to cover the area.
 4. Continue over the surface of the vehicle, including the glass.
@@ -48,12 +48,6 @@
 
 ## Wax
 
-18. Glaze: Wet Mirror Finish with Blue Pad (low speed)
-19. Bond: Wait 15 mins
-20. Buff
-21. Seal: Jet Seal with Black Pad (low speed)
-22. Bond: Wait 15 mins
-23. Buff
 24. Wax: Hybrid V07 with Red Pad (low speed)
 25. Bond: Wait 15 mins
 26. Buff
