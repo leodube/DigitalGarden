@@ -21,12 +21,18 @@
 6. Continue over the surface of the vehicle.
 7. Repeat with lighter cutting compounds as needed.
 
-
 ## Ceramics (optional)
-
+1. Spray Hydro Charge onto a blue microfibre applicator.
+2. Apply to surface in a straight, cross-hatch pattern (avoid circular motions) and ensure enough product is added. 
+3. Once added to the working surface, lightly buff with a microfibre towel.
+4. Once done applying the ceramic coating, throw out the applicator as the product will harden.
 
 ## Glaze
-1. 
+
+
+## Sealant
+
+## Wax
 
 
 12. Ceramic: Hydro Charge
