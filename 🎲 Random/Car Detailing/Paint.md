@@ -23,8 +23,8 @@
 
 ## Ceramics (optional)
 1. Spray Hydro Charge onto a blue microfibre applicator.
-2. Apply to surface in a straight, cross-hatch pattern (avoid circular motions) and ensure enough product is added. 
-3. Once added to the working surface, lightly buff with a microfibre towel.
+2. Apply to surface in a straight, cross-hatch pattern (avoid circular motions). Use 3-4 sprays per working area.
+3. Once added to the working surface, wait 30 seconds to 1 minute and then lightly buff with a microfibre towel.
 4. Once done applying the ceramic coating, throw out the applicator as the product will harden.
 
 ## Glaze
