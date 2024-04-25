@@ -13,29 +13,35 @@
 4. Once you feel paint get smooth, buff off excess lubricant and move on to another section.
 
 ## Polish
-1. Apply dime size drops of the polish to polishing pad. The number of drops you add should be the same number as the pad size, so a 6 inch pad receives 6 drops.
-2. Blot out the polish onto the working area.
-3. On low speed, use the polisher to work the polish into the working area.
-4. Once evenly spread out, turn the polisher to a higher speed and continue working into the surface until translucent.
+1. Determine the strength of the cutting compound and polishing pad.
+2. Apply dime size drops of the polish to polishing pad. The number of drops you add should be the same number as the pad size, so a 6 inch pad receives 6 drops.
+3. Blot out the polish onto the working area.
+4. On low speed, use the polisher to work the polish into the working area.
+5. Once evenly spread out, turn the polisher to a higher speed and continue working into the surface until translucent.
+6. Continue over the surface of the vehicle.
+7. Repeat with lighter cutting compounds as needed.
 
 
-5. Polish: V36 with Orange Pad
-6. Buff
-7. Polish: V38 with White Pad
-8. Buff
-9. Ceramic: Hydro Charge
-10. Buff
-11. Bond: wait 3 hours
-12. Ceramic: Hydro Slick
+## Ceramics (optional)
+
+
+## Glaze
+1. 
+
+
+12. Ceramic: Hydro Charge
 13. Buff
 14. Bond: wait 3 hours
-15. Glaze: Wet Mirror Finish with Blue Pad (low speed)
-16. Bond: Wait 15 mins
-17. Buff
-18. Seal: Jet Seal with Black Pad (low speed)
+15. Ceramic: Hydro Slick
+16. Buff
+17. Bond: wait 3 hours
+18. Glaze: Wet Mirror Finish with Blue Pad (low speed)
 19. Bond: Wait 15 mins
 20. Buff
-21. Wax: Hybrid V07 with Red Pad (low speed)
+21. Seal: Jet Seal with Black Pad (low speed)
 22. Bond: Wait 15 mins
 23. Buff
-24. Clean: Quick Detail Spray
+24. Wax: Hybrid V07 with Red Pad (low speed)
+25. Bond: Wait 15 mins
+26. Buff
+27. Clean: Quick Detail Spray
