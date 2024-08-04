@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md",
+                "file": "🔧 Projects/Portfolio/Ideation.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md",
+                "file": "🔧 Projects/Portfolio/Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md",
+                "file": "🔧 Projects/Portfolio/Ideation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md"
+                "file": "🔧 Projects/Portfolio/Ideation.md"
               }
             }
           },
@@ -196,17 +196,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d1bf365377b636a",
+  "active": "7965948d636f94d1",
   "lastOpenFiles": [
+    "🔧 Projects/QuartzSN/Bookmarks.md",
+    "🔧 Projects/Portfolio/Ideation.md",
+    "templates/callouts.md",
+    "templates/leetcode.md",
+    "templates/quartz.md",
+    "🎲 Random/Car Detailing/Paint.md",
+    "Screenshot 2024-01-26 at 8.34.32 PM.png",
     "🎲 Random/Car Detailing/Products.md",
     "🎲 Random/Car Detailing/Rust Patch.md",
-    "🎲 Random/Car Detailing/Paint.md",
     "⚡️ My Setups/Home Server/System Design.md",
     "🎲 Random/Car Detailing/Interior.md",
     "🎲 Random/Car Detailing/Exterior.md",
     "⚡️ My Setups/Macbook/Apps.md",
     "⚡️ My Setups/Macbook/Homebrew List.md",
-    "Screenshot 2024-01-26 at 8.34.32 PM.png",
     "⚡️ My Setups/Home Server/Case Study.md",
     "⚡️ My Setups/Home Server/Bookmarks.md",
     "🎲 Random/Minecraft/Server Update.md",
@@ -222,11 +227,6 @@
     "💻 LeetCode/10. Regular Expression Matching.md",
     "💻 LeetCode/9. Palindrome Number.md",
     "💻 LeetCode/8. String to Integer (atoi).md",
-    "💻 LeetCode/7. Reverse Integer.md",
-    "💻 LeetCode/6. Zigzag Conversion.md",
-    "💻 LeetCode/5. Longest Palindromic Substring.md",
-    "💻 LeetCode/4. Median of Two Sorted Arrays.md",
-    "💻 LeetCode/3. Longest Substring Without Repeating Characters.md",
     "🐞 Debug Stories/C-Sharp",
     "🎲 Random/Car Detailing",
     "🎲 Random",
