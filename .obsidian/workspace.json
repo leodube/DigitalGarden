@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d1bf365377b636a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔧 Projects/Portfolio/Ideation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dcae28203381089e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Random/Car Detailing/Paint.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧 Projects/Portfolio/Ideation.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧 Projects/Portfolio/Ideation.md",
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧 Projects/Portfolio/Ideation.md"
+                "file": "⚡️ My Setups/Macbook/Homebrew List.md"
               }
             }
           },
@@ -198,43 +186,43 @@
   },
   "active": "7965948d636f94d1",
   "lastOpenFiles": [
-    "🔧 Projects/QuartzSN/Bookmarks.md",
-    "🔧 Projects/Portfolio/Ideation.md",
-    "templates/callouts.md",
-    "templates/leetcode.md",
-    "templates/quartz.md",
-    "🎲 Random/Car Detailing/Paint.md",
+    "✂️ Snippets/vscode/tasks.json.md",
+    "✂️ Snippets/vscode",
+    "✂️ Snippets/python/deactivate-virtualenv.sh.md",
+    "✂️ Snippets/python/create-virtualenv.sh.md",
+    "✂️ Snippets/python/activate-virtualenv.sh.md",
+    "✂️ Snippets/python",
+    "✂️ Snippets/github/codeql.yml.md",
+    "✂️ Snippets/github",
+    "✂️ Snippets/git/yarn2.gitignore.md",
+    "✂️ Snippets/git/remove-cached.sh.md",
+    "✂️ Snippets/git/python.gitignore.md",
+    "✂️ Snippets/git/create-new-repo.sh.md",
+    "✂️ Snippets/git",
+    "✂️ Snippets/docker/Interact with RCON.md",
+    "✂️ Snippets/docker",
+    "✂️ Snippets/bash/run-command.sh.md",
+    "✂️ Snippets/bash/create-symlink.sh.md",
+    "✂️ Snippets/bash",
+    "✂️ Snippets/!yarn/switch-to-pnp.md",
+    "✂️ Snippets/!yarn/migrate-to-yarn2.md",
+    "✂️ Snippets/!yarn",
+    "✂️ Snippets/!node/use-latest-version.md",
+    "✂️ Snippets/!node/nosync-script.md",
+    "✂️ Snippets/!node/package.json.md",
+    "✂️ Snippets/!node/node_modules-symlink.md",
+    "✂️ Snippets/!node",
+    "✂️ Snippets/!netlify/fix-react-scripts-not-found.md",
+    "✂️ Snippets/!netlify",
+    "✂️ Snippets/!jsdoc/common-use-cases/separator-comments.md",
+    "✂️ Snippets/!jsdoc/common-use-cases/react-function-tags.md",
+    "✂️ Snippets/!jsdoc/common-use-cases/react-component-tags.md",
+    "✂️ Snippets/!jsdoc/common-use-cases/file-header-tags.md",
+    "✂️ Snippets/!jsdoc/common-use-cases",
+    "✂️ Snippets/!jsdoc/@todo.md",
+    "✂️ Snippets/!jsdoc/@throws.md",
+    "✂️ Snippets/!jsdoc/@returns.md",
     "Screenshot 2024-01-26 at 8.34.32 PM.png",
-    "🎲 Random/Car Detailing/Products.md",
-    "🎲 Random/Car Detailing/Rust Patch.md",
-    "⚡️ My Setups/Home Server/System Design.md",
-    "🎲 Random/Car Detailing/Interior.md",
-    "🎲 Random/Car Detailing/Exterior.md",
-    "⚡️ My Setups/Macbook/Apps.md",
-    "⚡️ My Setups/Macbook/Homebrew List.md",
-    "⚡️ My Setups/Home Server/Case Study.md",
-    "⚡️ My Setups/Home Server/Bookmarks.md",
-    "🎲 Random/Minecraft/Server Update.md",
-    "Screenshot 2024-01-26 at 8.34.32 PM.png",
-    "🎲 Random/Minecraft",
-    "README.md",
-    "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
-    "👓 Learning/Hugo/Menu Templates.md",
-    "💻 LeetCode/21. Merge Two Sorted Lists.md",
-    "💻 LeetCode/20. Valid Parenthesis.md",
-    "💻 LeetCode/14. Longest Common Prefix.md",
-    "💻 LeetCode/13. Roman to Integer.md",
-    "💻 LeetCode/10. Regular Expression Matching.md",
-    "💻 LeetCode/9. Palindrome Number.md",
-    "💻 LeetCode/8. String to Integer (atoi).md",
-    "🐞 Debug Stories/C-Sharp",
-    "🎲 Random/Car Detailing",
-    "🎲 Random",
-    "Other",
-    "images",
-    "📕 Reading/Scientific Papers/Sports",
-    "📕 Reading/Scientific Papers/Tree Planting",
-    "📕 Reading/Scientific Papers",
-    "🐞 Debug Stories/Go"
+    "Screenshot 2024-01-26 at 8.34.32 PM.png"
   ]
 }
