@@ -9,7 +9,7 @@
 - Flux
 
 **Apps:**
-- Google Chrome
+- Firef
 - Ungoogled Chromium - [setup](https://avoidthehack.com/how-to-install-configure-ungoogled-chromium)
 - Bitwarden
 - Spotify

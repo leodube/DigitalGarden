@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5b093aa063fc10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Homebrew List.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Homebrew List.md"
+                "file": "⚡️ My Setups/Macbook/Apps.md"
               }
             }
           },
@@ -184,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7965948d636f94d1",
+  "active": "c5b093aa063fc10d",
   "lastOpenFiles": [
     "✂️ Snippets/vscode/tasks.json.md",
     "✂️ Snippets/vscode",
