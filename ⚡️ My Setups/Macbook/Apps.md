@@ -9,7 +9,12 @@
 - Flux
 
 **Apps:**
-- Firef
+- Firefox:
+	- Ublock Origin
+	- Privacy Badger
+	- Facebook Container
+	- SponsorBlock
+	- Youtube High Definition
 - Ungoogled Chromium - [setup](https://avoidthehack.com/how-to-install-configure-ungoogled-chromium)
 - Bitwarden
 - Spotify
