@@ -7,6 +7,7 @@
 - Mullvad VPN
 - Wireguard
 - Flux
+- Caffeine
 
 **Apps:**
 - Firefox:
@@ -22,7 +23,6 @@
 
 **Development:**
 - Docker
-- UTM
 - VSCode
 - Github Desktop (install git first)
 
@@ -36,11 +36,8 @@
 ## Users
 ### leodube
 **Apps:**
+- Acorn
 - Obsidian
-- Google Docs
-- Google Drive
-- Google Sheets
-- Google Slides
 - Notion
 - OmniDiskSweeper
 - Raindrop.io
@@ -49,8 +46,15 @@
 - KeePassXC
 - MuseScore 4
 - Picocrypt
+- qBittorent
+- Transcribe!
+
+**Epson:**
+- Epson Scan 2
+- Epson Scan 2 Utility
 
 **Games:**
+- Steam
 - Minecraft
 - Battle.Net:
 	- Starcraft 1
@@ -58,7 +62,7 @@
 ### work
 **Apps:**
 - ConnectWise Control Client ★
-- Keeper ★
+- Keeper Password Manager ★
 - Microsoft Teams
 - Postico 2
 - Postman
