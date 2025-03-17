@@ -13,13 +13,14 @@
 - Firefox:
 	- Ublock Origin
 	- Privacy Badger
+ 	- Firefox Multi Account Containers 
 	- Facebook Container
 	- SponsorBlock
 	- Youtube High Definition
 - Ungoogled Chromium - [setup](https://avoidthehack.com/how-to-install-configure-ungoogled-chromium)
 - Bitwarden
 - Spotify
-- Notion
+- Obsidian
 
 **Development:**
 - Docker
@@ -37,7 +38,6 @@
 ### leodube
 **Apps:**
 - Acorn
-- Obsidian
 - Notion
 - OmniDiskSweeper
 - Raindrop.io
