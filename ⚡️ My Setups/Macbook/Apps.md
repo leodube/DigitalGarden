@@ -25,6 +25,8 @@
 **Development:**
 - Docker
 - VSCode
+- DbVisualizer
+- Postman
 - Github Desktop (install git first)
 
 **Command Line:**
@@ -63,11 +65,7 @@
 **Apps:**
 - ConnectWise Control Client ★
 - Keeper Password Manager ★
-- Microsoft Teams
-- Postico 2
-- Postman
-- Microsoft Remote Desktop
+- Microsoft Remote Desktop ★
 - AnyConnect
-- DbVisualizer
 
 ★ Currently used for specific projects. Remove after completion
