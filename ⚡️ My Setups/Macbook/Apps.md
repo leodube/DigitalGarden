@@ -67,5 +67,7 @@
 - Postico 2
 - Postman
 - Microsoft Remote Desktop
+- AnyConnect
+- DbVisualizer
 
 ★ Currently used for specific projects. Remove after completion
