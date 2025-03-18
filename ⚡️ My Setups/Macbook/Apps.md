@@ -31,9 +31,7 @@
 
 **Command Line:**
 - Command Line Tools for Xcode
-- Java
-- nvm
-- yarn
+- Github CLI
 - [[⚡️ My Setups/Macbook/Homebrew List|Homebrew]]
 
 ## Users
@@ -60,7 +58,6 @@
 - Minecraft
 - Battle.Net:
 	- Starcraft 1
-
 ### work
 **Apps:**
 - ConnectWise Control Client ★
