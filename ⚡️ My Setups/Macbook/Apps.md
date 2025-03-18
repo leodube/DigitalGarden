@@ -13,7 +13,7 @@
 - Firefox:
 	- Ublock Origin
 	- Privacy Badger
- 	- Firefox Multi Account Containers 
+	- Firefox Multi Account Containers 
 	- Facebook Container
 	- SponsorBlock
 	- Youtube High Definition
