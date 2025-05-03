@@ -70,7 +70,7 @@ The most interesting part of the methods section is the *video-recording & analy
 
 ### Exertion and Efficiency
 - The hypothesis that more experienced tree planters would spend a smaller proportion of time per tree than less experienced tree planters was rejected.
-- It could be concluded that more experienced tree planters have increased the rate at which they perform both tasks equally: that experienced workers are equally faster at the mechanics of planting each tree and at the skill of microsite selec- tion between each tree in comparison to less experi- enced workers, and that improvements in productivity therefore require skill in each of these tasks.
+- It could be concluded that more experienced tree planters have increased the rate at which they perform both tasks equally: that experienced workers are equally faster at the mechanics of planting each tree and at the skill of microsite selection between each tree in comparison to less experienced workers, and that improvements in productivity therefore require skill in each of these tasks.
 
 ## Conclusion
 The findings of this study indicate that productivity amongst tree planters is achieved through increased exertion and increased efficiency. 
