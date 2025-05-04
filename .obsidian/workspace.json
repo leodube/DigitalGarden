@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cardetailing",
+                "query": "piece",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,7 +221,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "053b0f543fd5d29f",
+  "active": "075867440d7b1777",
   "lastOpenFiles": [
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
     "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
