@@ -1,4 +1,4 @@
-# `node_modules` symlink
+# Node Modules Symlink
 This is useful for code that is saved to iCloud. Note: Remember to update `.gitignore`
 
 ```bash

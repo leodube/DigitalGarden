@@ -1,5 +1,5 @@
 # Factory Pattern
-#java #pattern
+#java 
 
 For this use case, we want to combine the first letter of the make, the first letter of the model, and the year for a given vehicle to create a vehicle code. Rather than call a method inside a constructor:
 

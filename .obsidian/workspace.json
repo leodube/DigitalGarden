@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/!yarn/migrate-to-yarn2.md",
+                "file": "⚡️ My Setups/Macbook/Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "migrate-to-yarn2"
+              "title": "Apps"
             }
           },
           {
@@ -219,8 +219,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ccd2cc2d660c75c6",
+  "active": "7965948d636f94d1",
   "lastOpenFiles": [
+    "Dungeons and Dragons",
+    "✂️ Snippets/node/Node Modules Symlink.md",
+    "✂️ Snippets/!dotnet/ef-migration.md",
+    "✂️ Snippets/java/Factory Pattern.md",
+    "✂️ Snippets/!netlify/fix-react-scripts-not-found.md",
+    "✂️ Snippets/!node/use-latest-version.md",
+    "✂️ Snippets/!node/package.json.md",
+    "✂️ Snippets/!node/nosync-script.md",
+    "✂️ Snippets/yarn/Switch to Plug-n-Play.md",
+    "✂️ Snippets/yarn/Migrate to Yarn 2.md",
     "✂️ Snippets/git/Remove Cached File.md",
     "✂️ Snippets/vscode/tasks.json.md",
     "✂️ Snippets/python/create-virtualenv.sh.md",
@@ -237,24 +247,14 @@
     "✂️ Snippets/bash/convert-mov-to-mp4.sh.md",
     "🐞 Debug Stories/Firefox.md",
     "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
-    "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
-    "📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers.md",
-    "📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
-    "⚡️ My Setups/Macbook/Homebrew List.md",
     "✂️ Snippets/vscode",
-    "✂️ Snippets/python/deactivate-virtualenv.sh.md",
     "✂️ Snippets/python",
     "✂️ Snippets/github",
     "✂️ Snippets/git",
     "✂️ Snippets/docker",
     "✂️ Snippets/bash",
-    "✂️ Snippets/!yarn/switch-to-pnp.md",
-    "✂️ Snippets/!yarn/migrate-to-yarn2.md",
-    "✂️ Snippets/!yarn",
-    "✂️ Snippets/!node/use-latest-version.md",
-    "✂️ Snippets/!node/nosync-script.md",
-    "✂️ Snippets/!node/package.json.md",
-    "✂️ Snippets/!node",
+    "✂️ Snippets/yarn",
+    "✂️ Snippets/node",
     "✂️ Snippets/!netlify",
     "✂️ Snippets/!jsdoc/common-use-cases",
     "Screenshot 2024-01-26 at 8.34.32 PM.png",

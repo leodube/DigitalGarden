@@ -46,7 +46,7 @@
 - KeePassXC
 - MuseScore 4
 - Picocrypt
-- qBittorent
+- qBittorent/Transmission
 - Transcribe!
 
 **Epson:**

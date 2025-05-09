@@ -1,4 +1,4 @@
-# Migrate to yarn 2
+# Migrate to Yarn 2
 See: https://yarnpkg.com/getting-started/migration
 
 1.  Run `npm install -g yarn` to update the global yarn version to latest v1
