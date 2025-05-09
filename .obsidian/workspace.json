@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐉 DnD/Lost Mines of Phandelver/5. Cragmaw Castle.md",
+                "file": "🐉 DnD/Lost Mines of Phandelver/6. Thundertree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Cragmaw Castle"
+              "title": "6. Thundertree"
             }
           },
           {
@@ -221,10 +221,11 @@
   },
   "active": "ccd2cc2d660c75c6",
   "lastOpenFiles": [
-    "🐉 DnD/Lost Mines of Phandelver/4. Thundertree.md",
-    "🐉 DnD/Lost Mines of Phandelver/5. Cragmaw Castle.md",
-    "🐉 DnD/Lost Mines of Phandelver/2. Defeating the Redbrands.md",
+    "🐉 DnD/Lost Mines of Phandelver/6. Cragmaw Castle.md",
     "🐉 DnD/Lost Mines of Phandelver/3. A banshee, a necromancer, and plenty of orcs.md",
+    "🐉 DnD/Lost Mines of Phandelver/4. Showdown with Glasstaff.md",
+    "🐉 DnD/Lost Mines of Phandelver/6. Thundertree.md",
+    "🐉 DnD/Lost Mines of Phandelver/2. Defeating the Redbrands.md",
     "🐉 DnD/NPCs.md",
     "🐉 DnD/Lost Mines of Phandelver/1. Saving Sildar Hallwinter.md",
     "🐉 DnD/Places.md",
@@ -248,7 +249,6 @@
     "✂️ Snippets/github/codeql.yml.md",
     "✂️ Snippets/git/yarn2.gitignore.md",
     "✂️ Snippets/git/Create New Repo.md",
-    "✂️ Snippets/git/python.gitignore.md",
     "✂️ Snippets/vscode",
     "✂️ Snippets/python",
     "✂️ Snippets/github",
