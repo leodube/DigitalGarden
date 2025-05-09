@@ -65,5 +65,7 @@
     "workspace:close-others-tab-group": 8,
     "file-explorer:new-folder": 1
   },
-  "keyboardStatistics": {}
+  "keyboardStatistics": {
+    "app:open-settings": 1
+  }
 }

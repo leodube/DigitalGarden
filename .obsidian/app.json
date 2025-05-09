@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
   "newLinkFormat": "absolute",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "spellcheck": false
 }
