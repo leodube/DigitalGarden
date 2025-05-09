@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐉 DnD/Places.md",
+                "file": "🐉 DnD/NPCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Places"
+              "title": "NPCs"
             }
           },
           {
@@ -221,10 +221,12 @@
   },
   "active": "ccd2cc2d660c75c6",
   "lastOpenFiles": [
+    "🐉 DnD/Places.md",
     "🐉 DnD/NPCs.md",
+    "🐉 DnD/Lost Mines of Phandelver/2. Defeating the Redbrands.md",
+    "🐉 DnD/Lost Mines of Phandelver/1. Saving Sildar Hallwinter.md",
     "🐉 DnD/Lost Mines of Phandelver",
     "🐉 DnD/Quests.md",
-    "🐉 DnD/Places.md",
     "⚡️ My Setups/Macbook/Apps.md",
     "🐉 DnD",
     "✂️ Snippets/node/Node Modules Symlink.md",
@@ -247,7 +249,6 @@
     "✂️ Snippets/docker/Interact with RCON.md",
     "✂️ Snippets/bash/Create Simlink.md",
     "✂️ Snippets/bash/Run .command file.md",
-    "✂️ Snippets/csharp/ApiContext.md",
     "✂️ Snippets/vscode",
     "✂️ Snippets/python",
     "✂️ Snippets/github",
