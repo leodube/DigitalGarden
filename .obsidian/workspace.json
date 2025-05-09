@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/bash/convert-mov-to-mp4.sh.md",
+                "file": "✂️ Snippets/bash/create-symlink.sh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "convert-mov-to-mp4.sh"
+              "title": "create-symlink.sh"
             }
           }
         ],
@@ -222,8 +222,8 @@
   },
   "active": "053b0f543fd5d29f",
   "lastOpenFiles": [
-    "✂️ Snippets/bash/create-symlink.sh.md",
     "✂️ Snippets/bash/convert-mov-to-mp4.sh.md",
+    "✂️ Snippets/bash/create-symlink.sh.md",
     "🐞 Debug Stories/Firefox.md",
     "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
