@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "✂️ Snippets/!yarn/migrate-to-yarn2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apps"
+              "title": "migrate-to-yarn2"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✂️ Snippets/bash/create-symlink.sh.md",
+                "file": "✂️ Snippets/bash/Create Simlink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create-symlink.sh"
+              "title": "Create Simlink"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,33 +219,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "053b0f543fd5d29f",
+  "active": "ccd2cc2d660c75c6",
   "lastOpenFiles": [
+    "✂️ Snippets/git/Remove Cached File.md",
+    "✂️ Snippets/vscode/tasks.json.md",
+    "✂️ Snippets/python/create-virtualenv.sh.md",
+    "✂️ Snippets/python/activate-virtualenv.sh.md",
+    "✂️ Snippets/github/codeql.yml.md",
+    "✂️ Snippets/git/yarn2.gitignore.md",
+    "✂️ Snippets/git/Create New Repo.md",
+    "✂️ Snippets/git/python.gitignore.md",
+    "✂️ Snippets/docker/Interact with RCON.md",
+    "✂️ Snippets/bash/Create Simlink.md",
+    "✂️ Snippets/bash/Run .command file.md",
+    "✂️ Snippets/csharp/ApiContext.md",
+    "⚡️ My Setups/Macbook/Apps.md",
     "✂️ Snippets/bash/convert-mov-to-mp4.sh.md",
-    "✂️ Snippets/bash/create-symlink.sh.md",
     "🐞 Debug Stories/Firefox.md",
     "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
     "📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers.md",
     "📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
     "⚡️ My Setups/Macbook/Homebrew List.md",
-    "⚡️ My Setups/Macbook/Apps.md",
-    "✂️ Snippets/vscode/tasks.json.md",
     "✂️ Snippets/vscode",
     "✂️ Snippets/python/deactivate-virtualenv.sh.md",
-    "✂️ Snippets/python/create-virtualenv.sh.md",
-    "✂️ Snippets/python/activate-virtualenv.sh.md",
     "✂️ Snippets/python",
-    "✂️ Snippets/github/codeql.yml.md",
     "✂️ Snippets/github",
-    "✂️ Snippets/git/yarn2.gitignore.md",
-    "✂️ Snippets/git/remove-cached.sh.md",
-    "✂️ Snippets/git/python.gitignore.md",
-    "✂️ Snippets/git/create-new-repo.sh.md",
     "✂️ Snippets/git",
-    "✂️ Snippets/docker/Interact with RCON.md",
     "✂️ Snippets/docker",
-    "✂️ Snippets/bash/run-command.sh.md",
     "✂️ Snippets/bash",
     "✂️ Snippets/!yarn/switch-to-pnp.md",
     "✂️ Snippets/!yarn/migrate-to-yarn2.md",
@@ -254,7 +254,6 @@
     "✂️ Snippets/!node/use-latest-version.md",
     "✂️ Snippets/!node/nosync-script.md",
     "✂️ Snippets/!node/package.json.md",
-    "✂️ Snippets/!node/node_modules-symlink.md",
     "✂️ Snippets/!node",
     "✂️ Snippets/!netlify",
     "✂️ Snippets/!jsdoc/common-use-cases",

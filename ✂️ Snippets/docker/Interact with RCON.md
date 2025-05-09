@@ -1,4 +1,5 @@
-#docker #rcon #sh 
+# Interact with RCON
+#docker 
 
 ```bash
 docker exec -i mc rcon-cli
