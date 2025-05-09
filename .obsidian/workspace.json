@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡️ My Setups/Macbook/Apps.md",
+                "file": "🐉 DnD/Places.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apps"
+              "title": "Places"
             }
           },
           {
@@ -219,9 +219,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7965948d636f94d1",
+  "active": "ccd2cc2d660c75c6",
   "lastOpenFiles": [
-    "Dungeons and Dragons",
+    "🐉 DnD/NPCs.md",
+    "🐉 DnD/Lost Mines of Phandelver",
+    "🐉 DnD/Quests.md",
+    "🐉 DnD/Places.md",
+    "⚡️ My Setups/Macbook/Apps.md",
+    "🐉 DnD",
     "✂️ Snippets/node/Node Modules Symlink.md",
     "✂️ Snippets/!dotnet/ef-migration.md",
     "✂️ Snippets/java/Factory Pattern.md",
@@ -243,10 +248,6 @@
     "✂️ Snippets/bash/Create Simlink.md",
     "✂️ Snippets/bash/Run .command file.md",
     "✂️ Snippets/csharp/ApiContext.md",
-    "⚡️ My Setups/Macbook/Apps.md",
-    "✂️ Snippets/bash/convert-mov-to-mp4.sh.md",
-    "🐞 Debug Stories/Firefox.md",
-    "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
     "✂️ Snippets/vscode",
     "✂️ Snippets/python",
     "✂️ Snippets/github",
@@ -255,8 +256,6 @@
     "✂️ Snippets/bash",
     "✂️ Snippets/yarn",
     "✂️ Snippets/node",
-    "✂️ Snippets/!netlify",
-    "✂️ Snippets/!jsdoc/common-use-cases",
     "Screenshot 2024-01-26 at 8.34.32 PM.png",
     "Screenshot 2024-01-26 at 8.34.32 PM.png"
   ]
