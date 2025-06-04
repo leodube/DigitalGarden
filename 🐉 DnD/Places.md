@@ -1,4 +1,4 @@
-# Places
+# Towns
 
 ## Sword Coast
 ### Phandalin

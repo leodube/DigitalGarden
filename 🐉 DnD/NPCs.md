@@ -9,9 +9,5 @@
 - **Sister Garaele:** Cleric of Tymora, member of the Harper's
 - **Daran Edermath:** Member of the Order of the Gauntlet
 - **Harbin Wester:** Townmaster
+- **Quelline Alderleaf:** Silas' aunt
 - **Adabra:** Alchemist who lives on outskirts of town
-
-## Enemies
-### Defeated
-- Iarno Albreck (Glasstaff)
-- Kale emberlock
