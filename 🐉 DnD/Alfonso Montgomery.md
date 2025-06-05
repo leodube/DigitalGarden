@@ -39,18 +39,13 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 
 ---
 ###### Chill Touch (necromancy)
-Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes ldlo Necrotic damage, and it can't regain Hit Points until the end of your next turn.
+Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 ***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 ---
 ###### Fire Bolt (evocation)
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
 **Cantrip Upgrade**. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (5d10), and 17 (4d10).
-
----
-###### Poison Spray (necromancy)
-You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
-***Cantrip Upgrade***. The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
 ---
 ###### Shocking Grasp (evocation)
