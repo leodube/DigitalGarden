@@ -27,11 +27,6 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 You hurl a mote offire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
 **Cantrip Upgrade**. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (5d10), and 17 (4d10).
 
-- Light
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
 - Poison Spray
 - Prestidigitation
 - Ray of Frost
@@ -70,12 +65,6 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
 
-- Identify
-- Illusory Script
-- Jump
-- Longstrider
-- Mage Armor
-- Magic Missile
 - Protection from Evil and Good
 - Ray of Sickness
 - Shield
@@ -91,16 +80,15 @@ When the grease appears, each creature standing in its area must succeed on a De
 ###### Blur (illusion, concentration)
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
 
-- Hold Person
-- Invisibility
-- Knock
-- Levitate
-- Locate Object
-- Magic Mouth
-- Magic Weapon
-- Melf's Acid Arrow
-- Mirror Image
-- Misty Step
+###### Hold Person (enchantment, concentration)
+Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+***Using a Higher-Level Spell Slot***. You can target one additional Humanoid for each spell slot level above 2.
+
+###### Mirror Image (illusion)
+Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
+Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
+A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
+
 - Nystul's Magic Aura
 - Phantasmal Force
 - Ray of Enfeeblement
