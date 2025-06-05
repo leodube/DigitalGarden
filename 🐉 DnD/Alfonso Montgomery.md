@@ -65,8 +65,8 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 **Range**: 120 feet
 **Components**: V, S
 **Duration**: Instantaneous
-Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
-***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
+You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
+***Cantrip Upgrade***. The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ---
 ###### Fire Bolt
