@@ -16,6 +16,10 @@ A feat represents a talent or an area of expertise that gives a character specia
 At certain leveIs, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
 You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite.
 
+###### Great Weapon Master
+You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. Ift he attack hits, you add +10 to the attack's damage.
 ###### Tough
 ###### War Caster
 
