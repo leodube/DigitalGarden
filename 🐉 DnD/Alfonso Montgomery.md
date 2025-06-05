@@ -1,6 +1,6 @@
 # Alfonso Montgomery
 
-
+- As a noble, how did Alfie come to be a fighter?
 ## Eldritch Knight Martial Archetype
 
 https://arcaneeye.com/class-guides/eldritch-knight-5e-guide/
