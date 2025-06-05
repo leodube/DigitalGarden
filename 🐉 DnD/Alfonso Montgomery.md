@@ -18,49 +18,60 @@ Some spells and other effects require Concentration to remain active, as specifi
 
 #### List
 ##### Cantrips (0 level)
-###### Acid Splash (conjuration)
+---
+###### Acid Splash
+*Conjuration*
+**Casting Time**: Action
+**Range**: 60 feet
+**Components**: V, S
+**Duration**: Instantaneous
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 ***Cantrip Upgrade***. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
-###### Blade Ward (abjuration, concentration)
+---
+###### Blade Ward 
+*Abjuration*
+**Casting Time**: Action
+**Range**: Self
+**Components**: V, S
+**Duration**: Concentration, up to 1 minute
 Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
 
+---
 ###### Chill Touch (necromancy)
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes ldlo Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 ***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
+---
 ###### Fire Bolt (evocation)
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
 **Cantrip Upgrade**. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (5d10), and 17 (4d10).
 
+---
 ###### Poison Spray (necromancy)
 You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 ***Cantrip Upgrade***. The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
+---
 ###### Shocking Grasp (evocation)
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 ***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (5d8), and 17 (4d8).
 
 ##### 1st Level
-###### Alarm (abjuration, ritual)
-You set an alarm against intrusion. Choose a door, a window or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
-***Audible Alarm***. The alarm produces the sound of
-a handbell for 10 seconds within 6O feet of the
-warded area.
-***Mental Alarm***. You are alerted by a mental ping
-if you are within l mile of the warded area. This
-ping awakens you if you're asleep.
-
+---
 ###### Color Spray (illusion)
 You launch adazzling array offlashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
 
+---
 ###### Expeditious Retreat (transmutation, concentration)
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
 
+---
 ###### False Life (necromancy)
 You gain 2d4 + 4 Temporary Hit Points.
 ***Using a Higher-Level Spell Slot***. You gain 5 additional Temporary Hit Points for each spell slot level above 1.
 
+---
 ###### Find Familiar (conjuration, ritual)
 You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see appendix B, 2024), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 ***Telepathic Connection***. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
@@ -71,10 +82,12 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 > Note: Owls don't provoke opportunity attacks
 
+---
 ###### Grease (conjuration)
 Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
 
+---
 ###### Protection from Evil and Good 
 *Abjuration*
 **Casting Time**: Action
@@ -83,9 +96,11 @@ When the grease appears, each creature standing in its area must succeed on a De
 **Duration**: Concentration up to l0 minutes
 Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
 
+---
 ###### Shield (abjuration, reaction)
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
 
+---
 ###### Witch Bolt (evocation, concentration)
 A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.
 On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Lightning damage to the target automatically, even if the first attack missed.
@@ -93,15 +108,22 @@ The spell ends if the target is ever outside the spell's range or if it has Tota
 ***Using a Higher-Level Spell Slot***. The initial damage increases by 1d12 for each spell slot level above 1.
 
 ##### 2nd Level
+---
 ###### Blur (illusion, concentration)
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
+
+---
 ###### Hold Person (enchantment, concentration)
 Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 ***Using a Higher-Level Spell Slot***. You can target one additional Humanoid for each spell slot level above 2.
+
+---
 ###### Mirror Image (illusion)
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
+
+---
 ###### Shatter (evocation)
 A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
