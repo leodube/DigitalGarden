@@ -5,9 +5,10 @@
 
 https://arcaneeye.com/class-guides/eldritch-knight-5e-guide/
 https://rpgbot.net/dnd5/characters/classes/fighter/subclasses/eldritch-knight/
+https://forums.giantitp.com/showthread.php?479532-Bellator-Arcana-The-Eldritch-Knight-s-guide
 
 - Focus on defense based spells to negate need for high INT.
-- Check out Sentinel/War Caster feats
+- Check out War Caster feat
 - Throwable bound weapon 
 ### Spells
 #### Concentration
