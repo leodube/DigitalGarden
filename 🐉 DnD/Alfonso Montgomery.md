@@ -4,7 +4,11 @@
 ## Eldritch Knight Martial Archetype
 
 ### Spells
-#### Cantrips (0 level)
+
+#### Concentration
+
+#### List
+##### Cantrips (0 level)
 - Acid Splash (conjuration)
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 Cantrip *Upgrade*: The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
@@ -27,7 +31,7 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 - Shocking Grasp
 - True Strike
 
-#### 1st Level
+##### 1st Level
 - Alarm (abjuration, ritual)
 You set an alarm against intrusion. Choose a door, a window or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
 *Audible Alarm*. The alarm produces the sound of
@@ -67,7 +71,7 @@ ping awakens you if you're asleep.
 - Unseen Servant
 - Witch Bolt
 
-#### 2nd Level
+##### 2nd Level
 - Blur (illusion, concentration)
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
 
