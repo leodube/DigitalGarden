@@ -126,6 +126,17 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
 
 ---
+###### Darkness
+*Evocation*
+**Casting Time**: Action
+**Range**: 60 feet
+**Components**: V, M (bat fur and a piece of coal)
+**Duration**: Concentration, up to 10 minutes
+For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can't see through it, and nonmagical light can't illuminate it.
+Alternatively, you cast the spell on an object that isn't being worn or carried, causing the Darkness to fill a 15-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the Darkness.
+If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
+
+---
 ###### Hold Person (enchantment, concentration)
 Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 ***Using a Higher-Level Spell Slot***. You can target one additional Humanoid for each spell slot level above 2.
