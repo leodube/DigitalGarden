@@ -81,10 +81,6 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 
 ##### 1st Level
 ---
-###### Color Spray (illusion)
-You launch adazzling array offlashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
-
----
 ###### Expeditious Retreat (transmutation, concentration)
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
 
@@ -121,13 +117,6 @@ Until the spell ends, one willing creature you touch is protected against creatu
 ---
 ###### Shield (abjuration, reaction)
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
-
----
-###### Witch Bolt (evocation, concentration)
-A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.
-On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Lightning damage to the target automatically, even if the first attack missed.
-The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
-***Using a Higher-Level Spell Slot***. The initial damage increases by 1d12 for each spell slot level above 1.
 
 ##### 2nd Level
 ---
