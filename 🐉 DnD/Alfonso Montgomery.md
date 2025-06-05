@@ -3,6 +3,7 @@
 
 ## Eldritch Knight Martial Archetype
 
+https://arcaneeye.com/class-guides/eldritch-knight-5e-guide/
 - Focus on defense based spells to negate need for high INT.
 - Check out Sentinel/War Caster feats
 - Throwable bound weapon 
