@@ -27,9 +27,10 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 You hurl a mote offire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
 **Cantrip Upgrade**. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (5d10), and 17 (4d10).
 
-- Poison Spray
-- Prestidigitation
-- Ray of Frost
+###### Poison Spray (necromancy)
+You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
+***Cantrip Upgrade***. The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
+
 - Shocking Grasp
 - True Strike
 
@@ -65,8 +66,6 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
 
-- Protection from Evil and Good
-- Ray of Sickness
 - Shield
 - Silent Image
 - Sleep
@@ -89,13 +88,12 @@ Three illusory duplicates of yourself appear in your space. Until the spell ends
 Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
 
-- Nystul's Magic Aura
-- Phantasmal Force
-- Ray of Enfeeblement
-- Rope Trick
-- Scorching Ray
-- See Invisibility
-- Shatter
+
+###### Shatter (evocation)
+A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+***Using a Higher-Level Spell SIot***. The damage increases by 1d8 for each spell slot level above 2.
+
 - Spider Climb
 - Suggestion
 - Web
