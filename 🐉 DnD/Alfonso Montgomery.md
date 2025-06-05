@@ -59,16 +59,6 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 ***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 ---
-###### Eldritch Blast
-*Evocation*
-**Casting Time**: Action
-**Range**: 120 feet
-**Components**: V, S
-**Duration**: Instantaneous
-You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
-***Cantrip Upgrade***. The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
-
----
 ###### Fire Bolt
 *Evocation*
 **Casting Time**: Action
@@ -106,7 +96,7 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 *Evocation*
 **Casting Time**: Action
 **Range**: 90 feet
-**Components**: V, S, M (a diamond worth 50+ CP)
+**Components**: V, S, M (a diamond worth 50+ GP)
 **Duration**: Instantaneous
 You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder for the type of orb you create, and then make a ranged spell attack against the target. On a hit, the target takes 3d8 damage of the chosen type.
 If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice within 50 feet of the target. Make an attack roll against the new target, and make a new damage roll. The orb can't leap again unless you cast the spell with a level 2+ spell slot.
