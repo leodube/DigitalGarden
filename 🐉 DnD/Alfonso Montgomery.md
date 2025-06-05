@@ -10,6 +10,11 @@ https://forums.giantitp.com/showthread.php?479532-Bellator-Arcana-The-Eldritch-K
 - Focus on defense based spells to negate need for high INT.
 - Check out War Caster feat
 - Throwable bound weapon 
+
+### Feats
+A feat represents a talent or an area of expertise that gives a character special capabilities. lt embodies training, experience, and abilities beyond what a class provides.
+At certain leveIs, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite.
 ### Spells
 #### Concentration
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
