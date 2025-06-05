@@ -51,8 +51,15 @@ warded area.
 if you are within l mile of the warded area. This
 ping awakens you if you're asleep.
 
+###### Color Spray (illusion)
+You launch adazzling array offlashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
+
 ###### Expeditious Retreat (transmutation, concentration)
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
+
+###### False Life (necromancy)
+You gain 2d4 + 4 Temporary Hit Points.
+***Using a Higher-Level Spell Slot***. You gain 5 additional Temporary Hit Points for each spell slot level above 1.
 
 ###### Find Familiar (conjuration, ritual)
 You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see appendix B, 2024), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
@@ -63,6 +70,18 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 ***One Familiar Only***. You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 
 > Note: Owls don't provoke opportunity attacks
+
+###### Grease (conjuration)
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
+
+###### Protection from Evil and Good 
+*Abjuration*
+**Casting Time**: Action
+**Range**: Touch
+**Components**: V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)
+**Duration**: Concentration up to l0 minutes
+Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
 
 ###### Shield (abjuration, reaction)
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
@@ -76,6 +95,9 @@ The spell ends if the target is ever outside the spell's range or if it has Tota
 ##### 2nd Level
 ###### Blur (illusion, concentration)
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
+###### Hold Person (enchantment, concentration)
+Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+***Using a Higher-Level Spell Slot***. You can target one additional Humanoid for each spell slot level above 2.
 ###### Mirror Image (illusion)
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
