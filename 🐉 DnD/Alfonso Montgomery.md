@@ -101,11 +101,6 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 > Note: Owls don't provoke opportunity attacks
 
 ---
-###### Grease (conjuration)
-Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
-
----
 ###### Protection from Evil and Good 
 *Abjuration*
 **Casting Time**: Action
@@ -115,7 +110,12 @@ When the grease appears, each creature standing in its area must succeed on a De
 Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
 
 ---
-###### Shield (abjuration, reaction)
+###### Shield
+*Abjuration*
+**Casting Time**: Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spelI
+**Range**: Self
+**Components**: V, S
+**Duration**: 1 round
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
 
 ##### 2nd Level
