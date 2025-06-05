@@ -23,9 +23,10 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes ldlo Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 ***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
-- Dancing Lights
-- Fire Bolt
-- Friends
+###### Fire Bolt (evocation)
+You hurl a mote offire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
+**Cantrip Upgrade**. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (5d10), and 17 (4d10).
+
 - Light
 - Mage Hand
 - Mending
@@ -57,9 +58,18 @@ You take the Dash action, and until the spell ends, you can take that action aga
 You gain 2d4 + 4 Temporary Hit Points.
 ***Using a Higher-Level Spell Slot***. You gain 5 additional Temporary Hit Points for each spell slot level above 1.
 
-- Find Familiar
-- Fog Cloud
-- Grease
+###### Find Familiar (conjuration, ritual)
+You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see appendix B, 2024), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
+***Telepathic Connection***. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a Reaction to deliver the touch when you cast the spell.
+***Combat***. The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+***Disappearance of the Familiar***. When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+***One Familiar Only***. You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
+
+###### Grease (conjuration)
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
+
 - Identify
 - Illusory Script
 - Jump
@@ -81,9 +91,6 @@ You gain 2d4 + 4 Temporary Hit Points.
 ###### Blur (illusion, concentration)
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
 
-- Flaming Sphere
-- Gentle Repose
-- Gust of Wind
 - Hold Person
 - Invisibility
 - Knock
