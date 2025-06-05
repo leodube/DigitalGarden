@@ -31,7 +31,10 @@ You hurl a mote offire at a creature or an object within range. Make a ranged sp
 You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 ***Cantrip Upgrade***. The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
-- Shocking Grasp
+###### Shocking Grasp (evocation)
+Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
+***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (5d8), and 17 (4d8).
+
 - True Strike
 
 ##### 1st Level
@@ -66,34 +69,23 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
 
-- Shield
-- Silent Image
-- Sleep
-- Tasha's Hideous Laughter
-- Tenser's Floating Disk
-- Thunderwave
+###### Shield (abjuration, reaction)
+An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
+
 - Unseen Servant
 - Witch Bolt
 
 ##### 2nd Level
 ###### Blur (illusion, concentration)
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
-
 ###### Hold Person (enchantment, concentration)
 Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 ***Using a Higher-Level Spell Slot***. You can target one additional Humanoid for each spell slot level above 2.
-
 ###### Mirror Image (illusion)
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
-
-
 ###### Shatter (evocation)
 A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 ***Using a Higher-Level Spell SIot***. The damage increases by 1d8 for each spell slot level above 2.
-
-- Spider Climb
-- Suggestion
-- Web
