@@ -50,9 +50,13 @@ ping awakens you if you're asleep.
 ###### Color Spray (illusion)
 You launch adazzling array offlashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
 
-- Expeditious Retreat
-- False Life
-- Feather Fall
+###### Expeditious Retreat (transmutation, concentration)
+You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
+
+###### False Life (necromancy)
+You gain 2d4 + 4 Temporary Hit Points.
+***Using a Higher-Level Spell Slot***. You gain 5 additional Temporary Hit Points for each spell slot level above 1.
+
 - Find Familiar
 - Fog Cloud
 - Grease
@@ -77,7 +81,6 @@ You launch adazzling array offlashing, colorful light. Each creature in a 15-foo
 ###### Blur (illusion, concentration)
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
 
-- Enlarge/Reduce
 - Flaming Sphere
 - Gentle Repose
 - Gust of Wind
