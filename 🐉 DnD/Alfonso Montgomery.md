@@ -27,8 +27,13 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 - Creatures within 5 feet of you provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 - When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 ###### Tough
-###### War Caster
+Your hit point maximum increases by an amount equal to twice your leveI when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
+###### War Caster
+You have practised casting spells in the midst of combat, learning techniques that grant you the following benefits:
+- You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+- You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+- When a hostile creature's movement provokes an opportunily attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have casting time of 1 action and must target only that creature.
 
 ### Spells
 #### Concentration
