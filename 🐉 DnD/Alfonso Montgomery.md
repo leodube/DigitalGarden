@@ -122,7 +122,12 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 
 ##### 2nd Level
 ---
-###### Blur (illusion, concentration)
+###### Blur
+*Illusion*
+**Casting Time**: Action
+**Range**: Self
+**Components**: V
+**Duration**: Concentration, up to 1 minute
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it per-ceives you with Blindsight or Truesight.
 
 ---
@@ -137,12 +142,22 @@ Alternatively, you cast the spell on an object that isn't being worn or carried,
 If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
 
 ---
-###### Hold Person (enchantment, concentration)
+###### Hold Person
+*Enchantment*
+**Casting Time**: Action
+**Range**: 50 feet
+**Components**: V, S, M (a straight piece of iron)
+**Duration**: Concentration, up to 1 minute
 Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 ***Using a Higher-Level Spell Slot***. You can target one additional Humanoid for each spell slot level above 2.
 
 ---
-###### Mirror Image (illusion)
+###### Mirror Image
+*Illusion*
+**Casting Time**: Action
+**Range**: Self
+**Components**: V, S
+**Duration**: 1 minute
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
