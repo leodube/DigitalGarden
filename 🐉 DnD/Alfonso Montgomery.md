@@ -35,8 +35,6 @@ You spray toxic mist at a creature within range. Make a ranged spell attack agai
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 ***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (5d8), and 17 (4d8).
 
-- True Strike
-
 ##### 1st Level
 ###### Alarm (abjuration, ritual)
 You set an alarm against intrusion. Choose a door, a window or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
@@ -72,7 +70,6 @@ When the grease appears, each creature standing in its area must succeed on a De
 ###### Shield (abjuration, reaction)
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
 
-- Unseen Servant
 - Witch Bolt
 
 ##### 2nd Level
