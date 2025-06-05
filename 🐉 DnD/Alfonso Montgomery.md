@@ -38,17 +38,44 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
 
 ---
-###### Chill Touch (necromancy)
+###### Chill Touch
+*Necromancy*
+**Casting Time**: Action
+**Range**: Touch
+**Components**: V, S
+**Duration**: Instantaneous
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 ***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 ---
-###### Fire Bolt (evocation)
+###### Fire Bolt
+*Evocation*
+**Casting Time**: Action
+**Range**: 120 feet
+**Components**: V, S
+**Duration**: I nstantaneous
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
 **Cantrip Upgrade**. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (5d10), and 17 (4d10).
 
 ---
-###### Shocking Grasp (evocation)
+###### Minor Illusion
+*Illusion*
+**Casting Time**: Action
+**Range**: 30 feet
+**Components**: S, M (a bit of fleece)
+**Duration**: 1 minute
+You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
+If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+**Sound**. lf you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
+**lmage**. If you create an image of an object - such as a chair, muddy footprints, or a small chest - it must be no larger than a 5-foot Cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
+
+---
+###### Shocking Grasp 
+*Evocation*
+**Casting Time**: Action
+**Range**: Touch
+**Components**: V, S
+**Duration**: Instantaneous
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 ***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (5d8), and 17 (4d8).
 
