@@ -26,6 +26,7 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 - When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
 - Creatures within 5 feet of you provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 - When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
+
 ###### Tough
 Your hit point maximum increases by an amount equal to twice your leveI when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
@@ -36,8 +37,6 @@ You have practised casting spells in the midst of combat, learning techniques th
 - When a hostile creature's movement provokes an opportunily attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have casting time of 1 action and must target only that creature.
 
 ### Spells
-
-#### Spellcasting
 
 #### Concentration
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
