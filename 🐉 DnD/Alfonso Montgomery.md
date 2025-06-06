@@ -3,12 +3,12 @@
 - As a noble, how did Alfie come to be a fighter?
 ## Eldritch Knight Martial Archetype
 
-https://arcaneeye.com/class-guides/eldritch-knight-5e-guide/
-https://rpgbot.net/dnd5/characters/classes/fighter/subclasses/eldritch-knight/
-https://forums.giantitp.com/showthread.php?479532-Bellator-Arcana-The-Eldritch-Knight-s-guide
+Useful guide:
+- [Eldritch Knight Arcan Guide](https://arcaneeye.com/class-guides/eldritch-knight-5e-guide/)
+- [Eldritch Knight Fighter Handbook: DnD 5e Subclass Guide](https://rpgbot.net/dnd5/characters/classes/fighter/subclasses/eldritch-knight/)
+- [Bellator Arcana: The Eldritch Knight's Guide](https://forums.giantitp.com/showthread.php?479532-Bellator-Arcana-The-Eldritch-Knight-s-guide)
 
 - Focus on defense based spells to negate need for high INT.
-- Check out War Caster feat
 - Throwable bound weapon 
 
 ### Feats
