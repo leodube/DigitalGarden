@@ -66,7 +66,7 @@ The most interesting part of the methods section is the *video-recording & analy
 - Experienced workers complete their bag-ups in approximately half the time of the inexperienced workers. 
 - Experienced tree planters work faster compared to inexperienced tree planters and the experienced workers don't require a greater working HR to achieve this greater productivity.
 - This may support the notion that these workers exert themselves to a given maximal sustainable effort regardless of the technical difficulty of the task. This maximal sustainable effort has been defined as critical power in a sporting context where human performance at or below critical power can be maintained indefinitely ([[📕 Reading/Scientific Papers/Sports/The Critical Power Concept|see more]]).
-- In an industry in which earnings vary directly with production, it is likely that workers find the maximal daily exertion level that is both tolerable and maintainable, and strive to achieve this level regardless of the precise natire of this work.
+- In an industry in which earnings vary directly with production, it is likely that workers find the maximal daily exertion level that is both tolerable and maintainable, and strive to achieve this level regardless of the precise nature of this work.
 
 ### Exertion and Efficiency
 - The hypothesis that more experienced tree planters would spend a smaller proportion of time per tree than less experienced tree planters was rejected.
