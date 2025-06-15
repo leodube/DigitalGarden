@@ -3,7 +3,7 @@
 
 ## Bug 
 
-While attempting to deply a Winforms Click Once application on a client machine running Windwos 10, the app would install correctly but running the app would not work. It had worked properly after installs on other Windows 10 machines
+While attempting to deply a Winforms Click Once application on a client machine running Windows 10, the app would install correctly but running the app would not work. It had worked properly after installs on other Windows 10 machines
 
 ## Solution
 1. Navigate to `C::\Users\<user>\AppData\Local\Apps\2.0\<obfuscated\directories>`

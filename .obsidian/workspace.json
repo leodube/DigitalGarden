@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
+                "file": "🎲 Random/Minecraft/Server Update.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Effects of 10 Weeks of Reforestation Work on Body Composition"
+              "title": "Server Update"
             }
           },
           {
@@ -221,6 +221,18 @@
   },
   "active": "ccd2cc2d660c75c6",
   "lastOpenFiles": [
+    "🎲 Random/Car Detailing/Rust Patch.md",
+    "🎲 Random/Car Detailing/Products.md",
+    "🎲 Random/Car Detailing/Paint.md",
+    "🎲 Random/Car Detailing/Interior.md",
+    "🎲 Random/Car Detailing/Exterior.md",
+    "🐞 Debug Stories/Firefox.md",
+    "🐞 Debug Stories/Go/Install Module with Replace Directive.md",
+    "🐞 Debug Stories/Go/Forking a Go Module.md",
+    "🐞 Debug Stories/C-Sharp/Winforms App MOTW Issue.md",
+    "📕 Reading/Scientific Papers/Sports/The Critical Power Concept.md",
+    "📕 Reading/Bookmarks.md",
+    "📕 Reading/Scientific Papers/Tree Planting/The Effects of 10 Weeks of Reforestation Work on Body Composition.md",
     "📕 Reading/Scientific Papers/Tree Planting/Physical Exertion and Working Efficiency of Reforestation Workers.md",
     "📕 Reading/Scientific Papers/Tree Planting/In-Season Physiological and Biochemical Status of Reforestation Workers.md",
     "📕 Reading/Scientific Papers/Tree Planting/Cardiovascular and muscular strain during a tree planting season among British Columbia silviculture workers.md",
@@ -235,20 +247,8 @@
     "🐉 DnD/Lost Mines of Phandelver/6. Cragmaw Castle.md",
     "🐉 DnD/Lost Mines of Phandelver/4. Showdown with Glasstaff.md",
     "🐉 DnD/Lost Mines of Phandelver/5. Thundertree.md",
-    "🐉 DnD/Lost Mines of Phandelver/3. A banshee, a necromancer, and plenty of orcs.md",
-    "🐉 DnD/Lost Mines of Phandelver/2. Defeating the Redbrands.md",
-    "🐉 DnD/Lost Mines of Phandelver/1. Saving Sildar Hallwinter.md",
     "🐉 DnD/Lost Mines of Phandelver",
-    "🐉 DnD/Quests.md",
-    "⚡️ My Setups/Macbook/Apps.md",
     "🐉 DnD",
-    "✂️ Snippets/node/Node Modules Symlink.md",
-    "✂️ Snippets/!dotnet/ef-migration.md",
-    "✂️ Snippets/java/Factory Pattern.md",
-    "✂️ Snippets/!netlify/fix-react-scripts-not-found.md",
-    "✂️ Snippets/!node/use-latest-version.md",
-    "✂️ Snippets/!node/package.json.md",
-    "✂️ Snippets/!node/nosync-script.md",
     "✂️ Snippets/vscode",
     "✂️ Snippets/python",
     "✂️ Snippets/github",
